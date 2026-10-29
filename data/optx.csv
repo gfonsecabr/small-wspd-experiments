@@ -1,0 +1,10 @@
+gen,n,seed,eps,algo,size,valid,time,info
+spiral,800,1,0.05,optx,17501,ok,431.288,optimal=1;lb=17501;start=17502;startMapped=17502;cols=665578;forced=17412;colDom=633172;rowDom=281712;components=5;largest=44;trivial=0;capHit=0
+spiral,800,2,0.05,optx,18022,ok,636.011,optimal=1;lb=18022;start=18022;startMapped=18022;cols=743577;forced=17866;colDom=711861;rowDom=281720;components=7;largest=131;trivial=0;capHit=0
+spiral,800,3,0.05,optx,18006,ok,641.892,optimal=1;lb=18006;start=18006;startMapped=18006;cols=715801;forced=17971;colDom=683106;rowDom=281425;components=6;largest=28;trivial=0;capHit=0
+spiral,900,1,0.05,optx,19795,ok,848.832,optimal=1;lb=19795;start=19795;startMapped=19795;cols=899422;forced=19724;colDom=862851;rowDom=364999;components=4;largest=49;trivial=0;capHit=0
+spiral,1000,3,0.05,optx,22800,ok,1392.09,optimal=1;lb=22800;start=22804;startMapped=22803;cols=1264460;forced=22474;colDom=1224968;rowDom=456862;components=11;largest=347;trivial=0;capHit=0
+spiral,900,3,0.05,optx,20246,ok,879.822,optimal=1;lb=20246;start=20248;startMapped=20247;cols=959965;forced=20072;colDom=923926;rowDom=364418;components=12;largest=87;trivial=0;capHit=0
+spiral,900,2,0.05,optx,20397,ok,905.5,optimal=1;lb=20397;start=20399;startMapped=20397;cols=1006505;forced=20356;colDom=969739;rowDom=363465;components=4;largest=30;trivial=0;capHit=0
+spiral,1000,1,0.05,optx,21740,ok,1012.73,optimal=1;lb=21740;start=21744;startMapped=21742;cols=1159968;forced=21468;colDom=1119867;rowDom=454264;components=4;largest=714;trivial=0;capHit=0
+spiral,1000,2,0.05,optx,22740,ok,1396.68,optimal=1;lb=22740;start=22740;startMapped=22740;cols=1392716;forced=22665;colDom=1353029;rowDom=455680;components=3;largest=95;trivial=0;capHit=0

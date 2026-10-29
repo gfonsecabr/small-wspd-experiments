@@ -1,0 +1,23 @@
+# external inputs (./get_deps.sh)
+deps/
+instances/
+# build products
+src/exp
+src/optx
+src/check_lb
+src/lb_swap
+three_d/src/exp3d
+three_d/src/check_lb3
+three_d/src/lb_swap3
+# your runs and generated outputs (tables and figures: analysis/, three_d/analysis/)
+runs/
+results/
+three_d/runs/
+__pycache__/
+# downloaded and converted scans (three_d/prep_scans.py)
+three_d/data/scans/
+# logs of local runs (they can contain local paths); the only log in the repository is three_d/data/run3d.log
+*.log
+*.out
+*.err
+!three_d/data/run3d.log

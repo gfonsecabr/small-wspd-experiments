@@ -1,0 +1,2690 @@
+2026-10-28 17:50:27 RUN 396 jobs, P = 10, MEM_GB = 70.0
+2026-10-28 17:50:27 START ls:ck:uniform_10000_1 (6.3 GB)
+2026-10-28 17:50:27 START ls:sweep:uniform_10000_1 (6.3 GB)
+2026-10-28 17:50:27 START ls:ck:uniform_10000_2 (6.3 GB)
+2026-10-28 17:50:27 START ls:ck:uniform_10000_3 (6.3 GB)
+2026-10-28 17:50:27 START ls:ck:gauss_10000_1 (6.3 GB)
+2026-10-28 17:50:27 START ls:sweep:gauss_10000_1 (6.3 GB)
+2026-10-28 17:50:27 START ls:sweep:uniform_10000_2 (6.3 GB)
+2026-10-28 17:50:27 START ls:sweep:uniform_10000_3 (6.3 GB)
+2026-10-28 17:50:27 START ls:ck:gauss_10000_2 (6.3 GB)
+2026-10-28 17:50:27 START ls:sweep:gauss_10000_2 (6.3 GB)
+2026-10-28 17:55:31 RUN 66 jobs, P = 1, MEM_GB = 20.0
+2026-10-28 17:55:31 START opt:uniform_1000_1 (12.3 GB)
+2026-10-28 17:55:32 OK opt:uniform_1000_1 1s peak=0.67GB 430976 optimal=1
+2026-10-28 17:55:32 START opt:uniform_1000_2 (12.3 GB)
+2026-10-28 17:55:34 OK opt:uniform_1000_2 2s peak=0.67GB 435567 optimal=1
+2026-10-28 17:55:34 START opt:uniform_1000_3 (12.3 GB)
+2026-10-28 17:55:35 OK opt:uniform_1000_3 2s peak=0.67GB 429906 optimal=1
+2026-10-28 17:55:35 START opt:gauss_1000_1 (12.3 GB)
+2026-10-28 17:55:37 OK opt:gauss_1000_1 1s peak=0.67GB 450904 optimal=1
+2026-10-28 17:55:37 START opt:gauss_1000_2 (12.3 GB)
+2026-10-28 17:55:38 OK opt:gauss_1000_2 2s peak=0.67GB 450647 optimal=1
+2026-10-28 17:55:38 START opt:gauss_1000_3 (12.3 GB)
+2026-10-28 17:55:40 OK opt:gauss_1000_3 1s peak=0.67GB 447170 optimal=1
+2026-10-28 17:55:40 START opt:cluster_1000_1 (12.3 GB)
+2026-10-28 17:56:14 OK opt:cluster_1000_1 35s peak=9.01GB 45857 optimal=1
+2026-10-28 17:56:14 START opt:cluster_1000_2 (12.3 GB)
+2026-10-28 17:56:52 OK opt:cluster_1000_2 38s peak=9.84GB 45002 optimal=1
+2026-10-28 17:56:52 START opt:cluster_1000_3 (12.3 GB)
+2026-10-28 17:57:26 OK opt:cluster_1000_3 34s peak=8.56GB 40731 optimal=1
+2026-10-28 17:57:26 START opt:grid_1000_1 (12.3 GB)
+2026-10-28 17:57:27 OK opt:grid_1000_1 1s peak=0.65GB 499500 optimal=1
+2026-10-28 17:57:27 START opt:grid_1000_2 (12.3 GB)
+2026-10-28 17:57:28 OK opt:grid_1000_2 1s peak=0.65GB 499500 optimal=1
+2026-10-28 17:57:28 START opt:grid_1000_3 (12.3 GB)
+2026-10-28 17:57:29 OK opt:grid_1000_3 1s peak=0.65GB 499500 optimal=1
+2026-10-28 17:57:29 START opt:spiral_1000_1 (12.3 GB)
+2026-10-28 18:07:25 OK ls:ck:uniform_10000_2 1018s peak=5.14GB 22667395
+2026-10-28 18:07:25 START ls:ck:gauss_10000_3 (6.3 GB)
+2026-10-28 18:07:26 OK ls:ck:uniform_10000_1 1019s peak=5.13GB 22521220
+2026-10-28 18:07:26 START ls:sweep:gauss_10000_3 (6.3 GB)
+2026-10-28 18:07:26 OK ls:ck:uniform_10000_3 1019s peak=5.11GB 22329428
+2026-10-28 18:07:26 START ls:ck:cluster_10000_1 (6.3 GB)
+2026-10-28 18:07:27 OK ls:ck:gauss_10000_1 1020s peak=5.52GB 26457517
+2026-10-28 18:07:27 START ls:sweep:cluster_10000_1 (6.3 GB)
+2026-10-28 18:07:28 OK ls:ck:gauss_10000_2 1021s peak=5.54GB 26472624
+2026-10-28 18:07:28 START ls:ck:cluster_10000_2 (6.3 GB)
+2026-10-28 18:08:28 OK ls:sweep:uniform_10000_3 1081s peak=4.48GB 22329203
+2026-10-28 18:08:28 START ls:sweep:cluster_10000_2 (6.3 GB)
+2026-10-28 18:08:28 OK ls:sweep:uniform_10000_1 1081s peak=4.50GB 22521098
+2026-10-28 18:08:28 START ls:ck:cluster_10000_3 (6.3 GB)
+2026-10-28 18:08:30 OK ls:sweep:uniform_10000_2 1083s peak=4.51GB 22667145
+2026-10-28 18:08:30 START ls:sweep:cluster_10000_3 (6.3 GB)
+2026-10-28 18:08:35 OK ls:sweep:gauss_10000_1 1087s peak=4.91GB 26459090
+2026-10-28 18:08:35 START ls:ck:grid_10000_1 (6.3 GB)
+2026-10-28 18:08:35 OK ls:sweep:gauss_10000_2 1088s peak=4.92GB 26474198
+2026-10-28 18:08:35 START ls:sweep:grid_10000_1 (6.3 GB)
+2026-10-28 18:24:11 OK ls:ck:cluster_10000_1 1005s peak=1.26GB 3455668
+2026-10-28 18:24:11 START ls:ck:grid_10000_2 (6.3 GB)
+2026-10-28 18:24:13 OK ls:ck:cluster_10000_2 1005s peak=1.24GB 3302537
+2026-10-28 18:24:13 START ls:sweep:grid_10000_2 (6.3 GB)
+2026-10-28 18:24:22 OK ls:ck:gauss_10000_3 1017s peak=5.59GB 26642399
+2026-10-28 18:24:22 START ls:ck:grid_10000_3 (6.3 GB)
+2026-10-28 18:24:33 OK ls:sweep:cluster_10000_1 1026s peak=1.14GB 3455620
+2026-10-28 18:24:33 START ls:sweep:grid_10000_3 (6.3 GB)
+2026-10-28 18:25:13 OK ls:ck:cluster_10000_3 1004s peak=1.24GB 3251923
+2026-10-28 18:25:13 START ls:ck:spiral_10000_1 (6.3 GB)
+2026-10-28 18:25:28 OK ls:ck:grid_10000_1 1013s peak=8.37GB 43469076
+2026-10-28 18:25:28 START ls:sweep:spiral_10000_1 (6.3 GB)
+2026-10-28 18:25:34 OK ls:sweep:cluster_10000_2 1026s peak=1.12GB 3302567
+2026-10-28 18:25:34 START ls:ck:spiral_10000_2 (6.3 GB)
+2026-10-28 18:25:35 OK ls:sweep:gauss_10000_3 1089s peak=4.93GB 26643510
+2026-10-28 18:25:35 START ls:sweep:spiral_10000_2 (6.3 GB)
+2026-10-28 18:25:35 OK ls:sweep:cluster_10000_3 1026s peak=1.11GB 3251890
+2026-10-28 18:25:35 START ls:ck:spiral_10000_3 (6.3 GB)
+2026-10-28 18:26:39 OK ls:sweep:grid_10000_1 1084s peak=8.25GB 43474757
+2026-10-28 18:26:39 START ls:sweep:spiral_10000_3 (6.3 GB)
+2026-10-28 18:41:05 OK ls:ck:grid_10000_2 1014s peak=8.38GB 43472461
+2026-10-28 18:41:05 START ls:ck:shell_10000_1 (6.3 GB)
+2026-10-28 18:41:16 OK ls:ck:grid_10000_3 1014s peak=8.38GB 43480840
+2026-10-28 18:41:16 START ls:sweep:shell_10000_1 (6.3 GB)
+2026-10-28 18:41:54 OK ls:ck:spiral_10000_1 1001s peak=0.45GB 210728
+2026-10-28 18:41:54 START ls:ck:shell_10000_2 (6.3 GB)
+2026-10-28 18:42:15 OK ls:ck:spiral_10000_2 1001s peak=0.45GB 211934
+2026-10-28 18:42:15 START ls:sweep:shell_10000_2 (6.3 GB)
+2026-10-28 18:42:17 OK ls:sweep:spiral_10000_1 1009s peak=0.45GB 210727
+2026-10-28 18:42:17 START ls:ck:shell_10000_3 (6.3 GB)
+2026-10-28 18:42:17 OK ls:ck:spiral_10000_3 1001s peak=0.45GB 213502
+2026-10-28 18:42:17 START ls:sweep:shell_10000_3 (6.3 GB)
+2026-10-28 18:42:18 OK ls:sweep:grid_10000_2 1086s peak=8.25GB 43477359
+2026-10-28 18:42:18 START ls:ck:bunny_10000_1 (6.3 GB)
+2026-10-28 18:42:23 OK ls:sweep:spiral_10000_2 1008s peak=0.45GB 211930
+2026-10-28 18:42:23 START ls:sweep:bunny_10000_1 (6.3 GB)
+2026-10-28 18:42:39 OK ls:sweep:grid_10000_3 1086s peak=8.25GB 43486112
+2026-10-28 18:42:39 START ls:ck:armadillo_10000_1 (6.3 GB)
+2026-10-28 18:43:28 OK ls:sweep:spiral_10000_3 1009s peak=0.45GB 213517
+2026-10-28 18:43:28 START ls:sweep:armadillo_10000_1 (6.3 GB)
+2026-10-28 18:52:07 OK opt:spiral_1000_1 3278s peak=29.95GB 20505 optimal=1
+2026-10-28 18:52:07 START opt:spiral_1000_2 (12.3 GB)
+2026-10-28 18:57:53 OK ls:ck:shell_10000_1 1008s peak=2.73GB 8610902
+2026-10-28 18:57:53 START ls:ck:dragon_10000_1 (6.3 GB)
+2026-10-28 18:58:42 OK ls:ck:shell_10000_2 1008s peak=2.74GB 8644171
+2026-10-28 18:58:42 START ls:sweep:dragon_10000_1 (6.3 GB)
+2026-10-28 18:58:44 OK ls:sweep:shell_10000_1 1048s peak=2.34GB 8611414
+2026-10-28 18:58:44 START ls:ck:buddha_10000_1 (6.3 GB)
+2026-10-28 18:59:05 OK ls:ck:bunny_10000_1 1007s peak=1.91GB 6318883
+2026-10-28 18:59:05 START ls:sweep:buddha_10000_1 (6.3 GB)
+2026-10-28 18:59:05 OK ls:ck:shell_10000_3 1008s peak=2.72GB 8595065
+2026-10-28 18:59:05 START ls:ck:uniform_5000_1 (1.8 GB)
+2026-10-28 18:59:25 OK ls:ck:armadillo_10000_1 1006s peak=1.82GB 5745654
+2026-10-28 18:59:25 START ls:sweep:uniform_5000_1 (1.8 GB)
+2026-10-28 18:59:45 OK ls:sweep:shell_10000_2 1050s peak=2.34GB 8643834
+2026-10-28 18:59:45 START ls:ck:uniform_5000_2 (1.8 GB)
+2026-10-28 18:59:46 OK ls:sweep:bunny_10000_1 1043s peak=1.69GB 6320037
+2026-10-28 18:59:46 START ls:sweep:uniform_5000_2 (1.8 GB)
+2026-10-28 18:59:47 OK ls:sweep:shell_10000_3 1050s peak=2.33GB 8595565
+2026-10-28 18:59:47 START ls:ck:uniform_5000_3 (1.8 GB)
+2026-10-28 19:00:47 OK ls:sweep:armadillo_10000_1 1038s peak=1.60GB 5746538
+2026-10-28 19:00:47 START ls:sweep:uniform_5000_3 (1.8 GB)
+2026-10-28 19:14:38 OK ls:ck:dragon_10000_1 1006s peak=1.85GB 6061482
+2026-10-28 19:14:38 START ls:ck:gauss_5000_1 (1.8 GB)
+2026-10-28 19:15:31 OK ls:ck:buddha_10000_1 1006s peak=1.96GB 6723733
+2026-10-28 19:15:31 START ls:sweep:gauss_5000_1 (1.8 GB)
+2026-10-28 19:15:48 OK ls:ck:uniform_5000_1 1004s peak=1.49GB 7402403
+2026-10-28 19:15:48 START ls:ck:gauss_5000_2 (1.8 GB)
+2026-10-28 19:15:59 OK ls:sweep:dragon_10000_1 1037s peak=1.64GB 6061668
+2026-10-28 19:15:59 START ls:sweep:gauss_5000_2 (1.8 GB)
+2026-10-28 19:16:25 OK ls:sweep:uniform_5000_1 1020s peak=1.29GB 7402396
+2026-10-28 19:16:25 START ls:ck:gauss_5000_3 (1.8 GB)
+2026-10-28 19:16:27 OK ls:sweep:buddha_10000_1 1043s peak=1.70GB 6724184
+2026-10-28 19:16:27 START ls:sweep:gauss_5000_3 (1.8 GB)
+2026-10-28 19:16:28 OK ls:ck:uniform_5000_2 1004s peak=1.44GB 7437097
+2026-10-28 19:16:28 START ls:ck:cluster_5000_1 (1.8 GB)
+2026-10-28 19:16:30 OK ls:ck:uniform_5000_3 1004s peak=1.48GB 7294706
+2026-10-28 19:16:30 START ls:sweep:cluster_5000_1 (1.8 GB)
+2026-10-28 19:16:46 OK ls:sweep:uniform_5000_2 1020s peak=1.30GB 7437102
+2026-10-28 19:16:46 START ls:ck:cluster_5000_2 (1.8 GB)
+2026-10-28 19:17:46 OK ls:sweep:uniform_5000_3 1020s peak=1.28GB 7294703
+2026-10-28 19:17:46 START ls:sweep:cluster_5000_2 (1.8 GB)
+2026-10-28 19:31:22 OK ls:ck:gauss_5000_1 1004s peak=1.54GB 8369442
+2026-10-28 19:31:22 START ls:ck:cluster_5000_3 (1.8 GB)
+2026-10-28 19:32:32 OK ls:sweep:gauss_5000_1 1021s peak=1.74GB 8369440
+2026-10-28 19:32:32 START ls:sweep:cluster_5000_3 (1.8 GB)
+2026-10-28 19:32:32 OK ls:ck:gauss_5000_2 1004s peak=1.53GB 8317909
+2026-10-28 19:32:32 START ls:ck:grid_5000_1 (1.8 GB)
+2026-10-28 19:33:01 OK ls:sweep:gauss_5000_2 1021s peak=1.73GB 8317925
+2026-10-28 19:33:01 START ls:sweep:grid_5000_1 (1.8 GB)
+2026-10-28 19:33:09 OK ls:ck:gauss_5000_3 1004s peak=1.53GB 8342051
+2026-10-28 19:33:09 START ls:ck:grid_5000_2 (1.8 GB)
+2026-10-28 19:33:10 OK ls:ck:cluster_5000_1 1001s peak=0.35GB 921935
+2026-10-28 19:33:10 START ls:sweep:grid_5000_2 (1.8 GB)
+2026-10-28 19:33:17 OK ls:sweep:cluster_5000_1 1006s peak=0.33GB 921969
+2026-10-28 19:33:17 START ls:ck:grid_5000_3 (1.8 GB)
+2026-10-28 19:33:27 OK ls:ck:cluster_5000_2 1001s peak=0.33GB 834087
+2026-10-28 19:33:27 START ls:sweep:grid_5000_3 (1.8 GB)
+2026-10-28 19:33:29 OK ls:sweep:gauss_5000_3 1021s peak=1.73GB 8342068
+2026-10-28 19:33:29 START ls:ck:spiral_5000_1 (1.8 GB)
+2026-10-28 19:34:32 OK ls:sweep:cluster_5000_2 1006s peak=0.31GB 834089
+2026-10-28 19:34:32 START ls:sweep:spiral_5000_1 (1.8 GB)
+2026-10-28 19:48:03 OK ls:ck:cluster_5000_3 1001s peak=0.34GB 862836
+2026-10-28 19:48:03 START ls:ck:spiral_5000_2 (1.8 GB)
+2026-10-28 19:49:16 OK ls:ck:grid_5000_1 1003s peak=2.24GB 12241721
+2026-10-28 19:49:16 START ls:sweep:spiral_5000_2 (1.8 GB)
+2026-10-28 19:49:18 OK ls:sweep:cluster_5000_3 1006s peak=0.32GB 862862
+2026-10-28 19:49:18 START ls:ck:spiral_5000_3 (1.8 GB)
+2026-10-28 19:49:52 OK ls:ck:grid_5000_2 1003s peak=2.21GB 12248813
+2026-10-28 19:49:52 START ls:sweep:spiral_5000_3 (1.8 GB)
+2026-10-28 19:50:00 OK ls:ck:grid_5000_3 1003s peak=2.21GB 12246433
+2026-10-28 19:50:00 START ls:ck:shell_5000_1 (1.8 GB)
+2026-10-28 19:50:01 OK ls:sweep:grid_5000_1 1021s peak=2.19GB 12241884
+2026-10-28 19:50:01 START ls:sweep:shell_5000_1 (1.8 GB)
+2026-10-28 19:50:09 OK ls:ck:spiral_5000_1 1000s peak=0.13GB 104248
+2026-10-28 19:50:09 START ls:ck:shell_5000_2 (1.8 GB)
+2026-10-28 19:50:10 OK ls:sweep:grid_5000_2 1021s peak=2.19GB 12248881
+2026-10-28 19:50:10 START ls:sweep:shell_5000_2 (1.8 GB)
+2026-10-28 19:50:28 OK ls:sweep:grid_5000_3 1020s peak=2.19GB 12246559
+2026-10-28 19:50:28 START ls:ck:shell_5000_3 (1.8 GB)
+2026-10-28 19:51:14 OK ls:sweep:spiral_5000_1 1002s peak=0.15GB 104250
+2026-10-28 19:51:14 START ls:sweep:shell_5000_3 (1.8 GB)
+2026-10-28 19:57:02 OK opt:spiral_1000_2 3895s peak=37.03GB 21558 optimal=1
+2026-10-28 19:57:02 START opt:spiral_1000_3 (12.3 GB)
+2026-10-28 20:04:44 OK ls:ck:spiral_5000_2 1000s peak=0.13GB 105194
+2026-10-28 20:04:44 START ls:ck:bunny_5000_1 (1.8 GB)
+2026-10-28 20:05:58 OK ls:sweep:spiral_5000_2 1002s peak=0.15GB 105185
+2026-10-28 20:05:58 START ls:sweep:bunny_5000_1 (1.8 GB)
+2026-10-28 20:05:59 OK ls:ck:spiral_5000_3 1000s peak=0.13GB 106603
+2026-10-28 20:05:59 START ls:ck:armadillo_5000_1 (1.8 GB)
+2026-10-28 20:06:34 OK ls:sweep:spiral_5000_3 1002s peak=0.15GB 106623
+2026-10-28 20:06:34 START ls:sweep:armadillo_5000_1 (1.8 GB)
+2026-10-28 20:06:43 OK ls:ck:shell_5000_1 1003s peak=0.82GB 3214759
+2026-10-28 20:06:43 START ls:ck:dragon_5000_1 (1.8 GB)
+2026-10-28 20:06:51 OK ls:ck:shell_5000_2 1002s peak=0.82GB 3232485
+2026-10-28 20:06:51 START ls:sweep:dragon_5000_1 (1.8 GB)
+2026-10-28 20:06:55 OK ls:sweep:shell_5000_1 1014s peak=0.74GB 3214885
+2026-10-28 20:06:55 START ls:ck:buddha_5000_1 (1.8 GB)
+2026-10-28 20:07:04 OK ls:sweep:shell_5000_2 1014s peak=0.74GB 3232635
+2026-10-28 20:07:04 START ls:sweep:buddha_5000_1 (1.8 GB)
+2026-10-28 20:07:10 OK ls:ck:shell_5000_3 1002s peak=0.81GB 3243875
+2026-10-28 20:07:10 START ls:ck:uniform_2000_1 (0.5 GB)
+2026-10-28 20:08:08 OK ls:sweep:shell_5000_3 1014s peak=0.74GB 3244061
+2026-10-28 20:08:08 START ls:sweep:uniform_2000_1 (0.5 GB)
+2026-10-28 20:21:26 OK ls:ck:bunny_5000_1 1002s peak=0.75GB 2542222
+2026-10-28 20:21:26 START ls:ck:uniform_2000_2 (0.5 GB)
+2026-10-28 20:22:40 OK ls:ck:armadillo_5000_1 1002s peak=0.72GB 2340963
+2026-10-28 20:22:40 START ls:sweep:uniform_2000_2 (0.5 GB)
+2026-10-28 20:22:51 OK ls:sweep:bunny_5000_1 1013s peak=0.66GB 2542415
+2026-10-28 20:22:51 START ls:ck:uniform_2000_3 (0.5 GB)
+2026-10-28 20:23:25 OK ls:ck:dragon_5000_1 1002s peak=0.73GB 2474245
+2026-10-28 20:23:25 START ls:sweep:uniform_2000_3 (0.5 GB)
+2026-10-28 20:23:26 OK ls:sweep:armadillo_5000_1 1012s peak=0.64GB 2341008
+2026-10-28 20:23:26 START ls:ck:gauss_2000_1 (0.5 GB)
+2026-10-28 20:23:38 OK ls:ck:buddha_5000_1 1002s peak=0.77GB 2697124
+2026-10-28 20:23:38 START ls:sweep:gauss_2000_1 (0.5 GB)
+2026-10-28 20:23:43 OK ls:sweep:dragon_5000_1 1012s peak=0.65GB 2474328
+2026-10-28 20:23:43 START ls:ck:gauss_2000_2 (0.5 GB)
+2026-10-28 20:23:51 OK ls:ck:uniform_2000_1 1001s peak=0.35GB 1531371
+2026-10-28 20:23:51 START ls:sweep:gauss_2000_2 (0.5 GB)
+2026-10-28 20:23:57 OK ls:sweep:buddha_5000_1 1013s peak=0.67GB 2697227
+2026-10-28 20:23:57 START ls:ck:gauss_2000_3 (0.5 GB)
+2026-10-28 20:24:52 OK ls:sweep:uniform_2000_1 1003s peak=0.33GB 1531371
+2026-10-28 20:24:52 START ls:sweep:gauss_2000_3 (0.5 GB)
+2026-10-28 20:38:06 OK ls:ck:uniform_2000_2 1001s peak=0.35GB 1533564
+2026-10-28 20:38:06 START ls:ck:cluster_2000_1 (0.5 GB)
+2026-10-28 20:39:24 OK ls:sweep:uniform_2000_2 1003s peak=0.33GB 1533563
+2026-10-28 20:39:24 START ls:sweep:cluster_2000_1 (0.5 GB)
+2026-10-28 20:39:31 OK ls:ck:uniform_2000_3 1001s peak=0.34GB 1510960
+2026-10-28 20:39:31 START ls:ck:cluster_2000_2 (0.5 GB)
+2026-10-28 20:40:07 OK ls:ck:gauss_2000_1 1001s peak=0.35GB 1643250
+2026-10-28 20:40:07 START ls:sweep:cluster_2000_2 (0.5 GB)
+2026-10-28 20:40:08 OK ls:sweep:uniform_2000_3 1003s peak=0.33GB 1510960
+2026-10-28 20:40:08 START ls:ck:cluster_2000_3 (0.5 GB)
+2026-10-28 20:40:21 OK ls:sweep:gauss_2000_1 1003s peak=0.34GB 1643250
+2026-10-28 20:40:21 START ls:sweep:cluster_2000_3 (0.5 GB)
+2026-10-28 20:40:24 OK ls:ck:gauss_2000_2 1001s peak=0.35GB 1649910
+2026-10-28 20:40:24 START ls:ck:grid_2000_1 (0.5 GB)
+2026-10-28 20:40:34 OK ls:sweep:gauss_2000_2 1003s peak=0.34GB 1649910
+2026-10-28 20:40:34 START ls:sweep:grid_2000_1 (0.5 GB)
+2026-10-28 20:40:38 OK ls:ck:gauss_2000_3 1001s peak=0.35GB 1625863
+2026-10-28 20:40:38 START ls:ck:grid_2000_2 (0.5 GB)
+2026-10-28 20:41:35 OK ls:sweep:gauss_2000_3 1003s peak=0.34GB 1625863
+2026-10-28 20:41:35 START ls:sweep:grid_2000_2 (0.5 GB)
+2026-10-28 20:54:46 OK ls:ck:cluster_2000_1 1000s peak=0.07GB 171316
+2026-10-28 20:54:46 START ls:ck:grid_2000_3 (0.5 GB)
+2026-10-28 20:56:05 OK ls:sweep:cluster_2000_1 1001s peak=0.07GB 171320
+2026-10-28 20:56:05 START ls:sweep:grid_2000_3 (0.5 GB)
+2026-10-28 20:56:11 OK ls:ck:cluster_2000_2 1000s peak=0.07GB 151132
+2026-10-28 20:56:11 START ls:ck:spiral_2000_1 (0.5 GB)
+2026-10-28 20:56:48 OK ls:ck:cluster_2000_3 1000s peak=0.07GB 153732
+2026-10-28 20:56:48 START ls:sweep:spiral_2000_1 (0.5 GB)
+2026-10-28 20:56:48 OK ls:sweep:cluster_2000_2 1001s peak=0.06GB 151136
+2026-10-28 20:56:48 START ls:ck:spiral_2000_2 (0.5 GB)
+2026-10-28 20:57:02 OK ls:sweep:cluster_2000_3 1001s peak=0.06GB 153714
+2026-10-28 20:57:02 START ls:sweep:spiral_2000_2 (0.5 GB)
+2026-10-28 20:57:04 OK ls:ck:grid_2000_1 1000s peak=0.38GB 1998988
+2026-10-28 20:57:04 START ls:ck:spiral_2000_3 (0.5 GB)
+2026-10-28 20:57:17 OK ls:sweep:grid_2000_1 1003s peak=0.38GB 1998988
+2026-10-28 20:57:17 START ls:sweep:spiral_2000_3 (0.5 GB)
+2026-10-28 20:57:18 OK ls:ck:grid_2000_2 1000s peak=0.38GB 1998989
+2026-10-28 20:57:18 START ls:ck:shell_2000_1 (0.5 GB)
+2026-10-28 20:58:18 OK ls:sweep:grid_2000_2 1003s peak=0.38GB 1998989
+2026-10-28 20:58:18 START ls:sweep:shell_2000_1 (0.5 GB)
+2026-10-28 21:05:59 OK opt:spiral_1000_3 4137s peak=30.07GB 21609 optimal=1
+2026-10-28 21:05:59 START opt:shell_1000_1 (12.3 GB)
+2026-10-28 21:06:02 OK opt:shell_1000_1 3s peak=0.75GB 281297 optimal=1
+2026-10-28 21:06:02 START opt:shell_1000_2 (12.3 GB)
+2026-10-28 21:06:04 OK opt:shell_1000_2 3s peak=0.74GB 292789 optimal=1
+2026-10-28 21:06:04 START opt:shell_1000_3 (12.3 GB)
+2026-10-28 21:06:07 OK opt:shell_1000_3 3s peak=0.75GB 272597 optimal=1
+2026-10-28 21:06:07 START opt:bunny_1000_1 (12.3 GB)
+2026-10-28 21:06:10 OK opt:bunny_1000_1 3s peak=0.76GB 265320 optimal=1
+2026-10-28 21:06:10 START opt:armadillo_1000_1 (12.3 GB)
+2026-10-28 21:06:14 OK opt:armadillo_1000_1 4s peak=0.87GB 231503 optimal=1
+2026-10-28 21:06:14 START opt:dragon_1000_1 (12.3 GB)
+2026-10-28 21:06:22 OK opt:dragon_1000_1 9s peak=0.97GB 240118 optimal=1
+2026-10-28 21:06:22 START opt:buddha_1000_1 (12.3 GB)
+2026-10-28 21:06:26 OK opt:buddha_1000_1 4s peak=0.88GB 252928 optimal=1
+2026-10-28 21:06:26 START opt:uniform_500_1 (3.3 GB)
+2026-10-28 21:06:26 OK opt:uniform_500_1 0s peak=0.17GB 117059 optimal=1
+2026-10-28 21:06:26 START opt:uniform_500_2 (3.3 GB)
+2026-10-28 21:06:27 OK opt:uniform_500_2 0s peak=0.17GB 116435 optimal=1
+2026-10-28 21:06:27 START opt:uniform_500_3 (3.3 GB)
+2026-10-28 21:06:27 OK opt:uniform_500_3 0s peak=0.17GB 115694 optimal=1
+2026-10-28 21:06:27 START opt:gauss_500_1 (3.3 GB)
+2026-10-28 21:06:27 OK opt:gauss_500_1 0s peak=0.17GB 118114 optimal=1
+2026-10-28 21:06:27 START opt:gauss_500_2 (3.3 GB)
+2026-10-28 21:06:27 OK opt:gauss_500_2 0s peak=0.17GB 117499 optimal=1
+2026-10-28 21:06:27 START opt:gauss_500_3 (3.3 GB)
+2026-10-28 21:06:28 OK opt:gauss_500_3 0s peak=0.18GB 116105 optimal=1
+2026-10-28 21:06:28 START opt:cluster_500_1 (3.3 GB)
+2026-10-28 21:06:36 OK opt:cluster_500_1 8s peak=2.11GB 12618 optimal=1
+2026-10-28 21:06:36 START opt:cluster_500_2 (3.3 GB)
+2026-10-28 21:06:46 OK opt:cluster_500_2 10s peak=2.52GB 11450 optimal=1
+2026-10-28 21:06:46 START opt:cluster_500_3 (3.3 GB)
+2026-10-28 21:06:53 OK opt:cluster_500_3 7s peak=1.95GB 11848 optimal=1
+2026-10-28 21:06:53 START opt:grid_500_1 (3.3 GB)
+2026-10-28 21:06:53 OK opt:grid_500_1 0s peak=0.17GB 124750 optimal=1
+2026-10-28 21:06:53 START opt:grid_500_2 (3.3 GB)
+2026-10-28 21:06:54 OK opt:grid_500_2 0s peak=0.17GB 124750 optimal=1
+2026-10-28 21:06:54 START opt:grid_500_3 (3.3 GB)
+2026-10-28 21:06:54 OK opt:grid_500_3 0s peak=0.17GB 124750 optimal=1
+2026-10-28 21:06:54 START opt:spiral_500_1 (3.3 GB)
+2026-10-28 21:08:09 OK opt:spiral_500_1 75s peak=1.23GB 9871 optimal=1
+2026-10-28 21:08:09 START opt:spiral_500_2 (3.3 GB)
+2026-10-28 21:09:48 OK opt:spiral_500_2 99s peak=1.29GB 10482 optimal=1
+2026-10-28 21:09:48 START opt:spiral_500_3 (3.3 GB)
+2026-10-28 21:11:21 OK opt:spiral_500_3 93s peak=1.11GB 10244 optimal=1
+2026-10-28 21:11:21 START opt:shell_500_1 (3.3 GB)
+2026-10-28 21:11:21 OK opt:shell_500_1 0s peak=0.18GB 85921 optimal=1
+2026-10-28 21:11:21 START opt:shell_500_2 (3.3 GB)
+2026-10-28 21:11:22 OK opt:shell_500_2 0s peak=0.18GB 89967 optimal=1
+2026-10-28 21:11:22 START opt:shell_500_3 (3.3 GB)
+2026-10-28 21:11:22 OK opt:shell_500_3 0s peak=0.18GB 83742 optimal=1
+2026-10-28 21:11:22 START opt:bunny_500_1 (3.3 GB)
+2026-10-28 21:11:22 OK opt:bunny_500_1 0s peak=0.18GB 86012 optimal=1
+2026-10-28 21:11:22 START opt:armadillo_500_1 (3.3 GB)
+2026-10-28 21:11:23 OK opt:armadillo_500_1 0s peak=0.19GB 80253 optimal=1
+2026-10-28 21:11:23 START opt:dragon_500_1 (3.3 GB)
+2026-10-28 21:11:23 OK opt:dragon_500_1 1s peak=0.19GB 77786 optimal=1
+2026-10-28 21:11:23 START opt:buddha_500_1 (3.3 GB)
+2026-10-28 21:11:24 OK opt:buddha_500_1 0s peak=0.19GB 81530 optimal=1
+2026-10-28 21:11:24 START opt:uniform_200_1 (0.8 GB)
+2026-10-28 21:11:24 OK opt:uniform_200_1 0s peak=0.04GB 19653 optimal=1
+2026-10-28 21:11:24 START opt:uniform_200_2 (0.8 GB)
+2026-10-28 21:11:24 OK opt:uniform_200_2 0s peak=0.04GB 19017 optimal=1
+2026-10-28 21:11:24 START opt:uniform_200_3 (0.8 GB)
+2026-10-28 21:11:24 OK opt:uniform_200_3 0s peak=0.04GB 19223 optimal=1
+2026-10-28 21:11:24 START opt:gauss_200_1 (0.8 GB)
+2026-10-28 21:11:24 OK opt:gauss_200_1 0s peak=0.04GB 19547 optimal=1
+2026-10-28 21:11:24 START opt:gauss_200_2 (0.8 GB)
+2026-10-28 21:11:24 OK opt:gauss_200_2 0s peak=0.04GB 19505 optimal=1
+2026-10-28 21:11:24 START opt:gauss_200_3 (0.8 GB)
+2026-10-28 21:11:24 OK opt:gauss_200_3 0s peak=0.04GB 19262 optimal=1
+2026-10-28 21:11:24 START opt:cluster_200_1 (0.8 GB)
+2026-10-28 21:11:25 OK opt:cluster_200_1 1s peak=0.25GB 3815 optimal=1
+2026-10-28 21:11:25 START opt:cluster_200_2 (0.8 GB)
+2026-10-28 21:11:26 OK opt:cluster_200_2 1s peak=0.35GB 3008 optimal=1
+2026-10-28 21:11:26 START opt:cluster_200_3 (0.8 GB)
+2026-10-28 21:11:27 OK ls:ck:grid_2000_3 1000s peak=0.38GB 1998990
+2026-10-28 21:11:27 START ls:ck:shell_2000_2 (0.5 GB)
+2026-10-28 21:11:27 OK opt:cluster_200_3 1s peak=0.35GB 2920 optimal=1
+2026-10-28 21:11:27 START opt:grid_200_1 (0.8 GB)
+2026-10-28 21:11:27 OK opt:grid_200_1 0s peak=0.04GB 19900 optimal=1
+2026-10-28 21:11:27 START opt:grid_200_2 (0.8 GB)
+2026-10-28 21:11:27 OK opt:grid_200_2 0s peak=0.04GB 19900 optimal=1
+2026-10-28 21:11:27 START opt:grid_200_3 (0.8 GB)
+2026-10-28 21:11:27 OK opt:grid_200_3 0s peak=0.04GB 19900 optimal=1
+2026-10-28 21:11:27 START opt:spiral_200_1 (0.8 GB)
+2026-10-28 21:11:28 OK opt:spiral_200_1 1s peak=0.06GB 3643 optimal=1
+2026-10-28 21:11:28 START opt:spiral_200_2 (0.8 GB)
+2026-10-28 21:11:30 OK opt:spiral_200_2 1s peak=0.07GB 3830 optimal=1
+2026-10-28 21:11:30 START opt:spiral_200_3 (0.8 GB)
+2026-10-28 21:11:31 OK opt:spiral_200_3 1s peak=0.08GB 3537 optimal=1
+2026-10-28 21:11:31 START opt:shell_200_1 (0.8 GB)
+2026-10-28 21:11:31 OK opt:shell_200_1 0s peak=0.04GB 17249 optimal=1
+2026-10-28 21:11:31 START opt:shell_200_2 (0.8 GB)
+2026-10-28 21:11:31 OK opt:shell_200_2 0s peak=0.04GB 16552 optimal=1
+2026-10-28 21:11:31 START opt:shell_200_3 (0.8 GB)
+2026-10-28 21:11:31 OK opt:shell_200_3 0s peak=0.04GB 16475 optimal=1
+2026-10-28 21:11:31 START opt:bunny_200_1 (0.8 GB)
+2026-10-28 21:11:31 OK opt:bunny_200_1 0s peak=0.04GB 16743 optimal=1
+2026-10-28 21:11:31 START opt:armadillo_200_1 (0.8 GB)
+2026-10-28 21:11:31 OK opt:armadillo_200_1 0s peak=0.04GB 16247 optimal=1
+2026-10-28 21:11:31 START opt:dragon_200_1 (0.8 GB)
+2026-10-28 21:11:31 OK opt:dragon_200_1 0s peak=0.04GB 15889 optimal=1
+2026-10-28 21:11:31 START opt:buddha_200_1 (0.8 GB)
+2026-10-28 21:11:31 OK opt:buddha_200_1 0s peak=0.04GB 16033 optimal=1
+2026-10-28 21:11:31 END
+2026-10-28 21:12:48 OK ls:sweep:grid_2000_3 1003s peak=0.38GB 1998990
+2026-10-28 21:12:48 START ls:sweep:shell_2000_2 (0.5 GB)
+2026-10-28 21:12:52 OK ls:ck:spiral_2000_1 1000s peak=0.03GB 41090
+2026-10-28 21:12:52 START ls:ck:shell_2000_3 (0.5 GB)
+2026-10-28 21:13:28 OK ls:ck:spiral_2000_2 1000s peak=0.03GB 42562
+2026-10-28 21:13:28 START ls:sweep:shell_2000_3 (0.5 GB)
+2026-10-28 21:13:28 OK ls:sweep:spiral_2000_1 1000s peak=0.03GB 41092
+2026-10-28 21:13:28 START ls:ck:bunny_2000_1 (0.5 GB)
+2026-10-28 21:13:42 OK ls:sweep:spiral_2000_2 1000s peak=0.04GB 42565
+2026-10-28 21:13:42 START ls:sweep:bunny_2000_1 (0.5 GB)
+2026-10-28 21:13:44 OK ls:ck:spiral_2000_3 1000s peak=0.03GB 41540
+2026-10-28 21:13:44 START ls:ck:armadillo_2000_1 (0.5 GB)
+2026-10-28 21:13:57 OK ls:sweep:spiral_2000_3 1000s peak=0.04GB 41536
+2026-10-28 21:13:57 START ls:sweep:armadillo_2000_1 (0.5 GB)
+2026-10-28 21:13:59 OK ls:ck:shell_2000_1 1000s peak=0.22GB 832006
+2026-10-28 21:13:59 START ls:ck:dragon_2000_1 (0.5 GB)
+2026-10-28 21:15:00 OK ls:sweep:shell_2000_1 1003s peak=0.20GB 832002
+2026-10-28 21:15:00 START ls:sweep:dragon_2000_1 (0.5 GB)
+2026-10-28 21:28:07 OK ls:ck:shell_2000_2 1000s peak=0.23GB 853602
+2026-10-28 21:28:07 START ls:ck:buddha_2000_1 (0.5 GB)
+2026-10-28 21:29:30 OK ls:sweep:shell_2000_2 1003s peak=0.20GB 853603
+2026-10-28 21:29:30 START ls:sweep:buddha_2000_1 (0.5 GB)
+2026-10-28 21:29:32 OK ls:ck:shell_2000_3 1000s peak=0.23GB 831782
+2026-10-28 21:29:32 START ls:ck:uniform_1000_1 (0.4 GB)
+2026-10-28 21:30:09 OK ls:ck:bunny_2000_1 1000s peak=0.21GB 732856
+2026-10-28 21:30:09 START ls:sweep:uniform_1000_1 (0.4 GB)
+2026-10-28 21:30:10 OK ls:sweep:shell_2000_3 1003s peak=0.20GB 831777
+2026-10-28 21:30:10 START ls:ck:uniform_1000_2 (0.4 GB)
+2026-10-28 21:30:25 OK ls:sweep:bunny_2000_1 1002s peak=0.19GB 732853
+2026-10-28 21:30:25 START ls:sweep:uniform_1000_2 (0.4 GB)
+2026-10-28 21:30:25 OK ls:ck:armadillo_2000_1 1000s peak=0.19GB 662372
+2026-10-28 21:30:25 START ls:ck:uniform_1000_3 (0.4 GB)
+2026-10-28 21:30:39 OK ls:ck:dragon_2000_1 1000s peak=0.19GB 686167
+2026-10-28 21:30:39 START ls:sweep:uniform_1000_3 (0.4 GB)
+2026-10-28 21:30:40 OK ls:sweep:armadillo_2000_1 1002s peak=0.17GB 662364
+2026-10-28 21:30:40 START ls:ck:gauss_1000_1 (0.4 GB)
+2026-10-28 21:31:12 OK ls:ck:uniform_1000_1 100s peak=0.10GB 430976
+2026-10-28 21:31:12 START ls:sweep:gauss_1000_1 (0.4 GB)
+2026-10-28 21:31:43 OK ls:sweep:dragon_2000_1 1002s peak=0.18GB 686160
+2026-10-28 21:31:43 START ls:ck:gauss_1000_2 (0.4 GB)
+2026-10-28 21:31:49 OK ls:sweep:uniform_1000_1 101s peak=0.10GB 430976
+2026-10-28 21:31:49 START ls:sweep:gauss_1000_2 (0.4 GB)
+2026-10-28 21:31:51 OK ls:ck:uniform_1000_2 100s peak=0.10GB 435568
+2026-10-28 21:31:51 START ls:ck:gauss_1000_3 (0.4 GB)
+2026-10-28 21:32:05 OK ls:ck:uniform_1000_3 100s peak=0.10GB 429906
+2026-10-28 21:32:05 START ls:sweep:gauss_1000_3 (0.4 GB)
+2026-10-28 21:32:05 OK ls:sweep:uniform_1000_2 101s peak=0.10GB 435567
+2026-10-28 21:32:05 START ls:ck:cluster_1000_1 (0.4 GB)
+2026-10-28 21:32:20 OK ls:sweep:uniform_1000_3 101s peak=0.10GB 429906
+2026-10-28 21:32:20 START ls:sweep:cluster_1000_1 (0.4 GB)
+2026-10-28 21:32:20 OK ls:ck:gauss_1000_1 100s peak=0.10GB 450904
+2026-10-28 21:32:20 START ls:ck:cluster_1000_2 (0.4 GB)
+2026-10-28 21:32:53 OK ls:sweep:gauss_1000_1 101s peak=0.10GB 450904
+2026-10-28 21:32:53 START ls:sweep:cluster_1000_2 (0.4 GB)
+2026-10-28 21:33:23 OK ls:ck:gauss_1000_2 100s peak=0.10GB 450647
+2026-10-28 21:33:23 START ls:ck:cluster_1000_3 (0.4 GB)
+2026-10-28 21:33:30 OK ls:sweep:gauss_1000_2 101s peak=0.10GB 450647
+2026-10-28 21:33:30 START ls:sweep:cluster_1000_3 (0.4 GB)
+2026-10-28 21:33:31 OK ls:ck:gauss_1000_3 100s peak=0.10GB 447170
+2026-10-28 21:33:31 START ls:ck:grid_1000_1 (0.4 GB)
+2026-10-28 21:33:45 OK ls:ck:cluster_1000_1 100s peak=0.02GB 45863
+2026-10-28 21:33:45 START ls:sweep:grid_1000_1 (0.4 GB)
+2026-10-28 21:33:45 OK ls:sweep:gauss_1000_3 101s peak=0.10GB 447170
+2026-10-28 21:33:45 START ls:ck:grid_1000_2 (0.4 GB)
+2026-10-28 21:34:00 OK ls:ck:cluster_1000_2 100s peak=0.02GB 45015
+2026-10-28 21:34:00 START ls:sweep:grid_1000_2 (0.4 GB)
+2026-10-28 21:34:00 OK ls:sweep:cluster_1000_1 100s peak=0.02GB 45866
+2026-10-28 21:34:00 START ls:ck:grid_1000_3 (0.4 GB)
+2026-10-28 21:34:33 OK ls:sweep:cluster_1000_2 100s peak=0.02GB 45011
+2026-10-28 21:34:33 START ls:sweep:grid_1000_3 (0.4 GB)
+2026-10-28 21:35:03 OK ls:ck:cluster_1000_3 100s peak=0.02GB 40736
+2026-10-28 21:35:03 START ls:ck:spiral_1000_1 (0.4 GB)
+2026-10-28 21:35:10 OK ls:sweep:cluster_1000_3 100s peak=0.02GB 40734
+2026-10-28 21:35:10 START ls:sweep:spiral_1000_1 (0.4 GB)
+2026-10-28 21:35:11 OK ls:ck:grid_1000_1 100s peak=0.11GB 499500
+2026-10-28 21:35:11 START ls:ck:spiral_1000_2 (0.4 GB)
+2026-10-28 21:35:26 OK ls:ck:grid_1000_2 100s peak=0.11GB 499500
+2026-10-28 21:35:26 START ls:sweep:spiral_1000_2 (0.4 GB)
+2026-10-28 21:35:26 OK ls:sweep:grid_1000_1 101s peak=0.11GB 499500
+2026-10-28 21:35:26 START ls:ck:spiral_1000_3 (0.4 GB)
+2026-10-28 21:35:40 OK ls:ck:grid_1000_3 100s peak=0.11GB 499500
+2026-10-28 21:35:40 START ls:sweep:spiral_1000_3 (0.4 GB)
+2026-10-28 21:35:40 OK ls:sweep:grid_1000_2 101s peak=0.11GB 499500
+2026-10-28 21:35:40 START ls:ck:shell_1000_1 (0.4 GB)
+2026-10-28 21:36:14 OK ls:sweep:grid_1000_3 101s peak=0.11GB 499500
+2026-10-28 21:36:14 START ls:sweep:shell_1000_1 (0.4 GB)
+2026-10-28 21:36:43 OK ls:ck:spiral_1000_1 100s peak=0.02GB 20506
+2026-10-28 21:36:43 START ls:ck:shell_1000_2 (0.4 GB)
+2026-10-28 21:36:50 OK ls:sweep:spiral_1000_1 100s peak=0.02GB 20506
+2026-10-28 21:36:50 START ls:sweep:shell_1000_2 (0.4 GB)
+2026-10-28 21:36:51 OK ls:ck:spiral_1000_2 100s peak=0.02GB 21558
+2026-10-28 21:36:51 START ls:ck:shell_1000_3 (0.4 GB)
+2026-10-28 21:37:06 OK ls:sweep:spiral_1000_2 100s peak=0.02GB 21559
+2026-10-28 21:37:06 START ls:sweep:shell_1000_3 (0.4 GB)
+2026-10-28 21:37:06 OK ls:ck:spiral_1000_3 100s peak=0.02GB 21611
+2026-10-28 21:37:06 START ls:ck:bunny_1000_1 (0.4 GB)
+2026-10-28 21:37:20 OK ls:sweep:spiral_1000_3 100s peak=0.02GB 21609
+2026-10-28 21:37:20 START ls:sweep:bunny_1000_1 (0.4 GB)
+2026-10-28 21:37:21 OK ls:ck:shell_1000_1 100s peak=0.08GB 281297
+2026-10-28 21:37:21 START ls:ck:armadillo_1000_1 (0.4 GB)
+2026-10-28 21:37:54 OK ls:sweep:shell_1000_1 101s peak=0.08GB 281297
+2026-10-28 21:37:54 START ls:sweep:armadillo_1000_1 (0.4 GB)
+2026-10-28 21:38:23 OK ls:ck:shell_1000_2 100s peak=0.08GB 292791
+2026-10-28 21:38:23 START ls:ck:dragon_1000_1 (0.4 GB)
+2026-10-28 21:38:31 OK ls:ck:shell_1000_3 100s peak=0.08GB 272600
+2026-10-28 21:38:31 START ls:sweep:dragon_1000_1 (0.4 GB)
+2026-10-28 21:38:31 OK ls:sweep:shell_1000_2 101s peak=0.08GB 292790
+2026-10-28 21:38:31 START ls:ck:buddha_1000_1 (0.4 GB)
+2026-10-28 21:38:46 OK ls:ck:bunny_1000_1 100s peak=0.08GB 265320
+2026-10-28 21:38:46 START ls:sweep:buddha_1000_1 (0.4 GB)
+2026-10-28 21:38:46 OK ls:sweep:shell_1000_3 101s peak=0.08GB 272598
+2026-10-28 21:38:46 START ls:ck:uniform_500_1 (0.3 GB)
+2026-10-28 21:39:01 OK ls:ck:armadillo_1000_1 100s peak=0.06GB 231503
+2026-10-28 21:39:01 START ls:sweep:uniform_500_1 (0.3 GB)
+2026-10-28 21:39:01 OK ls:sweep:bunny_1000_1 101s peak=0.08GB 265320
+2026-10-28 21:39:01 START ls:ck:uniform_500_2 (0.3 GB)
+2026-10-28 21:39:35 OK ls:sweep:armadillo_1000_1 101s peak=0.06GB 231503
+2026-10-28 21:39:35 START ls:sweep:uniform_500_2 (0.3 GB)
+2026-10-28 21:40:03 OK ls:ck:dragon_1000_1 100s peak=0.06GB 240129
+2026-10-28 21:40:03 START ls:ck:uniform_500_3 (0.3 GB)
+2026-10-28 21:40:11 OK ls:ck:buddha_1000_1 100s peak=0.07GB 252932
+2026-10-28 21:40:11 START ls:sweep:uniform_500_3 (0.3 GB)
+2026-10-28 21:40:12 OK ls:sweep:dragon_1000_1 101s peak=0.06GB 240131
+2026-10-28 21:40:12 START ls:ck:gauss_500_1 (0.3 GB)
+2026-10-28 21:40:26 OK ls:ck:uniform_500_1 100s peak=0.03GB 117059
+2026-10-28 21:40:26 START ls:sweep:gauss_500_1 (0.3 GB)
+2026-10-28 21:40:27 OK ls:sweep:buddha_1000_1 101s peak=0.06GB 252933
+2026-10-28 21:40:27 START ls:ck:gauss_500_2 (0.3 GB)
+2026-10-28 21:40:41 OK ls:sweep:uniform_500_1 100s peak=0.03GB 117059
+2026-10-28 21:40:41 START ls:sweep:gauss_500_2 (0.3 GB)
+2026-10-28 21:40:41 OK ls:ck:uniform_500_2 100s peak=0.03GB 116435
+2026-10-28 21:40:41 START ls:ck:gauss_500_3 (0.3 GB)
+2026-10-28 21:41:15 OK ls:sweep:uniform_500_2 100s peak=0.03GB 116435
+2026-10-28 21:41:15 START ls:sweep:gauss_500_3 (0.3 GB)
+2026-10-28 21:41:43 OK ls:ck:uniform_500_3 100s peak=0.03GB 115694
+2026-10-28 21:41:43 START ls:ck:cluster_500_1 (0.3 GB)
+2026-10-28 21:41:51 OK ls:sweep:uniform_500_3 100s peak=0.03GB 115694
+2026-10-28 21:41:51 START ls:sweep:cluster_500_1 (0.3 GB)
+2026-10-28 21:41:52 OK ls:ck:gauss_500_1 100s peak=0.03GB 118114
+2026-10-28 21:41:52 START ls:ck:cluster_500_2 (0.3 GB)
+2026-10-28 21:42:07 OK ls:sweep:gauss_500_1 100s peak=0.03GB 118114
+2026-10-28 21:42:07 START ls:sweep:cluster_500_2 (0.3 GB)
+2026-10-28 21:42:07 OK ls:ck:gauss_500_2 100s peak=0.03GB 117499
+2026-10-28 21:42:07 START ls:ck:cluster_500_3 (0.3 GB)
+2026-10-28 21:42:21 OK ls:ck:gauss_500_3 100s peak=0.03GB 116105
+2026-10-28 21:42:21 START ls:sweep:cluster_500_3 (0.3 GB)
+2026-10-28 21:42:21 OK ls:sweep:gauss_500_2 100s peak=0.03GB 117499
+2026-10-28 21:42:21 START ls:ck:grid_500_1 (0.3 GB)
+2026-10-28 21:42:55 OK ls:sweep:gauss_500_3 100s peak=0.03GB 116105
+2026-10-28 21:42:55 START ls:sweep:grid_500_1 (0.3 GB)
+2026-10-28 21:43:23 OK ls:ck:cluster_500_1 100s peak=0.01GB 12622
+2026-10-28 21:43:23 START ls:ck:grid_500_2 (0.3 GB)
+2026-10-28 21:43:31 OK ls:sweep:cluster_500_1 100s peak=0.01GB 12619
+2026-10-28 21:43:31 START ls:sweep:grid_500_2 (0.3 GB)
+2026-10-28 21:43:32 OK ls:ck:cluster_500_2 100s peak=0.01GB 11450
+2026-10-28 21:43:32 START ls:ck:grid_500_3 (0.3 GB)
+2026-10-28 21:43:47 OK ls:sweep:cluster_500_2 100s peak=0.01GB 11451
+2026-10-28 21:43:47 START ls:sweep:grid_500_3 (0.3 GB)
+2026-10-28 21:43:47 OK ls:ck:cluster_500_3 100s peak=0.01GB 11850
+2026-10-28 21:43:47 START ls:ck:spiral_500_1 (0.3 GB)
+2026-10-28 21:44:01 OK ls:sweep:cluster_500_3 100s peak=0.01GB 11849
+2026-10-28 21:44:01 START ls:sweep:spiral_500_1 (0.3 GB)
+2026-10-28 21:44:01 OK ls:ck:grid_500_1 100s peak=0.03GB 124750
+2026-10-28 21:44:01 START ls:ck:spiral_500_2 (0.3 GB)
+2026-10-28 21:44:35 OK ls:sweep:grid_500_1 100s peak=0.03GB 124750
+2026-10-28 21:44:35 START ls:sweep:spiral_500_2 (0.3 GB)
+2026-10-28 21:44:48 OK ls:ck:buddha_2000_1 1000s peak=0.20GB 720739
+2026-10-28 21:44:48 START ls:ck:spiral_500_3 (0.3 GB)
+2026-10-28 21:45:03 OK ls:ck:grid_500_2 100s peak=0.03GB 124750
+2026-10-28 21:45:03 START ls:sweep:spiral_500_3 (0.3 GB)
+2026-10-28 21:45:11 OK ls:sweep:grid_500_2 100s peak=0.03GB 124750
+2026-10-28 21:45:11 START ls:ck:shell_500_1 (0.3 GB)
+2026-10-28 21:45:12 OK ls:ck:grid_500_3 100s peak=0.03GB 124750
+2026-10-28 21:45:12 START ls:sweep:shell_500_1 (0.3 GB)
+2026-10-28 21:45:27 OK ls:ck:spiral_500_1 100s peak=0.01GB 9871
+2026-10-28 21:45:27 START ls:ck:shell_500_2 (0.3 GB)
+2026-10-28 21:45:27 OK ls:sweep:grid_500_3 100s peak=0.03GB 124750
+2026-10-28 21:45:27 START ls:sweep:shell_500_2 (0.3 GB)
+2026-10-28 21:45:41 OK ls:sweep:spiral_500_1 100s peak=0.01GB 9871
+2026-10-28 21:45:41 START ls:ck:shell_500_3 (0.3 GB)
+2026-10-28 21:45:41 OK ls:ck:spiral_500_2 100s peak=0.01GB 10482
+2026-10-28 21:45:41 START ls:sweep:shell_500_3 (0.3 GB)
+2026-10-28 21:46:13 OK ls:sweep:buddha_2000_1 1002s peak=0.18GB 720740
+2026-10-28 21:46:13 START ls:ck:bunny_500_1 (0.3 GB)
+2026-10-28 21:46:16 OK ls:sweep:spiral_500_2 100s peak=0.01GB 10482
+2026-10-28 21:46:16 START ls:sweep:bunny_500_1 (0.3 GB)
+2026-10-28 21:46:28 OK ls:ck:spiral_500_3 100s peak=0.01GB 10244
+2026-10-28 21:46:28 START ls:ck:armadillo_500_1 (0.3 GB)
+2026-10-28 21:46:43 OK ls:sweep:spiral_500_3 100s peak=0.01GB 10244
+2026-10-28 21:46:43 START ls:sweep:armadillo_500_1 (0.3 GB)
+2026-10-28 21:46:51 OK ls:ck:shell_500_1 100s peak=0.03GB 85921
+2026-10-28 21:46:51 START ls:ck:dragon_500_1 (0.3 GB)
+2026-10-28 21:46:52 OK ls:sweep:shell_500_1 100s peak=0.03GB 85921
+2026-10-28 21:46:52 START ls:sweep:dragon_500_1 (0.3 GB)
+2026-10-28 21:47:07 OK ls:ck:shell_500_2 100s peak=0.03GB 89967
+2026-10-28 21:47:07 START ls:ck:buddha_500_1 (0.3 GB)
+2026-10-28 21:47:07 OK ls:sweep:shell_500_2 100s peak=0.03GB 89967
+2026-10-28 21:47:07 START ls:sweep:buddha_500_1 (0.3 GB)
+2026-10-28 21:47:21 OK ls:ck:shell_500_3 100s peak=0.03GB 83742
+2026-10-28 21:47:21 START ls:ck:uniform_200_1 (0.3 GB)
+2026-10-28 21:47:21 OK ls:sweep:shell_500_3 100s peak=0.03GB 83742
+2026-10-28 21:47:21 START ls:sweep:uniform_200_1 (0.3 GB)
+2026-10-28 21:47:53 OK ls:ck:bunny_500_1 100s peak=0.03GB 86012
+2026-10-28 21:47:53 START ls:ck:uniform_200_2 (0.3 GB)
+2026-10-28 21:47:56 OK ls:sweep:bunny_500_1 100s peak=0.03GB 86012
+2026-10-28 21:47:56 START ls:sweep:uniform_200_2 (0.3 GB)
+2026-10-28 21:48:08 OK ls:ck:armadillo_500_1 100s peak=0.03GB 80253
+2026-10-28 21:48:08 START ls:ck:uniform_200_3 (0.3 GB)
+2026-10-28 21:48:23 OK ls:sweep:armadillo_500_1 100s peak=0.02GB 80253
+2026-10-28 21:48:23 START ls:sweep:uniform_200_3 (0.3 GB)
+2026-10-28 21:48:32 OK ls:ck:dragon_500_1 100s peak=0.03GB 77786
+2026-10-28 21:48:32 START ls:ck:gauss_200_1 (0.3 GB)
+2026-10-28 21:48:32 OK ls:sweep:dragon_500_1 100s peak=0.02GB 77786
+2026-10-28 21:48:32 START ls:sweep:gauss_200_1 (0.3 GB)
+2026-10-28 21:48:47 OK ls:ck:buddha_500_1 100s peak=0.03GB 81530
+2026-10-28 21:48:47 START ls:ck:gauss_200_2 (0.3 GB)
+2026-10-28 21:48:47 OK ls:sweep:buddha_500_1 100s peak=0.03GB 81530
+2026-10-28 21:48:47 START ls:sweep:gauss_200_2 (0.3 GB)
+2026-10-28 21:49:01 OK ls:ck:uniform_200_1 100s peak=0.01GB 19653
+2026-10-28 21:49:01 START ls:ck:gauss_200_3 (0.3 GB)
+2026-10-28 21:49:01 OK ls:sweep:uniform_200_1 100s peak=0.01GB 19653
+2026-10-28 21:49:01 START ls:sweep:gauss_200_3 (0.3 GB)
+2026-10-28 21:49:33 OK ls:ck:uniform_200_2 100s peak=0.01GB 19017
+2026-10-28 21:49:33 START ls:ck:cluster_200_1 (0.3 GB)
+2026-10-28 21:49:36 OK ls:sweep:uniform_200_2 100s peak=0.01GB 19017
+2026-10-28 21:49:36 START ls:sweep:cluster_200_1 (0.3 GB)
+2026-10-28 21:49:48 OK ls:ck:uniform_200_3 100s peak=0.01GB 19223
+2026-10-28 21:49:48 START ls:ck:cluster_200_2 (0.3 GB)
+2026-10-28 21:50:03 OK ls:sweep:uniform_200_3 100s peak=0.01GB 19223
+2026-10-28 21:50:03 START ls:sweep:cluster_200_2 (0.3 GB)
+2026-10-28 21:50:12 OK ls:ck:gauss_200_1 100s peak=0.01GB 19547
+2026-10-28 21:50:12 START ls:ck:cluster_200_3 (0.3 GB)
+2026-10-28 21:50:12 OK ls:sweep:gauss_200_1 100s peak=0.01GB 19547
+2026-10-28 21:50:12 START ls:sweep:cluster_200_3 (0.3 GB)
+2026-10-28 21:50:27 OK ls:ck:gauss_200_2 100s peak=0.01GB 19505
+2026-10-28 21:50:27 START ls:ck:grid_200_1 (0.3 GB)
+2026-10-28 21:50:27 OK ls:sweep:gauss_200_2 100s peak=0.01GB 19505
+2026-10-28 21:50:27 START ls:sweep:grid_200_1 (0.3 GB)
+2026-10-28 21:50:41 OK ls:ck:gauss_200_3 100s peak=0.01GB 19262
+2026-10-28 21:50:41 START ls:ck:grid_200_2 (0.3 GB)
+2026-10-28 21:50:41 OK ls:sweep:gauss_200_3 100s peak=0.01GB 19262
+2026-10-28 21:50:41 START ls:sweep:grid_200_2 (0.3 GB)
+2026-10-28 21:51:13 OK ls:ck:cluster_200_1 100s peak=0.01GB 3815
+2026-10-28 21:51:13 START ls:ck:grid_200_3 (0.3 GB)
+2026-10-28 21:51:16 OK ls:sweep:cluster_200_1 100s peak=0.01GB 3816
+2026-10-28 21:51:16 START ls:sweep:grid_200_3 (0.3 GB)
+2026-10-28 21:51:28 OK ls:ck:cluster_200_2 100s peak=0.01GB 3008
+2026-10-28 21:51:28 START ls:ck:spiral_200_1 (0.3 GB)
+2026-10-28 21:51:43 OK ls:sweep:cluster_200_2 100s peak=0.01GB 3008
+2026-10-28 21:51:43 START ls:sweep:spiral_200_1 (0.3 GB)
+2026-10-28 21:51:52 OK ls:ck:cluster_200_3 100s peak=0.01GB 2920
+2026-10-28 21:51:52 START ls:ck:spiral_200_2 (0.3 GB)
+2026-10-28 21:51:52 OK ls:sweep:cluster_200_3 100s peak=0.01GB 2920
+2026-10-28 21:51:52 START ls:sweep:spiral_200_2 (0.3 GB)
+2026-10-28 21:52:07 OK ls:ck:grid_200_1 100s peak=0.01GB 19900
+2026-10-28 21:52:07 START ls:ck:spiral_200_3 (0.3 GB)
+2026-10-28 21:52:07 OK ls:sweep:grid_200_1 100s peak=0.01GB 19900
+2026-10-28 21:52:07 START ls:sweep:spiral_200_3 (0.3 GB)
+2026-10-28 21:52:21 OK ls:ck:grid_200_2 100s peak=0.01GB 19900
+2026-10-28 21:52:21 START ls:ck:shell_200_1 (0.3 GB)
+2026-10-28 21:52:21 OK ls:sweep:grid_200_2 100s peak=0.01GB 19900
+2026-10-28 21:52:21 START ls:sweep:shell_200_1 (0.3 GB)
+2026-10-28 21:52:53 OK ls:ck:grid_200_3 100s peak=0.01GB 19900
+2026-10-28 21:52:53 START ls:ck:shell_200_2 (0.3 GB)
+2026-10-28 21:52:56 OK ls:sweep:grid_200_3 100s peak=0.01GB 19900
+2026-10-28 21:52:56 START ls:sweep:shell_200_2 (0.3 GB)
+2026-10-28 21:53:08 OK ls:ck:spiral_200_1 100s peak=0.01GB 3643
+2026-10-28 21:53:08 START ls:ck:shell_200_3 (0.3 GB)
+2026-10-28 21:53:23 OK ls:sweep:spiral_200_1 100s peak=0.01GB 3643
+2026-10-28 21:53:23 START ls:sweep:shell_200_3 (0.3 GB)
+2026-10-28 21:53:32 OK ls:ck:spiral_200_2 100s peak=0.01GB 3830
+2026-10-28 21:53:32 START ls:ck:bunny_200_1 (0.3 GB)
+2026-10-28 21:53:32 OK ls:sweep:spiral_200_2 100s peak=0.01GB 3830
+2026-10-28 21:53:32 START ls:sweep:bunny_200_1 (0.3 GB)
+2026-10-28 21:53:47 OK ls:ck:spiral_200_3 100s peak=0.01GB 3537
+2026-10-28 21:53:47 START ls:ck:armadillo_200_1 (0.3 GB)
+2026-10-28 21:53:47 OK ls:sweep:spiral_200_3 100s peak=0.01GB 3537
+2026-10-28 21:53:47 START ls:sweep:armadillo_200_1 (0.3 GB)
+2026-10-28 21:54:01 OK ls:ck:shell_200_1 100s peak=0.01GB 17249
+2026-10-28 21:54:01 START ls:ck:dragon_200_1 (0.3 GB)
+2026-10-28 21:54:01 OK ls:sweep:shell_200_1 100s peak=0.01GB 17249
+2026-10-28 21:54:01 START ls:sweep:dragon_200_1 (0.3 GB)
+2026-10-28 21:54:33 OK ls:ck:shell_200_2 100s peak=0.01GB 16552
+2026-10-28 21:54:33 START ls:ck:buddha_200_1 (0.3 GB)
+2026-10-28 21:54:36 OK ls:sweep:shell_200_2 100s peak=0.01GB 16552
+2026-10-28 21:54:36 START ls:sweep:buddha_200_1 (0.3 GB)
+2026-10-28 21:54:48 OK ls:ck:shell_200_3 100s peak=0.01GB 16475
+2026-10-28 21:54:48 START base:uniform_10000_1 (5.3 GB)
+2026-10-28 21:55:03 OK ls:sweep:shell_200_3 100s peak=0.01GB 16475
+2026-10-28 21:55:03 START base:uniform_10000_2 (5.3 GB)
+2026-10-28 21:55:12 OK ls:ck:bunny_200_1 100s peak=0.01GB 16743
+2026-10-28 21:55:12 START base:uniform_10000_3 (5.3 GB)
+2026-10-28 21:55:12 OK ls:sweep:bunny_200_1 100s peak=0.01GB 16743
+2026-10-28 21:55:12 START base:gauss_10000_1 (5.3 GB)
+2026-10-28 21:55:27 OK ls:ck:armadillo_200_1 100s peak=0.01GB 16247
+2026-10-28 21:55:27 START base:gauss_10000_2 (5.3 GB)
+2026-10-28 21:55:27 OK ls:sweep:armadillo_200_1 100s peak=0.01GB 16247
+2026-10-28 21:55:27 START base:gauss_10000_3 (5.3 GB)
+2026-10-28 21:55:41 OK ls:ck:dragon_200_1 100s peak=0.02GB 15889
+2026-10-28 21:55:41 START base:cluster_10000_1 (5.3 GB)
+2026-10-28 21:55:41 OK ls:sweep:dragon_200_1 100s peak=0.02GB 15889
+2026-10-28 21:55:41 START base:cluster_10000_2 (5.3 GB)
+2026-10-28 21:56:13 OK ls:ck:buddha_200_1 100s peak=0.01GB 16033
+2026-10-28 21:56:13 START base:cluster_10000_3 (5.3 GB)
+2026-10-28 21:56:16 OK ls:sweep:buddha_200_1 100s peak=0.01GB 16033
+2026-10-28 21:56:16 START base:grid_10000_1 (5.3 GB)
+2026-10-28 21:59:43 OK base:cluster_10000_2 242s peak=0.85GB steps=2771492 lb1=3126625 lb=3247160
+2026-10-28 21:59:43 START base:grid_10000_2 (5.3 GB)
+2026-10-28 21:59:46 OK base:uniform_10000_1 298s peak=4.45GB steps=21372715 lb1=22222406 lb=22460755
+2026-10-28 21:59:46 START base:grid_10000_3 (5.3 GB)
+2026-10-28 21:59:46 OK base:cluster_10000_1 245s peak=0.88GB steps=2897032 lb1=3274932 lb=3404580
+2026-10-28 21:59:46 START base:spiral_10000_1 (5.3 GB)
+2026-10-28 21:59:56 OK base:gauss_10000_1 284s peak=5.20GB steps=25369961 lb1=26148751 lb=26380462
+2026-10-28 21:59:56 START base:spiral_10000_2 (5.3 GB)
+2026-10-28 22:00:02 OK base:uniform_10000_2 299s peak=4.47GB steps=21531920 lb1=22375613 lb=22607484
+2026-10-28 22:00:02 START base:spiral_10000_3 (5.3 GB)
+2026-10-28 22:00:08 OK base:cluster_10000_3 235s peak=0.85GB steps=2732909 lb1=3083779 lb=3202714
+2026-10-28 22:00:08 START base:shell_10000_1 (5.3 GB)
+2026-10-28 22:00:11 OK base:uniform_10000_3 299s peak=4.44GB steps=21203548 lb1=22023024 lb=22264219
+2026-10-28 22:00:11 START base:shell_10000_2 (5.3 GB)
+2026-10-28 22:00:15 OK base:gauss_10000_2 288s peak=5.20GB steps=25335293 lb1=26151397 lb=26394229
+2026-10-28 22:00:15 START base:shell_10000_3 (5.3 GB)
+2026-10-28 22:00:20 OK base:gauss_10000_3 292s peak=5.20GB steps=25517866 lb1=26331359 lb=26561283
+2026-10-28 22:00:20 START base:bunny_10000_1 (5.3 GB)
+2026-10-28 22:00:54 OK base:grid_10000_1 278s peak=8.42GB steps=42307084 lb1=42843626 lb=43162457
+2026-10-28 22:00:54 START base:armadillo_10000_1 (5.3 GB)
+2026-10-28 22:01:52 OK base:spiral_10000_1 126s peak=0.49GB steps=197463 lb1=201332 lb=205044
+2026-10-28 22:01:52 START base:dragon_10000_1 (5.3 GB)
+2026-10-28 22:02:02 OK base:spiral_10000_2 126s peak=0.49GB steps=198258 lb1=202251 lb=206095
+2026-10-28 22:02:02 START base:buddha_10000_1 (5.3 GB)
+2026-10-28 22:02:08 OK base:spiral_10000_3 125s peak=0.49GB steps=199940 lb1=203847 lb=207559
+2026-10-28 22:02:08 START base:uniform_5000_1 (1.6 GB)
+2026-10-28 22:03:03 OK base:uniform_5000_1 55s peak=1.31GB steps=7190433 lb1=7369389 lb=7396582
+2026-10-28 22:03:03 START base:uniform_5000_2 (1.6 GB)
+2026-10-28 22:03:57 OK base:uniform_5000_2 54s peak=1.32GB steps=7237525 lb1=7406679 lb=7431451
+2026-10-28 22:03:57 START base:uniform_5000_3 (1.6 GB)
+2026-10-28 22:04:21 OK base:grid_10000_2 278s peak=8.43GB steps=42298702 lb1=42799215 lb=43139278
+2026-10-28 22:04:21 START base:gauss_5000_1 (1.6 GB)
+2026-10-28 22:04:32 OK base:grid_10000_3 286s peak=8.43GB steps=42306243 lb1=42837498 lb=43179374
+2026-10-28 22:04:32 START base:gauss_5000_2 (1.6 GB)
+2026-10-28 22:04:48 OK base:uniform_5000_3 52s peak=1.31GB steps=7095241 lb1=7260531 lb=7288654
+2026-10-28 22:04:48 START base:gauss_5000_3 (1.6 GB)
+2026-10-28 22:05:14 OK base:gauss_5000_1 52s peak=1.80GB steps=8198162 lb1=8338165 lb=8363134
+2026-10-28 22:05:14 START base:cluster_5000_1 (1.6 GB)
+2026-10-28 22:05:25 OK base:gauss_5000_2 53s peak=1.79GB steps=8143017 lb1=8284368 lb=8311399
+2026-10-28 22:05:25 START base:cluster_5000_2 (1.6 GB)
+2026-10-28 22:05:31 OK base:shell_10000_1 323s peak=2.16GB steps=7505096 lb1=8106144 lb=8393924
+2026-10-28 22:05:31 START base:cluster_5000_3 (1.6 GB)
+2026-10-28 22:05:33 OK base:shell_10000_2 322s peak=2.16GB steps=7543009 lb1=8142095 lb=8427655
+2026-10-28 22:05:33 START base:grid_5000_1 (1.6 GB)
+2026-10-28 22:05:41 OK base:gauss_5000_3 53s peak=1.80GB steps=8162408 lb1=8309823 lb=8336597
+2026-10-28 22:05:41 START base:grid_5000_2 (1.6 GB)
+2026-10-28 22:05:42 OK base:shell_10000_3 327s peak=2.15GB steps=7484598 lb1=8094815 lb=8383993
+2026-10-28 22:05:42 START base:grid_5000_3 (1.6 GB)
+2026-10-28 22:06:03 OK base:cluster_5000_1 49s peak=0.28GB steps=782060 lb1=877260 lb=908724
+2026-10-28 22:06:03 START base:spiral_5000_1 (1.6 GB)
+2026-10-28 22:06:08 OK base:bunny_10000_1 349s peak=1.53GB steps=5367765 lb1=5773888 lb=6057357
+2026-10-28 22:06:08 START base:spiral_5000_2 (1.6 GB)
+2026-10-28 22:06:12 OK base:cluster_5000_2 47s peak=0.24GB steps=704160 lb1=792888 lb=821782
+2026-10-28 22:06:12 START base:spiral_5000_3 (1.6 GB)
+2026-10-28 22:06:19 OK base:cluster_5000_3 48s peak=0.25GB steps=727633 lb1=820143 lb=850391
+2026-10-28 22:06:19 START base:shell_5000_1 (1.6 GB)
+2026-10-28 22:06:20 OK base:grid_5000_1 47s peak=2.25GB steps=12213640 lb1=12228225 lb=12235918
+2026-10-28 22:06:20 START base:shell_5000_2 (1.6 GB)
+2026-10-28 22:06:28 OK base:grid_5000_2 47s peak=2.26GB steps=12220881 lb1=12235664 lb=12244362
+2026-10-28 22:06:28 START base:shell_5000_3 (1.6 GB)
+2026-10-28 22:06:29 OK base:grid_5000_3 47s peak=2.26GB steps=12218288 lb1=12232517 lb=12240832
+2026-10-28 22:06:29 START base:bunny_5000_1 (1.6 GB)
+2026-10-28 22:06:34 OK base:spiral_5000_1 32s peak=0.13GB steps=97873 lb1=99918 lb=101764
+2026-10-28 22:06:34 START base:armadillo_5000_1 (1.6 GB)
+2026-10-28 22:06:42 OK base:spiral_5000_2 33s peak=0.13GB steps=98832 lb1=100859 lb=102698
+2026-10-28 22:06:42 START base:dragon_5000_1 (1.6 GB)
+2026-10-28 22:06:45 OK base:spiral_5000_3 33s peak=0.13GB steps=100139 lb1=102178 lb=104047
+2026-10-28 22:06:45 START base:buddha_5000_1 (1.6 GB)
+2026-10-28 22:06:50 OK base:dragon_10000_1 298s peak=1.47GB steps=5329245 lb1=5702823 lb=5905498
+2026-10-28 22:06:50 START base:uniform_2000_1 (0.5 GB)
+2026-10-28 22:06:57 OK base:uniform_2000_1 7s peak=0.29GB steps=1516324 lb1=1530180 lb=1531003
+2026-10-28 22:06:57 START base:uniform_2000_2 (0.5 GB)
+2026-10-28 22:07:04 OK base:uniform_2000_2 7s peak=0.29GB steps=1520257 lb1=1532810 lb=1533196
+2026-10-28 22:07:04 START base:uniform_2000_3 (0.5 GB)
+2026-10-28 22:07:10 OK base:uniform_2000_3 7s peak=0.29GB steps=1498446 lb1=1509285 lb=1510538
+2026-10-28 22:07:10 START base:gauss_2000_1 (0.5 GB)
+2026-10-28 22:07:15 OK base:shell_5000_2 55s peak=0.67GB steps=2921836 lb1=3121120 lb=3203002
+2026-10-28 22:07:15 START base:gauss_2000_2 (0.5 GB)
+2026-10-28 22:07:17 OK base:gauss_2000_1 7s peak=0.30GB steps=1634313 lb1=1642132 lb=1642915
+2026-10-28 22:07:17 START base:gauss_2000_3 (0.5 GB)
+2026-10-28 22:07:19 OK base:shell_5000_1 60s peak=0.67GB steps=2902376 lb1=3104343 lb=3185317
+2026-10-28 22:07:19 START base:cluster_2000_1 (0.5 GB)
+2026-10-28 22:07:22 OK base:gauss_2000_2 7s peak=0.30GB steps=1639466 lb1=1648946 lb=1649603
+2026-10-28 22:07:22 START base:cluster_2000_2 (0.5 GB)
+2026-10-28 22:07:24 OK base:gauss_2000_3 7s peak=0.30GB steps=1612989 lb1=1624883 lb=1625581
+2026-10-28 22:07:24 START base:cluster_2000_3 (0.5 GB)
+2026-10-28 22:07:25 OK base:cluster_2000_1 6s peak=0.05GB steps=147513 lb1=164196 lb=169264
+2026-10-28 22:07:25 START base:grid_2000_1 (0.5 GB)
+2026-10-28 22:07:28 OK base:shell_5000_3 60s peak=0.67GB steps=2924880 lb1=3133740 lb=3216023
+2026-10-28 22:07:28 START base:grid_2000_2 (0.5 GB)
+2026-10-28 22:07:28 OK base:cluster_2000_2 6s peak=0.05GB steps=128824 lb1=144539 lb=149443
+2026-10-28 22:07:28 START base:grid_2000_3 (0.5 GB)
+2026-10-28 22:07:30 OK base:cluster_2000_3 6s peak=0.05GB steps=131596 lb1=146963 lb=151671
+2026-10-28 22:07:30 START base:spiral_2000_1 (0.5 GB)
+2026-10-28 22:07:32 OK base:grid_2000_1 7s peak=0.34GB steps=1998988 lb1=1998988 lb=1998988
+2026-10-28 22:07:32 START base:spiral_2000_2 (0.5 GB)
+2026-10-28 22:07:33 OK base:armadillo_5000_1 58s peak=0.60GB steps=2113244 lb1=2246514 lb=2309732
+2026-10-28 22:07:33 START base:spiral_2000_3 (0.5 GB)
+2026-10-28 22:07:33 OK base:bunny_5000_1 65s peak=0.63GB steps=2285319 lb1=2433121 lb=2509500
+2026-10-28 22:07:33 START base:shell_2000_1 (0.5 GB)
+2026-10-28 22:07:35 OK base:spiral_2000_1 5s peak=0.02GB steps=38896 lb1=39767 lb=40459
+2026-10-28 22:07:35 START base:shell_2000_2 (0.5 GB)
+2026-10-28 22:07:35 OK base:grid_2000_3 7s peak=0.34GB steps=1998990 lb1=1998990 lb=1998990
+2026-10-28 22:07:35 START base:shell_2000_3 (0.5 GB)
+2026-10-28 22:07:35 OK base:grid_2000_2 7s peak=0.34GB steps=1998989 lb1=1998989 lb=1998989
+2026-10-28 22:07:35 START base:bunny_2000_1 (0.5 GB)
+2026-10-28 22:07:36 OK base:armadillo_10000_1 402s peak=1.43GB steps=4953525 lb1=5328317 lb=5550792
+2026-10-28 22:07:36 START base:armadillo_2000_1 (0.5 GB)
+2026-10-28 22:07:36 OK base:spiral_2000_2 5s peak=0.02GB steps=40293 lb1=41146 lb=41880
+2026-10-28 22:07:36 START base:dragon_2000_1 (0.5 GB)
+2026-10-28 22:07:37 OK base:spiral_2000_3 5s peak=0.02GB steps=39346 lb1=40187 lb=40879
+2026-10-28 22:07:37 START base:buddha_2000_1 (0.5 GB)
+2026-10-28 22:07:40 OK base:shell_2000_1 7s peak=0.19GB steps=785427 lb1=822778 lb=830209
+2026-10-28 22:07:40 START base:uniform_1000_1 (0.3 GB)
+2026-10-28 22:07:42 OK base:shell_2000_3 7s peak=0.19GB steps=784506 lb1=821170 lb=830075
+2026-10-28 22:07:42 START base:uniform_1000_2 (0.3 GB)
+2026-10-28 22:07:42 OK base:uniform_1000_1 2s peak=0.09GB steps=429856 lb1=430793 lb=430945
+2026-10-28 22:07:42 START base:uniform_1000_3 (0.3 GB)
+2026-10-28 22:07:42 OK base:shell_2000_2 7s peak=0.19GB steps=808076 lb1=842888 lb=851953
+2026-10-28 22:07:42 START base:gauss_1000_1 (0.3 GB)
+2026-10-28 22:07:42 OK base:bunny_2000_1 7s peak=0.17GB steps=694154 lb1=721320 lb=731108
+2026-10-28 22:07:42 START base:gauss_1000_2 (0.3 GB)
+2026-10-28 22:07:43 OK base:armadillo_2000_1 7s peak=0.16GB steps=626735 lb1=651489 lb=660333
+2026-10-28 22:07:43 START base:gauss_1000_3 (0.3 GB)
+2026-10-28 22:07:43 OK base:dragon_2000_1 7s peak=0.17GB steps=651979 lb1=675613 lb=684037
+2026-10-28 22:07:43 START base:cluster_1000_1 (0.3 GB)
+2026-10-28 22:07:44 OK base:uniform_1000_3 2s peak=0.09GB steps=428345 lb1=429779 lb=429844
+2026-10-28 22:07:44 START base:cluster_1000_2 (0.3 GB)
+2026-10-28 22:07:44 OK base:uniform_1000_2 2s peak=0.09GB steps=433945 lb1=435502 lb=435506
+2026-10-28 22:07:44 START base:cluster_1000_3 (0.3 GB)
+2026-10-28 22:07:44 OK base:gauss_1000_1 2s peak=0.10GB steps=449699 lb1=450849 lb=450885
+2026-10-28 22:07:44 START base:grid_1000_1 (0.3 GB)
+2026-10-28 22:07:44 OK base:gauss_1000_2 2s peak=0.10GB steps=450040 lb1=450612 lb=450637
+2026-10-28 22:07:44 START base:grid_1000_2 (0.3 GB)
+2026-10-28 22:07:44 OK base:buddha_2000_1 7s peak=0.17GB steps=687345 lb1=711039 lb=718854
+2026-10-28 22:07:44 START base:grid_1000_3 (0.3 GB)
+2026-10-28 22:07:45 OK base:gauss_1000_3 2s peak=0.10GB steps=445677 lb1=447121 lb=447140
+2026-10-28 22:07:45 START base:spiral_1000_1 (0.3 GB)
+2026-10-28 22:07:45 OK base:dragon_5000_1 63s peak=0.62GB steps=2264322 lb1=2388985 lb=2446541
+2026-10-28 22:07:45 START base:spiral_1000_2 (0.3 GB)
+2026-10-28 22:07:45 OK base:cluster_1000_1 2s peak=0.02GB steps=40331 lb1=44254 lb=45437
+2026-10-28 22:07:45 START base:spiral_1000_3 (0.3 GB)
+2026-10-28 22:07:45 OK base:cluster_1000_3 1s peak=0.02GB steps=35575 lb1=39379 lb=40320
+2026-10-28 22:07:45 START base:shell_1000_1 (0.3 GB)
+2026-10-28 22:07:45 OK base:cluster_1000_2 2s peak=0.02GB steps=39507 lb1=43406 lb=44603
+2026-10-28 22:07:45 START base:shell_1000_2 (0.3 GB)
+2026-10-28 22:07:45 OK base:buddha_5000_1 60s peak=0.59GB steps=2469214 lb1=2612393 lb=2671193
+2026-10-28 22:07:45 START base:shell_1000_3 (0.3 GB)
+2026-10-28 22:07:45 OK base:grid_1000_1 2s peak=0.10GB steps=499500 lb1=499500 lb=499500
+2026-10-28 22:07:45 START base:bunny_1000_1 (0.3 GB)
+2026-10-28 22:07:46 OK base:grid_1000_2 2s peak=0.10GB steps=499500 lb1=499500 lb=499500
+2026-10-28 22:07:46 START base:armadillo_1000_1 (0.3 GB)
+2026-10-28 22:07:46 OK base:spiral_1000_1 1s peak=0.01GB steps=19635 lb1=20067 lb=20315
+2026-10-28 22:07:46 START base:dragon_1000_1 (0.3 GB)
+2026-10-28 22:07:46 OK base:grid_1000_3 2s peak=0.10GB steps=499500 lb1=499500 lb=499500
+2026-10-28 22:07:46 START base:buddha_1000_1 (0.3 GB)
+2026-10-28 22:07:46 OK base:spiral_1000_2 1s peak=0.01GB steps=20675 lb1=21099 lb=21375
+2026-10-28 22:07:46 START base:uniform_500_1 (0.3 GB)
+2026-10-28 22:07:46 OK base:spiral_1000_3 1s peak=0.01GB steps=20674 lb1=21069 lb=21383
+2026-10-28 22:07:46 START base:uniform_500_2 (0.3 GB)
+2026-10-28 22:07:47 OK base:uniform_500_1 0s peak=0.03GB steps=117013 lb1=117059 lb=117059
+2026-10-28 22:07:47 START base:uniform_500_3 (0.3 GB)
+2026-10-28 22:07:47 OK base:uniform_500_2 0s peak=0.03GB steps=116400 lb1=116435 lb=116435
+2026-10-28 22:07:47 START base:gauss_500_1 (0.3 GB)
+2026-10-28 22:07:47 OK base:shell_1000_1 2s peak=0.08GB steps=271921 lb1=280102 lb=281055
+2026-10-28 22:07:47 START base:gauss_500_2 (0.3 GB)
+2026-10-28 22:07:47 OK base:shell_1000_2 2s peak=0.08GB steps=284413 lb1=292016 lb=292653
+2026-10-28 22:07:47 START base:gauss_500_3 (0.3 GB)
+2026-10-28 22:07:47 OK base:uniform_500_3 0s peak=0.03GB steps=115656 lb1=115686 lb=115692
+2026-10-28 22:07:47 START base:cluster_500_1 (0.3 GB)
+2026-10-28 22:07:47 OK base:shell_1000_3 2s peak=0.08GB steps=264272 lb1=271553 lb=272150
+2026-10-28 22:07:47 START base:cluster_500_2 (0.3 GB)
+2026-10-28 22:07:47 OK base:gauss_500_1 0s peak=0.03GB steps=117983 lb1=118113 lb=118113
+2026-10-28 22:07:47 START base:cluster_500_3 (0.3 GB)
+2026-10-28 22:07:47 OK base:gauss_500_2 0s peak=0.03GB steps=117392 lb1=117493 lb=117495
+2026-10-28 22:07:47 START base:grid_500_1 (0.3 GB)
+2026-10-28 22:07:47 OK base:bunny_1000_1 2s peak=0.07GB steps=258523 lb1=264107 lb=265154
+2026-10-28 22:07:47 START base:grid_500_2 (0.3 GB)
+2026-10-28 22:07:47 OK base:gauss_500_3 0s peak=0.03GB steps=115988 lb1=116104 lb=116104
+2026-10-28 22:07:47 START base:grid_500_3 (0.3 GB)
+2026-10-28 22:07:47 OK base:cluster_500_2 0s peak=0.01GB steps=10299 lb1=11061 lb=11319
+2026-10-28 22:07:47 START base:spiral_500_1 (0.3 GB)
+2026-10-28 22:07:47 OK base:cluster_500_1 0s peak=0.01GB steps=11208 lb1=12187 lb=12451
+2026-10-28 22:07:47 START base:spiral_500_2 (0.3 GB)
+2026-10-28 22:07:47 OK base:cluster_500_3 0s peak=0.01GB steps=10643 lb1=11496 lb=11744
+2026-10-28 22:07:47 START base:spiral_500_3 (0.3 GB)
+2026-10-28 22:07:47 OK base:armadillo_1000_1 2s peak=0.05GB steps=224425 lb1=230186 lb=231258
+2026-10-28 22:07:47 START base:shell_500_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:grid_500_1 0s peak=0.03GB steps=124750 lb1=124750 lb=124750
+2026-10-28 22:07:48 START base:shell_500_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:grid_500_2 0s peak=0.03GB steps=124750 lb1=124750 lb=124750
+2026-10-28 22:07:48 START base:shell_500_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:grid_500_3 0s peak=0.03GB steps=124750 lb1=124750 lb=124750
+2026-10-28 22:07:48 START base:bunny_500_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:spiral_500_1 0s peak=0.01GB steps=9619 lb1=9740 lb=9814
+2026-10-28 22:07:48 START base:armadillo_500_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:spiral_500_2 0s peak=0.01GB steps=10243 lb1=10350 lb=10420
+2026-10-28 22:07:48 START base:dragon_500_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:spiral_500_3 0s peak=0.01GB steps=10035 lb1=10119 lb=10194
+2026-10-28 22:07:48 START base:buddha_500_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:dragon_1000_1 2s peak=0.06GB steps=233211 lb1=238249 lb=239789
+2026-10-28 22:07:48 START base:uniform_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:uniform_200_1 0s peak=0.01GB steps=19653 lb1=19653 lb=19653
+2026-10-28 22:07:48 START base:uniform_200_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:uniform_200_2 0s peak=0.01GB steps=19017 lb1=19017 lb=19017
+2026-10-28 22:07:48 START base:uniform_200_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:buddha_1000_1 2s peak=0.06GB steps=246224 lb1=251480 lb=252698
+2026-10-28 22:07:48 START base:gauss_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:shell_500_1 0s peak=0.02GB steps=84804 lb1=85863 lb=85880
+2026-10-28 22:07:48 START base:gauss_200_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:uniform_200_3 0s peak=0.01GB steps=19223 lb1=19223 lb=19223
+2026-10-28 22:07:48 START base:gauss_200_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:gauss_200_1 0s peak=0.01GB steps=19527 lb1=19547 lb=19547
+2026-10-28 22:07:48 START base:cluster_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:shell_500_2 0s peak=0.03GB steps=89139 lb1=89907 lb=89945
+2026-10-28 22:07:48 START base:cluster_200_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:gauss_200_2 0s peak=0.01GB steps=19503 lb1=19505 lb=19505
+2026-10-28 22:07:48 START base:cluster_200_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:gauss_200_3 0s peak=0.01GB steps=19262 lb1=19262 lb=19262
+2026-10-28 22:07:48 START base:grid_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:shell_500_3 0s peak=0.02GB steps=82646 lb1=83697 lb=83720
+2026-10-28 22:07:48 START base:grid_200_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:bunny_500_1 0s peak=0.02GB steps=84642 lb1=85753 lb=85989
+2026-10-28 22:07:48 START base:grid_200_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:cluster_200_1 0s peak=0.01GB steps=3509 lb1=3728 lb=3795
+2026-10-28 22:07:48 START base:spiral_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:cluster_200_2 0s peak=0.01GB steps=2857 lb1=2958 lb=3000
+2026-10-28 22:07:48 START base:spiral_200_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:armadillo_500_1 0s peak=0.02GB steps=78887 lb1=80041 lb=80212
+2026-10-28 22:07:48 START base:spiral_200_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:cluster_200_3 0s peak=0.01GB steps=2725 lb1=2850 lb=2890
+2026-10-28 22:07:48 START base:shell_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:grid_200_1 0s peak=0.01GB steps=19900 lb1=19900 lb=19900
+2026-10-28 22:07:48 START base:shell_200_2 (0.3 GB)
+2026-10-28 22:07:48 OK base:grid_200_2 0s peak=0.01GB steps=19900 lb1=19900 lb=19900
+2026-10-28 22:07:48 START base:shell_200_3 (0.3 GB)
+2026-10-28 22:07:48 OK base:spiral_200_1 0s peak=0.01GB steps=3586 lb1=3608 lb=3638
+2026-10-28 22:07:48 START base:bunny_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:grid_200_3 0s peak=0.01GB steps=19900 lb1=19900 lb=19900
+2026-10-28 22:07:48 START base:armadillo_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:spiral_200_2 0s peak=0.01GB steps=3769 lb1=3791 lb=3827
+2026-10-28 22:07:48 START base:dragon_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:dragon_500_1 0s peak=0.03GB steps=76800 lb1=77665 lb=77760
+2026-10-28 22:07:48 START base:buddha_200_1 (0.3 GB)
+2026-10-28 22:07:48 OK base:spiral_200_3 0s peak=0.01GB steps=3491 lb1=3508 lb=3529
+2026-10-28 22:07:48 OK base:shell_200_1 0s peak=0.01GB steps=17167 lb1=17249 lb=17249
+2026-10-28 22:07:48 OK base:shell_200_2 0s peak=0.01GB steps=16458 lb1=16551 lb=16552
+2026-10-28 22:07:48 OK base:shell_200_3 0s peak=0.01GB steps=16452 lb1=16475 lb=16475
+2026-10-28 22:07:48 OK base:buddha_500_1 0s peak=0.02GB steps=80332 lb1=81384 lb=81499
+2026-10-28 22:07:48 OK base:bunny_200_1 0s peak=0.01GB steps=16615 lb1=16676 lb=16740
+2026-10-28 22:07:48 OK base:armadillo_200_1 0s peak=0.01GB steps=16143 lb1=16245 lb=16247
+2026-10-28 22:07:48 OK base:buddha_200_1 0s peak=0.01GB steps=16006 lb1=16027 lb=16027
+2026-10-28 22:07:48 OK base:dragon_200_1 0s peak=0.02GB steps=15848 lb1=15888 lb=15889
+2026-10-28 22:07:48 OK base:buddha_10000_1 347s peak=1.53GB steps=5913492 lb1=6343504 lb=6574714
+2026-10-28 22:07:48 END
+2026-10-28 22:11:53 RUN 132 jobs, P = 1, MEM_GB = 30.0
+2026-10-28 22:11:53 START opt:uniform_900_1 (10.0 GB)
+2026-10-28 22:11:53 RUN 792 jobs, P = 10, MEM_GB = 55.0
+2026-10-28 22:11:53 START ls:ck:uniform_9000_1 (7.6 GB)
+2026-10-28 22:11:53 START ls:sweep:uniform_9000_1 (7.6 GB)
+2026-10-28 22:11:53 START ls:ck:uniform_9000_2 (7.6 GB)
+2026-10-28 22:11:53 START ls:sweep:uniform_9000_2 (7.6 GB)
+2026-10-28 22:11:53 START ls:ck:uniform_9000_3 (7.6 GB)
+2026-10-28 22:11:53 START ls:sweep:uniform_9000_3 (7.6 GB)
+2026-10-28 22:11:53 START ls:ck:gauss_9000_1 (7.6 GB)
+2026-10-28 22:11:53 START ls:ck:uniform_4000_1 (1.7 GB)
+2026-10-28 22:11:54 OK opt:uniform_900_1 2s peak=0.55GB 356845 optimal=1
+2026-10-28 22:11:54 START opt:uniform_900_2 (10.0 GB)
+2026-10-28 22:11:56 OK opt:uniform_900_2 2s peak=0.55GB 357631 optimal=1
+2026-10-28 22:11:56 START opt:uniform_900_3 (10.0 GB)
+2026-10-28 22:11:57 OK opt:uniform_900_3 1s peak=0.55GB 355989 optimal=1
+2026-10-28 22:11:57 START opt:gauss_900_1 (10.0 GB)
+2026-10-28 22:11:58 OK opt:gauss_900_1 1s peak=0.55GB 369379 optimal=1
+2026-10-28 22:11:58 START opt:gauss_900_2 (10.0 GB)
+2026-10-28 22:12:00 OK opt:gauss_900_2 1s peak=0.55GB 366371 optimal=1
+2026-10-28 22:12:00 START opt:gauss_900_3 (10.0 GB)
+2026-10-28 22:12:01 OK opt:gauss_900_3 1s peak=0.55GB 364664 optimal=1
+2026-10-28 22:12:01 START opt:cluster_900_1 (10.0 GB)
+2026-10-28 22:12:29 OK opt:cluster_900_1 29s peak=7.64GB 37281 optimal=1
+2026-10-28 22:12:29 START opt:cluster_900_2 (10.0 GB)
+2026-10-28 22:13:04 OK opt:cluster_900_2 34s peak=8.93GB 33985 optimal=1
+2026-10-28 22:13:04 START opt:cluster_900_3 (10.0 GB)
+2026-10-28 22:13:32 OK opt:cluster_900_3 28s peak=7.34GB 35298 optimal=1
+2026-10-28 22:13:32 START opt:grid_900_1 (10.0 GB)
+2026-10-28 22:13:32 OK opt:grid_900_1 1s peak=0.54GB 404550 optimal=1
+2026-10-28 22:13:32 START opt:grid_900_2 (10.0 GB)
+2026-10-28 22:13:33 OK opt:grid_900_2 1s peak=0.54GB 404550 optimal=1
+2026-10-28 22:13:33 START opt:grid_900_3 (10.0 GB)
+2026-10-28 22:13:34 OK opt:grid_900_3 1s peak=0.54GB 404550 optimal=1
+2026-10-28 22:13:34 START opt:spiral_900_1 (28.0 GB)
+2026-10-28 22:22:24 STOPPED by hand (seed 1 only for the rest)
+2026-10-28 22:40:59 RUN 862 jobs, P = 11, MEM_GB = 74.0
+2026-10-28 22:40:59 START replay:ck:uniform_10000_1 (14.3 GB)
+2026-10-28 22:40:59 START replay:sweep:uniform_10000_1 (14.3 GB)
+2026-10-28 22:40:59 START replay:ck:gauss_10000_1 (14.3 GB)
+2026-10-28 22:40:59 START lns:ck:cluster_10000_1 (10.3 GB)
+2026-10-28 22:40:59 START lns:ck:uniform_10000_1 (10.3 GB)
+2026-10-28 22:40:59 START lns:sweep:uniform_10000_1 (10.3 GB)
+2026-10-28 22:57:44 OK lns:ck:cluster_10000_1 1005s peak=2.86GB 4416214
+2026-10-28 22:57:44 START lns:sweep:cluster_10000_1 (10.3 GB)
+2026-10-28 22:57:52 OK lns:ck:uniform_10000_1 1013s peak=8.19GB 28307188
+2026-10-28 22:57:52 START lns:ck:bunny_10000_1 (10.3 GB)
+2026-10-28 22:58:56 OK lns:sweep:uniform_10000_1 1077s peak=6.77GB 23073610
+2026-10-28 22:58:56 START lns:sweep:bunny_10000_1 (10.3 GB)
+2026-10-28 23:00:41 OK replay:ck:gauss_10000_1 1181s peak=6.54GB reproduced 26457517, partition 26481339
+2026-10-28 23:00:41 START replay:sweep:gauss_10000_1 (14.3 GB)
+2026-10-28 23:00:47 OK replay:ck:uniform_10000_1 1188s peak=5.88GB reproduced 22521220, partition 22626723
+2026-10-28 23:00:47 START replay:ck:cluster_10000_1 (14.3 GB)
+2026-10-28 23:02:01 OK replay:sweep:uniform_10000_1 1262s peak=5.48GB reproduced 22521098, partition 22627337
+2026-10-28 23:02:01 START replay:sweep:cluster_10000_1 (14.3 GB)
+2026-10-28 23:14:39 OK lns:ck:bunny_10000_1 1008s peak=4.01GB 8770554
+2026-10-28 23:14:39 START ls:ck:uniform_8000_1 (9.3 GB)
+2026-10-28 23:14:39 START replay:ck:uniform_2000_1 (0.9 GB)
+2026-10-28 23:14:39 START ls:ck:uniform_700_1 (0.4 GB)
+2026-10-28 23:14:54 OK lns:sweep:cluster_10000_1 1029s peak=2.27GB 3721864
+2026-10-28 23:14:54 START ls:sweep:uniform_8000_1 (9.3 GB)
+2026-10-28 23:14:54 START replay:sweep:uniform_2000_1 (0.9 GB)
+2026-10-28 23:16:20 OK ls:ck:uniform_700_1 100s peak=0.07GB 224080
+2026-10-28 23:16:20 START replay:ck:uniform_1000_1 (0.4 GB)
+2026-10-28 23:16:20 OK lns:sweep:bunny_10000_1 1044s peak=3.04GB 7166095
+2026-10-28 23:16:20 START ls:ck:gauss_8000_1 (9.3 GB)
+2026-10-28 23:16:20 START replay:ck:gauss_2000_1 (0.9 GB)
+2026-10-28 23:18:03 OK replay:ck:uniform_1000_1 103s peak=0.13GB reproduced 430976, partition 430976
+2026-10-28 23:18:03 START replay:sweep:uniform_1000_1 (0.4 GB)
+2026-10-28 23:19:18 OK replay:ck:cluster_10000_1 1111s peak=1.26GB reproduced 3455668, partition 3619174
+2026-10-28 23:19:18 START replay:ck:grid_10000_1 (14.3 GB)
+2026-10-28 23:19:47 OK replay:sweep:uniform_1000_1 104s peak=0.14GB reproduced 430976, partition 430976
+2026-10-28 23:19:47 START lns:ck:uniform_1000_1 (0.4 GB)
+2026-10-28 23:19:47 START replay:ck:uniform_500_1 (0.3 GB)
+2026-10-28 23:20:32 OK replay:sweep:gauss_10000_1 1191s peak=6.19GB reproduced 26459090, partition 26482479
+2026-10-28 23:20:32 START replay:sweep:grid_10000_1 (14.3 GB)
+2026-10-28 23:21:05 OK replay:sweep:cluster_10000_1 1143s peak=1.14GB reproduced 3455620, partition 3618704
+2026-10-28 23:21:05 START replay:ck:spiral_10000_1 (14.3 GB)
+2026-10-28 23:21:27 OK lns:ck:uniform_1000_1 100s peak=0.24GB 430976
+2026-10-28 23:21:27 START lns:sweep:uniform_1000_1 (0.4 GB)
+2026-10-28 23:21:36 OK replay:ck:uniform_500_1 109s peak=0.04GB reproduced 117059, partition 117059
+2026-10-28 23:21:36 START replay:sweep:uniform_500_1 (0.3 GB)
+2026-10-28 23:23:08 OK lns:sweep:uniform_1000_1 101s peak=0.23GB 430976
+2026-10-28 23:23:08 START lns:ck:gauss_1000_1 (0.4 GB)
+2026-10-28 23:23:21 OK replay:sweep:uniform_500_1 105s peak=0.04GB reproduced 117059, partition 117059
+2026-10-28 23:23:21 START replay:ck:gauss_500_1 (0.3 GB)
+2026-10-28 23:24:48 OK lns:ck:gauss_1000_1 100s peak=0.24GB 450907
+2026-10-28 23:24:48 START lns:sweep:gauss_1000_1 (0.4 GB)
+2026-10-28 23:25:06 OK replay:ck:gauss_500_1 105s peak=0.04GB reproduced 118114, partition 118114
+2026-10-28 23:25:06 START replay:sweep:gauss_500_1 (0.3 GB)
+2026-10-28 23:26:29 OK lns:sweep:gauss_1000_1 101s peak=0.23GB 450907
+2026-10-28 23:26:29 START lns:ck:cluster_1000_1 (0.4 GB)
+2026-10-28 23:26:53 OK replay:sweep:gauss_500_1 107s peak=0.04GB reproduced 118114, partition 118114
+2026-10-28 23:26:53 START replay:ck:cluster_500_1 (0.3 GB)
+2026-10-28 23:28:09 OK lns:ck:cluster_1000_1 100s peak=0.48GB 45956
+2026-10-28 23:28:09 START lns:sweep:cluster_1000_1 (0.4 GB)
+2026-10-28 23:28:34 OK replay:ck:cluster_500_1 100s peak=0.01GB reproduced 12622, partition 12920
+2026-10-28 23:28:34 START replay:sweep:cluster_500_1 (0.3 GB)
+2026-10-28 23:29:50 OK lns:sweep:cluster_1000_1 101s peak=0.46GB 45920
+2026-10-28 23:29:50 START lns:ck:grid_1000_1 (0.4 GB)
+2026-10-28 23:30:16 OK replay:sweep:cluster_500_1 102s peak=0.01GB reproduced 12619, partition 12893
+2026-10-28 23:30:16 START replay:ck:grid_500_1 (0.3 GB)
+2026-10-28 23:30:55 OK replay:ck:uniform_2000_1 975s peak=0.37GB reproduced 1531371, partition 1531427
+2026-10-28 23:30:55 START replay:sweep:gauss_2000_1 (0.9 GB)
+2026-10-28 23:31:30 OK lns:ck:grid_1000_1 100s peak=0.24GB 499500
+2026-10-28 23:31:30 START lns:sweep:grid_1000_1 (0.4 GB)
+2026-10-28 23:31:43 OK replay:sweep:uniform_2000_1 1010s peak=0.36GB reproduced 1531371, partition 1531414
+2026-10-28 23:31:43 START replay:ck:cluster_2000_1 (0.9 GB)
+2026-10-28 23:32:14 OK ls:ck:uniform_8000_1 1055s peak=3.78GB 15747388
+2026-10-28 23:32:14 START ls:sweep:gauss_8000_1 (9.3 GB)
+2026-10-28 23:32:17 OK replay:ck:grid_500_1 121s peak=0.04GB reproduced 124750, partition 124750
+2026-10-28 23:32:17 START replay:sweep:grid_500_1 (0.3 GB)
+2026-10-28 23:32:20 OK replay:ck:gauss_2000_1 960s peak=0.39GB reproduced 1643250, partition 1643252
+2026-10-28 23:32:20 START replay:sweep:cluster_2000_1 (0.9 GB)
+2026-10-28 23:32:57 OK ls:sweep:uniform_8000_1 1083s peak=3.52GB 15747338
+2026-10-28 23:32:57 START ls:ck:cluster_8000_1 (9.3 GB)
+2026-10-28 23:33:11 OK lns:sweep:grid_1000_1 101s peak=0.24GB 499500
+2026-10-28 23:33:11 START lns:ck:spiral_1000_1 (0.4 GB)
+2026-10-28 23:33:42 OK ls:ck:gauss_8000_1 1042s peak=4.99GB 18417469
+2026-10-28 23:33:42 START ls:sweep:cluster_8000_1 (9.3 GB)
+2026-10-28 23:34:23 OK replay:sweep:grid_500_1 126s peak=0.04GB reproduced 124750, partition 124750
+2026-10-28 23:34:23 START replay:ck:spiral_500_1 (0.3 GB)
+2026-10-28 23:34:51 OK lns:ck:spiral_1000_1 100s peak=0.14GB 21161
+2026-10-28 23:34:51 START lns:sweep:spiral_1000_1 (0.4 GB)
+2026-10-28 23:36:04 OK replay:ck:spiral_500_1 101s peak=0.01GB reproduced 9871, partition 9960
+2026-10-28 23:36:04 START replay:sweep:spiral_500_1 (0.3 GB)
+2026-10-28 23:36:32 OK lns:sweep:spiral_1000_1 100s peak=0.13GB 20829
+2026-10-28 23:36:32 START lns:ck:shell_1000_1 (0.4 GB)
+2026-10-28 23:37:36 OK replay:ck:grid_10000_1 1098s peak=10.69GB reproduced 43469076, partition 43793544
+2026-10-28 23:37:36 START replay:sweep:spiral_10000_1 (14.3 GB)
+2026-10-28 23:37:45 OK replay:sweep:spiral_500_1 102s peak=0.01GB reproduced 9871, partition 9952
+2026-10-28 23:37:45 START replay:ck:shell_500_1 (0.3 GB)
+2026-10-28 23:37:56 OK replay:ck:spiral_10000_1 1011s peak=0.45GB reproduced 210728, partition 222118
+2026-10-28 23:37:56 START replay:ck:shell_10000_1 (14.3 GB)
+2026-10-28 23:38:12 OK lns:ck:shell_1000_1 100s peak=0.24GB 281314
+2026-10-28 23:38:12 START lns:sweep:shell_1000_1 (0.4 GB)
+2026-10-28 23:39:52 OK replay:ck:shell_500_1 127s peak=0.03GB reproduced 85921, partition 85921
+2026-10-28 23:39:52 START replay:sweep:shell_500_1 (0.3 GB)
+2026-10-28 23:39:53 OK lns:sweep:shell_1000_1 101s peak=0.20GB 281309
+2026-10-28 23:39:53 START lns:ck:bunny_1000_1 (0.4 GB)
+2026-10-28 23:40:01 OK replay:sweep:grid_10000_1 1169s peak=10.58GB reproduced 43474757, partition 43812565
+2026-10-28 23:40:01 START replay:sweep:shell_10000_1 (14.3 GB)
+2026-10-28 23:41:33 OK lns:ck:bunny_1000_1 100s peak=0.24GB 265400
+2026-10-28 23:41:33 START lns:sweep:bunny_1000_1 (0.4 GB)
+2026-10-28 23:41:51 OK replay:sweep:shell_500_1 119s peak=0.04GB reproduced 85921, partition 85925
+2026-10-28 23:41:51 START replay:ck:bunny_500_1 (0.3 GB)
+2026-10-28 23:43:14 OK lns:sweep:bunny_1000_1 101s peak=0.20GB 265410
+2026-10-28 23:43:14 START lns:ck:armadillo_1000_1 (0.4 GB)
+2026-10-28 23:43:38 OK replay:ck:bunny_500_1 107s peak=0.03GB reproduced 86012, partition 86015
+2026-10-28 23:43:38 START replay:sweep:bunny_500_1 (0.3 GB)
+2026-10-28 23:44:54 OK lns:ck:armadillo_1000_1 100s peak=0.22GB 231611
+2026-10-28 23:44:54 START lns:sweep:armadillo_1000_1 (0.4 GB)
+2026-10-28 23:45:29 OK replay:sweep:bunny_500_1 111s peak=0.03GB reproduced 86012, partition 86014
+2026-10-28 23:45:29 START replay:ck:armadillo_500_1 (0.3 GB)
+2026-10-28 23:46:35 OK lns:sweep:armadillo_1000_1 101s peak=0.19GB 231609
+2026-10-28 23:46:35 START lns:ck:dragon_1000_1 (0.4 GB)
+2026-10-28 23:47:26 OK replay:ck:armadillo_500_1 117s peak=0.03GB reproduced 80253, partition 80275
+2026-10-28 23:47:26 START replay:sweep:armadillo_500_1 (0.3 GB)
+2026-10-28 23:47:47 OK replay:sweep:gauss_2000_1 1012s peak=0.38GB reproduced 1643250, partition 1643252
+2026-10-28 23:47:47 START replay:ck:grid_2000_1 (0.9 GB)
+2026-10-28 23:48:16 OK lns:ck:dragon_1000_1 100s peak=0.23GB 240275
+2026-10-28 23:48:16 START lns:sweep:dragon_1000_1 (0.4 GB)
+2026-10-28 23:48:32 OK replay:ck:cluster_2000_1 1008s peak=0.07GB reproduced 171316, partition 176673
+2026-10-28 23:48:32 START replay:sweep:grid_2000_1 (0.9 GB)
+2026-10-28 23:48:47 OK replay:sweep:cluster_2000_1 988s peak=0.08GB reproduced 171320, partition 176569
+2026-10-28 23:48:47 START replay:ck:spiral_2000_1 (0.9 GB)
+2026-10-28 23:49:18 OK replay:sweep:armadillo_500_1 112s peak=0.03GB reproduced 80253, partition 80276
+2026-10-28 23:49:18 START replay:ck:dragon_500_1 (0.3 GB)
+2026-10-28 23:49:56 OK lns:sweep:dragon_1000_1 101s peak=0.19GB 240305
+2026-10-28 23:49:56 START lns:ck:buddha_1000_1 (0.4 GB)
+2026-10-28 23:50:06 OK ls:ck:cluster_8000_1 1029s peak=0.88GB 2264995
+2026-10-28 23:50:06 START ls:ck:grid_8000_1 (9.3 GB)
+2026-10-28 23:50:28 OK ls:sweep:gauss_8000_1 1094s peak=4.72GB 18417892
+2026-10-28 23:50:28 START ls:sweep:grid_8000_1 (9.3 GB)
+2026-10-28 23:51:02 OK ls:sweep:cluster_8000_1 1040s peak=0.82GB 2265019
+2026-10-28 23:51:02 START ls:ck:spiral_8000_1 (9.3 GB)
+2026-10-28 23:51:30 OK replay:ck:dragon_500_1 131s peak=0.03GB reproduced 77786, partition 77810
+2026-10-28 23:51:30 START replay:sweep:dragon_500_1 (0.3 GB)
+2026-10-28 23:51:37 OK lns:ck:buddha_1000_1 100s peak=0.22GB 253083
+2026-10-28 23:51:37 START lns:sweep:buddha_1000_1 (0.4 GB)
+2026-10-28 23:53:18 OK lns:sweep:buddha_1000_1 101s peak=0.20GB 253038
+2026-10-28 23:53:18 START ls:ck:uniform_800_1 (0.4 GB)
+2026-10-28 23:53:19 OK replay:sweep:dragon_500_1 109s peak=0.03GB reproduced 77786, partition 77809
+2026-10-28 23:53:19 START replay:ck:buddha_500_1 (0.3 GB)
+2026-10-28 23:54:31 OK replay:sweep:spiral_10000_1 1015s peak=0.45GB reproduced 210727, partition 222090
+2026-10-28 23:54:31 START replay:ck:bunny_10000_1 (14.3 GB)
+2026-10-28 23:54:58 OK ls:ck:uniform_800_1 100s peak=0.10GB 286510
+2026-10-28 23:54:58 START ls:sweep:uniform_800_1 (0.4 GB)
+2026-10-28 23:55:10 OK replay:ck:buddha_500_1 111s peak=0.03GB reproduced 81530, partition 81550
+2026-10-28 23:55:10 START replay:sweep:buddha_500_1 (0.3 GB)
+2026-10-28 23:55:36 OK replay:ck:shell_10000_1 1060s peak=2.73GB reproduced 8610902, partition 8970202
+2026-10-28 23:55:36 START replay:sweep:bunny_10000_1 (14.3 GB)
+2026-10-28 23:56:39 OK ls:sweep:uniform_800_1 101s peak=0.10GB 286510
+2026-10-28 23:56:39 START ls:ck:gauss_800_1 (0.4 GB)
+2026-10-28 23:57:06 OK replay:sweep:buddha_500_1 116s peak=0.03GB reproduced 81530, partition 81544
+2026-10-28 23:57:06 START ls:ck:uniform_400_1 (0.3 GB)
+2026-10-28 23:58:04 OK replay:sweep:shell_10000_1 1083s peak=2.43GB reproduced 8611414, partition 8971708
+2026-10-28 23:58:04 START replay:ck:armadillo_10000_1 (14.3 GB)
+2026-10-28 23:58:19 OK ls:ck:gauss_800_1 100s peak=0.10GB 293544
+2026-10-28 23:58:19 START ls:ck:uniform_900_1 (0.4 GB)
+2026-10-28 23:58:46 OK ls:ck:uniform_400_1 100s peak=0.03GB 76107
+2026-10-28 23:58:46 START ls:sweep:uniform_400_1 (0.3 GB)
+2026-10-28 23:59:59 OK ls:ck:uniform_900_1 100s peak=0.11GB 356845
+2026-10-28 23:59:59 START ls:sweep:uniform_900_1 (0.4 GB)
+2026-10-29 00:00:26 OK ls:sweep:uniform_400_1 100s peak=0.03GB 76107
+2026-10-29 00:00:26 START ls:ck:gauss_400_1 (0.3 GB)
+2026-10-29 00:01:40 OK ls:sweep:uniform_900_1 101s peak=0.12GB 356845
+2026-10-29 00:01:40 START ls:ck:gauss_900_1 (0.4 GB)
+2026-10-29 00:02:06 OK ls:ck:gauss_400_1 100s peak=0.03GB 76120
+2026-10-29 00:02:06 START ls:sweep:gauss_400_1 (0.3 GB)
+2026-10-29 00:03:21 OK ls:ck:gauss_900_1 100s peak=0.12GB 369379
+2026-10-29 00:03:21 START ls:sweep:gauss_900_1 (0.4 GB)
+2026-10-29 00:03:46 OK ls:sweep:gauss_400_1 100s peak=0.03GB 76120
+2026-10-29 00:03:46 START ls:ck:cluster_400_1 (0.3 GB)
+2026-10-29 00:04:09 OK replay:ck:grid_2000_1 982s peak=0.44GB reproduced 1998988, partition 1998988
+2026-10-29 00:04:09 START replay:sweep:spiral_2000_1 (0.9 GB)
+2026-10-29 00:04:45 OK replay:sweep:grid_2000_1 973s peak=0.44GB reproduced 1998988, partition 1998988
+2026-10-29 00:04:45 START replay:ck:shell_2000_1 (0.9 GB)
+2026-10-29 00:05:02 OK ls:sweep:gauss_900_1 101s peak=0.13GB 369379
+2026-10-29 00:05:02 START ls:ck:cluster_900_1 (0.4 GB)
+2026-10-29 00:05:26 OK ls:ck:cluster_400_1 100s peak=0.01GB 9338
+2026-10-29 00:05:26 START ls:sweep:cluster_400_1 (0.3 GB)
+2026-10-29 00:05:30 OK replay:ck:spiral_2000_1 1002s peak=0.03GB reproduced 41090, partition 42366
+2026-10-29 00:05:30 START replay:sweep:shell_2000_1 (0.9 GB)
+2026-10-29 00:06:42 OK ls:ck:cluster_900_1 100s peak=0.02GB 37290
+2026-10-29 00:06:42 START ls:sweep:cluster_900_1 (0.4 GB)
+2026-10-29 00:07:06 OK ls:sweep:cluster_400_1 100s peak=0.01GB 9339
+2026-10-29 00:07:06 START ls:ck:grid_400_1 (0.3 GB)
+2026-10-29 00:07:36 OK ls:ck:grid_8000_1 1050s peak=6.68GB 29403042
+2026-10-29 00:07:36 START ls:sweep:spiral_8000_1 (9.3 GB)
+2026-10-29 00:07:44 OK ls:ck:spiral_8000_1 1002s peak=0.30GB 167529
+2026-10-29 00:07:44 START ls:ck:shell_8000_1 (9.3 GB)
+2026-10-29 00:08:22 OK ls:sweep:cluster_900_1 100s peak=0.02GB 37288
+2026-10-29 00:08:22 START ls:ck:grid_900_1 (0.4 GB)
+2026-10-29 00:08:40 OK ls:sweep:grid_8000_1 1092s peak=6.65GB 29404324
+2026-10-29 00:08:40 START ls:sweep:shell_8000_1 (9.3 GB)
+2026-10-29 00:08:47 OK ls:ck:grid_400_1 100s peak=0.03GB 79800
+2026-10-29 00:08:47 START ls:sweep:grid_400_1 (0.3 GB)
+2026-10-29 00:10:03 OK ls:ck:grid_900_1 100s peak=0.12GB 404550
+2026-10-29 00:10:03 START ls:sweep:grid_900_1 (0.4 GB)
+2026-10-29 00:10:27 OK ls:sweep:grid_400_1 100s peak=0.03GB 79800
+2026-10-29 00:10:27 START ls:ck:spiral_400_1 (0.3 GB)
+2026-10-29 00:11:40 OK replay:ck:bunny_10000_1 1029s peak=1.91GB reproduced 6318883, partition 6647747
+2026-10-29 00:11:40 START replay:sweep:armadillo_10000_1 (14.3 GB)
+2026-10-29 00:11:44 OK ls:sweep:grid_900_1 101s peak=0.13GB 404550
+2026-10-29 00:11:44 START ls:ck:spiral_900_1 (0.4 GB)
+2026-10-29 00:12:07 OK ls:ck:spiral_400_1 100s peak=0.01GB 7904
+2026-10-29 00:12:07 START ls:sweep:spiral_400_1 (0.3 GB)
+2026-10-29 00:13:21 OK replay:sweep:bunny_10000_1 1064s peak=1.70GB reproduced 6320037, partition 6653701
+2026-10-29 00:13:21 START replay:ck:dragon_10000_1 (14.3 GB)
+2026-10-29 00:13:24 OK ls:ck:spiral_900_1 100s peak=0.01GB 18673
+2026-10-29 00:13:24 START ls:sweep:spiral_900_1 (0.4 GB)
+2026-10-29 00:13:47 OK ls:sweep:spiral_400_1 100s peak=0.01GB 7904
+2026-10-29 00:13:47 START ls:ck:shell_400_1 (0.3 GB)
+2026-10-29 00:15:04 OK ls:sweep:spiral_900_1 100s peak=0.01GB 18672
+2026-10-29 00:15:04 START ls:ck:shell_900_1 (0.4 GB)
+2026-10-29 00:15:11 OK replay:ck:armadillo_10000_1 1027s peak=1.82GB reproduced 5745654, partition 6016190
+2026-10-29 00:15:11 START replay:sweep:dragon_10000_1 (14.3 GB)
+2026-10-29 00:15:27 OK ls:ck:shell_400_1 100s peak=0.02GB 58651
+2026-10-29 00:15:27 START ls:sweep:shell_400_1 (0.3 GB)
+2026-10-29 00:16:44 OK ls:ck:shell_900_1 101s peak=0.07GB 238098
+2026-10-29 00:16:44 START ls:sweep:shell_900_1 (0.4 GB)
+2026-10-29 00:17:07 OK ls:sweep:shell_400_1 100s peak=0.02GB 58651
+2026-10-29 00:17:07 START ls:ck:bunny_400_1 (0.3 GB)
+2026-10-29 00:18:26 OK ls:sweep:shell_900_1 101s peak=0.08GB 238098
+2026-10-29 00:18:26 START ls:ck:bunny_900_1 (0.4 GB)
+2026-10-29 00:18:47 OK ls:ck:bunny_400_1 100s peak=0.02GB 58173
+2026-10-29 00:18:47 START ls:sweep:bunny_400_1 (0.3 GB)
+2026-10-29 00:20:06 OK ls:ck:bunny_900_1 101s peak=0.07GB 224277
+2026-10-29 00:20:06 START ls:sweep:bunny_900_1 (0.4 GB)
+2026-10-29 00:20:27 OK ls:sweep:bunny_400_1 100s peak=0.02GB 58173
+2026-10-29 00:20:27 START ls:ck:armadillo_400_1 (0.3 GB)
+2026-10-29 00:20:53 OK replay:sweep:spiral_2000_1 1003s peak=0.03GB reproduced 41092, partition 42428
+2026-10-29 00:20:53 START replay:ck:bunny_2000_1 (0.9 GB)
+2026-10-29 00:21:14 OK replay:ck:shell_2000_1 989s peak=0.23GB reproduced 832006, partition 834312
+2026-10-29 00:21:14 START replay:sweep:bunny_2000_1 (0.9 GB)
+2026-10-29 00:21:47 OK ls:sweep:bunny_900_1 101s peak=0.08GB 224277
+2026-10-29 00:21:47 START ls:ck:armadillo_900_1 (0.4 GB)
+2026-10-29 00:22:08 OK ls:ck:armadillo_400_1 100s peak=0.02GB 54998
+2026-10-29 00:22:08 START ls:sweep:armadillo_400_1 (0.3 GB)
+2026-10-29 00:22:22 OK replay:sweep:shell_2000_1 1013s peak=0.22GB reproduced 832002, partition 834443
+2026-10-29 00:22:22 START replay:ck:armadillo_2000_1 (0.9 GB)
+2026-10-29 00:23:28 OK ls:ck:armadillo_900_1 101s peak=0.07GB 199326
+2026-10-29 00:23:28 START ls:sweep:armadillo_900_1 (0.4 GB)
+2026-10-29 00:23:48 OK ls:sweep:armadillo_400_1 100s peak=0.02GB 54998
+2026-10-29 00:23:48 START ls:ck:dragon_400_1 (0.3 GB)
+2026-10-29 00:24:23 OK ls:sweep:spiral_8000_1 1007s peak=0.30GB 167536
+2026-10-29 00:24:23 START ls:ck:bunny_8000_1 (9.3 GB)
+2026-10-29 00:25:09 OK ls:sweep:armadillo_900_1 101s peak=0.07GB 199326
+2026-10-29 00:25:09 START ls:ck:dragon_900_1 (0.4 GB)
+2026-10-29 00:25:10 OK ls:ck:shell_8000_1 1045s peak=1.79GB 6281827
+2026-10-29 00:25:10 START ls:sweep:bunny_8000_1 (9.3 GB)
+2026-10-29 00:25:28 OK ls:ck:dragon_400_1 100s peak=0.02GB 53073
+2026-10-29 00:25:28 START ls:sweep:dragon_400_1 (0.3 GB)
+2026-10-29 00:26:31 OK ls:sweep:shell_8000_1 1071s peak=1.58GB 6282880
+2026-10-29 00:26:31 START ls:ck:armadillo_8000_1 (9.3 GB)
+2026-10-29 00:26:50 OK ls:ck:dragon_900_1 101s peak=0.07GB 203049
+2026-10-29 00:26:50 START ls:sweep:dragon_900_1 (0.4 GB)
+2026-10-29 00:27:08 OK ls:sweep:dragon_400_1 100s peak=0.02GB 53073
+2026-10-29 00:27:08 START ls:ck:buddha_400_1 (0.3 GB)
+2026-10-29 00:28:31 OK ls:sweep:dragon_900_1 101s peak=0.07GB 203049
+2026-10-29 00:28:31 START ls:ck:buddha_900_1 (0.4 GB)
+2026-10-29 00:28:48 OK ls:ck:buddha_400_1 100s peak=0.02GB 56647
+2026-10-29 00:28:48 START ls:sweep:buddha_400_1 (0.3 GB)
+2026-10-29 00:29:26 OK replay:sweep:armadillo_10000_1 1066s peak=1.60GB reproduced 5746538, partition 6019835
+2026-10-29 00:29:26 START replay:ck:buddha_10000_1 (14.3 GB)
+2026-10-29 00:30:12 OK ls:ck:buddha_900_1 101s peak=0.07GB 214132
+2026-10-29 00:30:12 START ls:sweep:buddha_900_1 (0.4 GB)
+2026-10-29 00:30:29 OK ls:sweep:buddha_400_1 100s peak=0.02GB 56647
+2026-10-29 00:30:29 START ls:ck:uniform_300_1 (0.3 GB)
+2026-10-29 00:31:18 OK replay:ck:dragon_10000_1 1077s peak=1.85GB reproduced 6061482, partition 6302579
+2026-10-29 00:31:18 START replay:sweep:buddha_10000_1 (14.3 GB)
+2026-10-29 00:31:53 OK ls:sweep:buddha_900_1 101s peak=0.07GB 214132
+2026-10-29 00:31:53 START ls:sweep:gauss_800_1 (0.4 GB)
+2026-10-29 00:32:09 OK ls:ck:uniform_300_1 100s peak=0.02GB 43229
+2026-10-29 00:32:09 START ls:sweep:uniform_300_1 (0.3 GB)
+2026-10-29 00:33:34 OK ls:sweep:gauss_800_1 101s peak=0.10GB 293544
+2026-10-29 00:33:34 START ls:ck:cluster_800_1 (0.4 GB)
+2026-10-29 00:33:42 OK replay:sweep:dragon_10000_1 1111s peak=1.64GB reproduced 6061668, partition 6304225
+2026-10-29 00:33:42 START ls:ck:uniform_9000_1 (11.6 GB)
+2026-10-29 00:33:49 OK ls:sweep:uniform_300_1 100s peak=0.02GB 43229
+2026-10-29 00:33:49 START ls:ck:uniform_4000_1 (2.5 GB)
+2026-10-29 00:35:14 OK ls:ck:cluster_800_1 100s peak=0.02GB 29385
+2026-10-29 00:35:14 START replay:ck:gauss_1000_1 (0.4 GB)
+2026-10-29 00:36:58 OK replay:ck:gauss_1000_1 104s peak=0.13GB reproduced 450904, partition 450904
+2026-10-29 00:36:58 START replay:sweep:gauss_1000_1 (0.4 GB)
+2026-10-29 00:37:37 OK replay:ck:bunny_2000_1 1005s peak=0.22GB reproduced 732856, partition 735733
+2026-10-29 00:37:37 START replay:sweep:armadillo_2000_1 (0.9 GB)
+2026-10-29 00:38:23 OK replay:sweep:bunny_2000_1 1029s peak=0.21GB reproduced 732853, partition 735733
+2026-10-29 00:38:23 START replay:ck:dragon_2000_1 (0.9 GB)
+2026-10-29 00:38:41 OK replay:sweep:gauss_1000_1 103s peak=0.14GB reproduced 450904, partition 450904
+2026-10-29 00:38:41 START replay:ck:cluster_1000_1 (0.4 GB)
+2026-10-29 00:39:24 OK replay:ck:armadillo_2000_1 1022s peak=0.21GB reproduced 662372, partition 665829
+2026-10-29 00:39:24 START replay:sweep:dragon_2000_1 (0.9 GB)
+2026-10-29 00:40:27 OK replay:ck:cluster_1000_1 105s peak=0.02GB reproduced 45863, partition 47062
+2026-10-29 00:40:27 START replay:sweep:cluster_1000_1 (0.4 GB)
+2026-10-29 00:41:55 OK ls:ck:bunny_8000_1 1051s peak=1.47GB 4732419
+2026-10-29 00:41:55 START ls:sweep:armadillo_8000_1 (9.3 GB)
+2026-10-29 00:42:07 OK replay:sweep:cluster_1000_1 100s peak=0.02GB reproduced 45866, partition 46970
+2026-10-29 00:42:07 START replay:ck:grid_1000_1 (0.4 GB)
+2026-10-29 00:42:53 OK ls:sweep:bunny_8000_1 1063s peak=1.35GB 4733060
+2026-10-29 00:42:53 START ls:ck:dragon_8000_1 (9.3 GB)
+2026-10-29 00:43:47 OK ls:ck:armadillo_8000_1 1036s peak=1.38GB 4312577
+2026-10-29 00:43:47 START ls:sweep:dragon_8000_1 (9.3 GB)
+2026-10-29 00:43:48 OK replay:ck:grid_1000_1 101s peak=0.14GB reproduced 499500, partition 499500
+2026-10-29 00:43:48 START replay:sweep:grid_1000_1 (0.4 GB)
+2026-10-29 00:45:35 OK replay:sweep:grid_1000_1 108s peak=0.16GB reproduced 499500, partition 499500
+2026-10-29 00:45:35 START replay:ck:spiral_1000_1 (0.4 GB)
+2026-10-29 00:47:17 OK replay:ck:buddha_10000_1 1071s peak=1.96GB reproduced 6723733, partition 6961406
+2026-10-29 00:47:17 START ls:sweep:uniform_9000_1 (11.6 GB)
+2026-10-29 00:47:19 OK replay:ck:spiral_1000_1 104s peak=0.02GB reproduced 20506, partition 20873
+2026-10-29 00:47:19 START ls:sweep:uniform_4000_1 (2.5 GB)
+2026-10-29 00:49:25 OK replay:sweep:buddha_10000_1 1087s peak=1.74GB reproduced 6724184, partition 6963487
+2026-10-29 00:49:25 START ls:ck:gauss_9000_1 (11.6 GB)
+2026-10-29 00:50:40 OK ls:ck:uniform_4000_1 1011s peak=1.36GB 5113280
+2026-10-29 00:50:40 START ls:ck:uniform_6000_1 (5.3 GB)
+2026-10-29 00:51:19 OK ls:ck:uniform_9000_1 1057s peak=5.18GB 19002812
+2026-10-29 00:51:19 START ls:sweep:gauss_9000_1 (11.6 GB)
+2026-10-29 00:54:24 OK replay:sweep:armadillo_2000_1 1006s peak=0.19GB reproduced 662364, partition 665800
+2026-10-29 00:54:24 START ls:ck:uniform_3000_1 (1.6 GB)
+2026-10-29 00:55:15 OK replay:ck:dragon_2000_1 1012s peak=0.21GB reproduced 686167, partition 690140
+2026-10-29 00:55:15 START replay:ck:buddha_2000_1 (0.9 GB)
+2026-10-29 00:56:41 OK replay:sweep:dragon_2000_1 1037s peak=0.21GB reproduced 686160, partition 690290
+2026-10-29 00:56:41 START replay:sweep:buddha_2000_1 (0.9 GB)
+2026-10-29 00:59:32 OK ls:sweep:armadillo_8000_1 1058s peak=1.27GB 4312944
+2026-10-29 00:59:32 START ls:ck:buddha_8000_1 (9.3 GB)
+2026-10-29 01:00:08 OK ls:ck:dragon_8000_1 1035s peak=1.42GB 4576116
+2026-10-29 01:00:08 START ls:sweep:buddha_8000_1 (9.3 GB)
+2026-10-29 01:01:23 OK ls:sweep:dragon_8000_1 1056s peak=1.32GB 4576362
+2026-10-29 01:01:23 START ls:ck:uniform_7000_1 (7.2 GB)
+2026-10-29 01:04:19 OK ls:sweep:uniform_4000_1 1020s peak=1.31GB 5113276
+2026-10-29 01:04:19 START replay:ck:uniform_5000_1 (3.8 GB)
+2026-10-29 01:05:44 OK ls:sweep:uniform_9000_1 1107s peak=4.85GB 19002557
+2026-10-29 01:05:44 START ls:ck:cluster_9000_1 (11.6 GB)
+2026-10-29 01:07:07 OK ls:ck:gauss_9000_1 1062s peak=5.74GB 22325224
+2026-10-29 01:07:07 START ls:sweep:cluster_9000_1 (11.6 GB)
+2026-10-29 01:07:48 OK ls:ck:uniform_6000_1 1028s peak=2.66GB 9977783
+2026-10-29 01:07:48 START ls:sweep:uniform_6000_1 (5.3 GB)
+2026-10-29 01:09:55 OK ls:sweep:gauss_9000_1 1116s peak=5.41GB 22325972
+2026-10-29 01:09:55 START ls:ck:grid_9000_1 (11.6 GB)
+2026-10-29 01:11:10 OK ls:ck:uniform_3000_1 1006s peak=0.76GB 3110698
+2026-10-29 01:11:10 START ls:sweep:uniform_3000_1 (1.6 GB)
+2026-10-29 01:12:07 OK replay:ck:buddha_2000_1 1012s peak=0.23GB reproduced 720739, partition 723727
+2026-10-29 01:12:07 START ls:ck:gauss_3000_1 (1.6 GB)
+2026-10-29 01:13:51 OK replay:sweep:buddha_2000_1 1030s peak=0.20GB reproduced 720740, partition 723667
+2026-10-29 01:13:51 START replay:sweep:spiral_1000_1 (0.4 GB)
+2026-10-29 01:15:35 OK replay:sweep:spiral_1000_1 105s peak=0.02GB reproduced 20506, partition 20904
+2026-10-29 01:15:35 START replay:ck:shell_1000_1 (0.4 GB)
+2026-10-29 01:16:56 OK ls:ck:buddha_8000_1 1043s peak=1.50GB 5025856
+2026-10-29 01:16:56 START ls:sweep:uniform_7000_1 (7.2 GB)
+2026-10-29 01:17:21 OK replay:ck:shell_1000_1 106s peak=0.10GB reproduced 281297, partition 281384
+2026-10-29 01:17:21 START ls:ck:gauss_4000_1 (2.5 GB)
+2026-10-29 01:17:49 OK ls:sweep:buddha_8000_1 1061s peak=1.39GB 5025897
+2026-10-29 01:17:49 START ls:ck:gauss_7000_1 (7.2 GB)
+2026-10-29 01:18:39 OK ls:ck:uniform_7000_1 1036s peak=3.21GB 12821846
+2026-10-29 01:18:39 START ls:sweep:gauss_7000_1 (7.2 GB)
+2026-10-29 01:21:19 OK replay:ck:uniform_5000_1 1021s peak=1.79GB reproduced 7402403, partition 7408707
+2026-10-29 01:21:19 START ls:ck:gauss_6000_1 (5.3 GB)
+2026-10-29 01:22:56 OK ls:ck:cluster_9000_1 1032s peak=1.07GB 2851349
+2026-10-29 01:22:56 START ls:sweep:grid_9000_1 (11.6 GB)
+2026-10-29 01:24:41 OK ls:sweep:cluster_9000_1 1054s peak=0.98GB 2851274
+2026-10-29 01:24:41 START ls:ck:spiral_9000_1 (11.6 GB)
+2026-10-29 01:25:17 OK ls:sweep:uniform_6000_1 1049s peak=2.50GB 9977745
+2026-10-29 01:25:17 START ls:sweep:gauss_6000_1 (5.3 GB)
+2026-10-29 01:27:55 OK ls:ck:grid_9000_1 1079s peak=9.38GB 36176498
+2026-10-29 01:27:55 START ls:sweep:spiral_9000_1 (11.6 GB)
+2026-10-29 01:28:01 OK ls:sweep:uniform_3000_1 1012s peak=0.73GB 3110708
+2026-10-29 01:28:01 START ls:sweep:gauss_4000_1 (2.5 GB)
+2026-10-29 01:28:51 OK ls:ck:gauss_3000_1 1004s peak=0.81GB 3452581
+2026-10-29 01:28:51 START ls:sweep:gauss_3000_1 (1.6 GB)
+2026-10-29 01:34:12 OK ls:ck:gauss_4000_1 1011s peak=1.46GB 5707638
+2026-10-29 01:34:12 START ls:ck:cluster_4000_1 (2.5 GB)
+2026-10-29 01:34:42 OK ls:sweep:uniform_7000_1 1066s peak=3.05GB 12821826
+2026-10-29 01:34:42 START ls:ck:cluster_7000_1 (7.2 GB)
+2026-10-29 01:35:01 OK ls:ck:gauss_7000_1 1032s peak=3.53GB 14752662
+2026-10-29 01:35:01 START ls:sweep:cluster_7000_1 (7.2 GB)
+2026-10-29 01:36:29 OK ls:sweep:gauss_7000_1 1070s peak=3.37GB 14752864
+2026-10-29 01:36:29 START ls:ck:grid_7000_1 (7.2 GB)
+2026-10-29 01:38:29 OK ls:ck:gauss_6000_1 1030s peak=2.91GB 11472482
+2026-10-29 01:38:29 START ls:ck:cluster_6000_1 (5.3 GB)
+2026-10-29 01:41:24 OK ls:ck:spiral_9000_1 1003s peak=0.37GB 189334
+2026-10-29 01:41:24 START ls:ck:shell_9000_1 (11.6 GB)
+2026-10-29 01:41:52 OK ls:sweep:grid_9000_1 1137s peak=9.30GB 36179861
+2026-10-29 01:41:52 START ls:sweep:shell_9000_1 (11.6 GB)
+2026-10-29 01:42:44 OK ls:sweep:gauss_6000_1 1047s peak=2.75GB 11472542
+2026-10-29 01:42:44 START ls:sweep:cluster_6000_1 (5.3 GB)
+2026-10-29 01:44:43 OK ls:sweep:spiral_9000_1 1009s peak=0.37GB 189335
+2026-10-29 01:44:43 START ls:ck:bunny_9000_1 (11.6 GB)
+2026-10-29 01:45:02 OK ls:sweep:gauss_4000_1 1021s peak=1.42GB 5707637
+2026-10-29 01:45:02 START ls:sweep:cluster_4000_1 (2.5 GB)
+2026-10-29 01:45:41 OK ls:sweep:gauss_3000_1 1010s peak=0.84GB 3452579
+2026-10-29 01:45:41 START ls:ck:cluster_3000_1 (1.6 GB)
+2026-10-29 01:50:59 OK ls:ck:cluster_4000_1 1006s peak=0.26GB 629087
+2026-10-29 01:50:59 START ls:ck:grid_4000_1 (2.5 GB)
+2026-10-29 01:51:39 OK ls:ck:cluster_7000_1 1017s peak=0.63GB 1778996
+2026-10-29 01:51:39 START ls:sweep:grid_7000_1 (7.2 GB)
+2026-10-29 01:52:12 OK ls:sweep:cluster_7000_1 1030s peak=0.60GB 1779033
+2026-10-29 01:52:12 START ls:ck:spiral_7000_1 (7.2 GB)
+2026-10-29 01:53:47 OK ls:ck:grid_7000_1 1038s peak=5.55GB 23007389
+2026-10-29 01:53:47 START ls:sweep:spiral_7000_1 (7.2 GB)
+2026-10-29 01:55:22 OK ls:ck:cluster_6000_1 1012s peak=0.49GB 1298185
+2026-10-29 01:55:22 START ls:ck:grid_6000_1 (5.3 GB)
+2026-10-29 01:59:06 OK ls:ck:shell_9000_1 1062s peak=2.06GB 7437485
+2026-10-29 01:59:06 START ls:sweep:bunny_9000_1 (11.6 GB)
+2026-10-29 01:59:47 OK ls:sweep:cluster_6000_1 1022s peak=0.48GB 1298159
+2026-10-29 01:59:47 START ls:sweep:grid_6000_1 (5.3 GB)
+2026-10-29 02:00:00 OK ls:sweep:shell_9000_1 1087s peak=1.90GB 7438279
+2026-10-29 02:00:00 START ls:ck:armadillo_9000_1 (11.6 GB)
+2026-10-29 02:01:51 OK ls:sweep:cluster_4000_1 1009s peak=0.24GB 629120
+2026-10-29 02:01:51 START ls:sweep:grid_4000_1 (2.5 GB)
+2026-10-29 02:02:18 OK ls:ck:bunny_9000_1 1054s peak=1.68GB 5523960
+2026-10-29 02:02:18 START ls:sweep:armadillo_9000_1 (11.6 GB)
+2026-10-29 02:02:24 OK ls:ck:cluster_3000_1 1003s peak=0.16GB 350688
+2026-10-29 02:02:24 START ls:sweep:cluster_3000_1 (1.6 GB)
+2026-10-29 02:07:48 OK ls:ck:grid_4000_1 1009s peak=1.80GB 7950366
+2026-10-29 02:07:48 START ls:ck:spiral_4000_1 (2.5 GB)
+2026-10-29 02:08:54 OK ls:ck:spiral_7000_1 1002s peak=0.24GB 146205
+2026-10-29 02:08:54 START ls:ck:shell_7000_1 (7.2 GB)
+2026-10-29 02:09:22 OK ls:sweep:grid_7000_1 1063s peak=5.49GB 23007750
+2026-10-29 02:09:22 START ls:sweep:shell_7000_1 (7.2 GB)
+2026-10-29 02:10:32 OK ls:sweep:spiral_7000_1 1005s peak=0.24GB 146218
+2026-10-29 02:10:32 START ls:ck:bunny_7000_1 (7.2 GB)
+2026-10-29 02:12:37 OK ls:ck:grid_6000_1 1035s peak=4.55GB 17320285
+2026-10-29 02:12:37 START ls:ck:spiral_6000_1 (5.3 GB)
+2026-10-29 02:17:04 OK ls:sweep:bunny_9000_1 1077s peak=1.52GB 5524533
+2026-10-29 02:17:04 START ls:ck:dragon_9000_1 (11.6 GB)
+2026-10-29 02:17:14 OK ls:sweep:grid_6000_1 1047s peak=4.50GB 17320582
+2026-10-29 02:17:14 START ls:sweep:spiral_6000_1 (5.3 GB)
+2026-10-29 02:17:29 OK ls:ck:armadillo_9000_1 1049s peak=1.60GB 5029411
+2026-10-29 02:17:29 START ls:sweep:dragon_9000_1 (11.6 GB)
+2026-10-29 02:18:52 OK ls:sweep:grid_4000_1 1020s peak=1.80GB 7950366
+2026-10-29 02:18:52 START ls:sweep:spiral_4000_1 (2.5 GB)
+2026-10-29 02:19:09 OK ls:sweep:cluster_3000_1 1005s peak=0.14GB 350693
+2026-10-29 02:19:09 START ls:ck:grid_3000_1 (1.6 GB)
+2026-10-29 02:20:07 OK ls:sweep:armadillo_9000_1 1069s peak=1.42GB 5029806
+2026-10-29 02:20:07 START ls:ck:buddha_9000_1 (11.6 GB)
+2026-10-29 02:24:29 OK ls:ck:spiral_4000_1 1001s peak=0.09GB 83516
+2026-10-29 02:24:29 START ls:ck:shell_4000_1 (2.5 GB)
+2026-10-29 02:26:11 OK ls:ck:shell_7000_1 1038s peak=1.54GB 5218454
+2026-10-29 02:26:11 START ls:sweep:bunny_7000_1 (7.2 GB)
+2026-10-29 02:27:00 OK ls:sweep:shell_7000_1 1058s peak=1.42GB 5218894
+2026-10-29 02:27:00 START ls:ck:armadillo_7000_1 (7.2 GB)
+2026-10-29 02:27:45 OK ls:ck:bunny_7000_1 1032s peak=1.09GB 3963661
+2026-10-29 02:27:45 START ls:sweep:armadillo_7000_1 (7.2 GB)
+2026-10-29 02:29:18 OK ls:ck:spiral_6000_1 1001s peak=0.18GB 125163
+2026-10-29 02:29:18 START ls:ck:shell_6000_1 (5.3 GB)
+2026-10-29 02:33:58 OK ls:sweep:spiral_6000_1 1004s peak=0.18GB 125175
+2026-10-29 02:33:58 START ls:sweep:shell_6000_1 (5.3 GB)
+2026-10-29 02:34:32 OK ls:ck:dragon_9000_1 1048s peak=1.64GB 5329376
+2026-10-29 02:34:32 START ls:sweep:buddha_9000_1 (11.6 GB)
+2026-10-29 02:35:17 OK ls:sweep:dragon_9000_1 1068s peak=1.48GB 5329880
+2026-10-29 02:35:17 START ls:ck:dragon_7000_1 (7.2 GB)
+2026-10-29 02:35:33 OK ls:sweep:spiral_4000_1 1002s peak=0.10GB 83512
+2026-10-29 02:35:33 START ls:sweep:dragon_7000_1 (7.2 GB)
+2026-10-29 02:35:55 OK ls:ck:grid_3000_1 1006s peak=1.16GB 4493839
+2026-10-29 02:35:55 START ls:sweep:grid_3000_1 (1.6 GB)
+2026-10-29 02:37:39 OK ls:ck:buddha_9000_1 1052s peak=1.71GB 5862185
+2026-10-29 02:37:39 START ls:ck:buddha_7000_1 (7.2 GB)
+2026-10-29 02:41:22 OK ls:ck:shell_4000_1 1013s peak=0.71GB 2336416
+2026-10-29 02:41:22 START ls:sweep:buddha_7000_1 (7.2 GB)
+2026-10-29 02:43:42 OK ls:sweep:bunny_7000_1 1051s peak=1.05GB 3963944
+2026-10-29 02:43:42 START ls:ck:bunny_6000_1 (5.3 GB)
+2026-10-29 02:44:10 OK ls:ck:armadillo_7000_1 1029s peak=1.02GB 3644354
+2026-10-29 02:44:10 START ls:sweep:bunny_6000_1 (5.3 GB)
+2026-10-29 02:45:11 OK ls:sweep:armadillo_7000_1 1047s peak=0.94GB 3644533
+2026-10-29 02:45:11 START ls:ck:armadillo_6000_1 (5.3 GB)
+2026-10-29 02:46:23 OK ls:ck:shell_6000_1 1025s peak=1.30GB 4155641
+2026-10-29 02:46:23 START ls:sweep:armadillo_6000_1 (5.3 GB)
+2026-10-29 02:51:27 OK ls:sweep:shell_6000_1 1049s peak=1.21GB 4155839
+2026-10-29 02:51:27 START ls:ck:dragon_6000_1 (5.3 GB)
+2026-10-29 02:52:26 OK ls:ck:dragon_7000_1 1029s peak=1.06GB 3850537
+2026-10-29 02:52:26 START ls:sweep:dragon_6000_1 (5.3 GB)
+2026-10-29 02:52:26 OK ls:sweep:buddha_9000_1 1074s peak=1.56GB 5862428
+2026-10-29 02:52:26 START ls:ck:buddha_6000_1 (5.3 GB)
+2026-10-29 02:52:47 OK ls:sweep:grid_3000_1 1012s peak=1.16GB 4493840
+2026-10-29 02:52:47 START ls:sweep:buddha_6000_1 (5.3 GB)
+2026-10-29 02:52:59 OK ls:sweep:dragon_7000_1 1046s peak=1.02GB 3850563
+2026-10-29 02:52:59 START replay:sweep:uniform_5000_1 (3.8 GB)
+2026-10-29 02:54:55 OK ls:ck:buddha_7000_1 1036s peak=1.32GB 4215849
+2026-10-29 02:54:55 START replay:ck:gauss_5000_1 (3.8 GB)
+2026-10-29 02:58:51 OK ls:sweep:buddha_7000_1 1049s peak=1.22GB 4216042
+2026-10-29 02:58:51 START replay:sweep:gauss_5000_1 (3.8 GB)
+2026-10-29 03:00:52 OK ls:ck:bunny_6000_1 1029s peak=0.92GB 3231120
+2026-10-29 03:00:52 START replay:ck:cluster_5000_1 (3.8 GB)
+2026-10-29 03:01:33 OK ls:sweep:bunny_6000_1 1044s peak=0.86GB 3231198
+2026-10-29 03:01:33 START replay:sweep:cluster_5000_1 (3.8 GB)
+2026-10-29 03:02:14 OK ls:ck:armadillo_6000_1 1023s peak=0.87GB 2966667
+2026-10-29 03:02:14 START replay:ck:grid_5000_1 (3.8 GB)
+2026-10-29 03:03:39 OK ls:sweep:armadillo_6000_1 1036s peak=0.80GB 2966744
+2026-10-29 03:03:39 START replay:sweep:grid_5000_1 (3.8 GB)
+2026-10-29 03:08:30 OK ls:ck:dragon_6000_1 1023s peak=0.90GB 3155522
+2026-10-29 03:08:30 START replay:ck:spiral_5000_1 (3.8 GB)
+2026-10-29 03:09:27 OK ls:ck:buddha_6000_1 1021s peak=0.95GB 3427225
+2026-10-29 03:09:27 START replay:sweep:spiral_5000_1 (3.8 GB)
+2026-10-29 03:09:42 OK ls:sweep:dragon_6000_1 1036s peak=0.84GB 3155565
+2026-10-29 03:09:42 START replay:ck:shell_5000_1 (3.8 GB)
+2026-10-29 03:10:06 OK ls:sweep:buddha_6000_1 1039s peak=0.88GB 3427241
+2026-10-29 03:10:06 START replay:sweep:shell_5000_1 (3.8 GB)
+2026-10-29 03:10:15 OK replay:sweep:uniform_5000_1 1036s peak=1.67GB reproduced 7402396, partition 7408668
+2026-10-29 03:10:15 START replay:ck:bunny_5000_1 (3.8 GB)
+2026-10-29 03:11:54 OK replay:ck:gauss_5000_1 1019s peak=1.95GB reproduced 8369442, partition 8370082
+2026-10-29 03:11:54 START replay:sweep:bunny_5000_1 (3.8 GB)
+2026-10-29 03:16:01 OK replay:sweep:gauss_5000_1 1030s peak=1.83GB reproduced 8369440, partition 8370024
+2026-10-29 03:16:01 START replay:ck:armadillo_5000_1 (3.8 GB)
+2026-10-29 03:17:40 OK replay:ck:cluster_5000_1 1008s peak=0.35GB reproduced 921935, partition 959207
+2026-10-29 03:17:40 START replay:sweep:armadillo_5000_1 (3.8 GB)
+2026-10-29 03:18:27 OK replay:sweep:cluster_5000_1 1014s peak=0.33GB reproduced 921969, partition 959370
+2026-10-29 03:18:27 START replay:ck:dragon_5000_1 (3.8 GB)
+2026-10-29 03:19:19 OK replay:ck:grid_5000_1 1024s peak=2.92GB reproduced 12241721, partition 12249803
+2026-10-29 03:19:19 START replay:sweep:dragon_5000_1 (3.8 GB)
+2026-10-29 03:20:38 OK replay:sweep:grid_5000_1 1018s peak=2.87GB reproduced 12241884, partition 12250408
+2026-10-29 03:20:38 START replay:ck:buddha_5000_1 (3.8 GB)
+2026-10-29 03:25:05 OK replay:ck:spiral_5000_1 995s peak=0.13GB reproduced 104248, partition 108930
+2026-10-29 03:25:05 START replay:sweep:buddha_5000_1 (3.8 GB)
+2026-10-29 03:26:08 OK replay:sweep:spiral_5000_1 1001s peak=0.15GB reproduced 104250, partition 109044
+2026-10-29 03:26:08 START ls:sweep:shell_4000_1 (2.5 GB)
+2026-10-29 03:26:08 OK replay:ck:shell_5000_1 986s peak=0.90GB reproduced 3214759, partition 3266462
+2026-10-29 03:26:08 START ls:ck:bunny_4000_1 (2.5 GB)
+2026-10-29 03:26:44 OK replay:sweep:shell_5000_1 999s peak=0.83GB reproduced 3214885, partition 3266902
+2026-10-29 03:26:44 START ls:sweep:bunny_4000_1 (2.5 GB)
+2026-10-29 03:27:10 OK replay:ck:bunny_5000_1 1015s peak=0.76GB reproduced 2542222, partition 2591222
+2026-10-29 03:27:10 START ls:ck:armadillo_4000_1 (2.5 GB)
+2026-10-29 03:28:49 OK replay:sweep:bunny_5000_1 1015s peak=0.67GB reproduced 2542415, partition 2591996
+2026-10-29 03:28:49 START ls:sweep:armadillo_4000_1 (2.5 GB)
+2026-10-29 03:32:52 OK replay:ck:armadillo_5000_1 1011s peak=0.73GB reproduced 2340963, partition 2388529
+2026-10-29 03:32:52 START ls:ck:dragon_4000_1 (2.5 GB)
+2026-10-29 03:34:49 OK replay:sweep:armadillo_5000_1 1029s peak=0.64GB reproduced 2341008, partition 2388830
+2026-10-29 03:34:49 START ls:sweep:dragon_4000_1 (2.5 GB)
+2026-10-29 03:35:09 OK replay:ck:dragon_5000_1 1002s peak=0.75GB reproduced 2474245, partition 2517858
+2026-10-29 03:35:09 START ls:ck:buddha_4000_1 (2.5 GB)
+2026-10-29 03:36:10 OK replay:sweep:dragon_5000_1 1012s peak=0.66GB reproduced 2474328, partition 2517925
+2026-10-29 03:36:10 START ls:sweep:buddha_4000_1 (2.5 GB)
+2026-10-29 03:37:21 OK replay:ck:buddha_5000_1 1003s peak=0.79GB reproduced 2697124, partition 2738972
+2026-10-29 03:37:21 START ls:ck:spiral_3000_1 (1.6 GB)
+2026-10-29 03:42:05 OK replay:sweep:buddha_5000_1 1020s peak=0.69GB reproduced 2697227, partition 2738674
+2026-10-29 03:42:05 START ls:sweep:spiral_3000_1 (1.6 GB)
+2026-10-29 03:43:05 OK ls:ck:bunny_4000_1 1016s peak=0.53GB 1886787
+2026-10-29 03:43:05 START ls:ck:shell_3000_1 (1.6 GB)
+2026-10-29 03:43:11 OK ls:sweep:shell_4000_1 1023s peak=0.67GB 2336476
+2026-10-29 03:43:11 START ls:sweep:shell_3000_1 (1.6 GB)
+2026-10-29 03:43:43 OK ls:sweep:bunny_4000_1 1019s peak=0.49GB 1886829
+2026-10-29 03:43:43 START ls:ck:bunny_3000_1 (1.6 GB)
+2026-10-29 03:44:01 OK ls:ck:armadillo_4000_1 1011s peak=0.50GB 1740003
+2026-10-29 03:44:01 START ls:sweep:bunny_3000_1 (1.6 GB)
+2026-10-29 03:45:46 OK ls:sweep:armadillo_4000_1 1017s peak=0.47GB 1740019
+2026-10-29 03:45:46 START ls:ck:armadillo_3000_1 (1.6 GB)
+2026-10-29 03:49:45 OK ls:ck:dragon_4000_1 1013s peak=0.51GB 1829897
+2026-10-29 03:49:45 START ls:sweep:armadillo_3000_1 (1.6 GB)
+2026-10-29 03:51:47 OK ls:sweep:dragon_4000_1 1017s peak=0.48GB 1829932
+2026-10-29 03:51:47 START ls:ck:dragon_3000_1 (1.6 GB)
+2026-10-29 03:52:01 OK ls:ck:buddha_4000_1 1011s peak=0.54GB 1971185
+2026-10-29 03:52:01 START ls:sweep:dragon_3000_1 (1.6 GB)
+2026-10-29 03:53:08 OK ls:sweep:buddha_4000_1 1018s peak=0.51GB 1971156
+2026-10-29 03:53:08 START ls:ck:buddha_3000_1 (1.6 GB)
+2026-10-29 03:54:01 OK ls:ck:spiral_3000_1 1000s peak=0.06GB 62645
+2026-10-29 03:54:01 START ls:sweep:buddha_3000_1 (1.6 GB)
+2026-10-29 03:58:46 OK ls:sweep:spiral_3000_1 1001s peak=0.07GB 62634
+2026-10-29 03:58:46 START opt:spiral_900_1 (28.0 GB)
+2026-10-29 03:59:53 OK ls:ck:shell_3000_1 1008s peak=0.44GB 1512453
+2026-10-29 03:59:53 START opt:shell_900_1 (10.0 GB)
+2026-10-29 03:59:55 OK opt:shell_900_1 2s peak=0.60GB 238098 optimal=1
+2026-10-29 03:59:55 START opt:bunny_900_1 (10.0 GB)
+2026-10-29 03:59:57 OK opt:bunny_900_1 2s peak=0.61GB 224276 optimal=1
+2026-10-29 03:59:57 START opt:armadillo_900_1 (10.0 GB)
+2026-10-29 04:00:00 OK opt:armadillo_900_1 3s peak=0.68GB 199326 optimal=1
+2026-10-29 04:00:00 START opt:dragon_900_1 (10.0 GB)
+2026-10-29 04:00:03 OK ls:sweep:shell_3000_1 1011s peak=0.37GB 1512461
+2026-10-29 04:00:03 START opt:buddha_900_1 (10.0 GB)
+2026-10-29 04:00:03 OK opt:dragon_900_1 3s peak=0.70GB 203048 optimal=1
+2026-10-29 04:00:03 START opt:uniform_800_1 (8.0 GB)
+2026-10-29 04:00:04 OK opt:uniform_800_1 1s peak=0.43GB 286510 optimal=1
+2026-10-29 04:00:04 START opt:gauss_800_1 (8.0 GB)
+2026-10-29 04:00:05 OK opt:gauss_800_1 1s peak=0.43GB 293544 optimal=1
+2026-10-29 04:00:05 START opt:cluster_800_1 (8.0 GB)
+2026-10-29 04:00:05 OK opt:buddha_900_1 3s peak=0.69GB 214128 optimal=1
+2026-10-29 04:00:05 START opt:grid_800_1 (8.0 GB)
+2026-10-29 04:00:06 OK opt:grid_800_1 1s peak=0.42GB 319600 optimal=1
+2026-10-29 04:00:06 START opt:spiral_800_1 (19.8 GB)
+2026-10-29 04:00:25 OK opt:cluster_800_1 21s peak=5.18GB 29381 optimal=1
+2026-10-29 04:00:25 START opt:shell_800_1 (8.0 GB)
+2026-10-29 04:00:26 OK opt:shell_800_1 1s peak=0.46GB 193165 optimal=1
+2026-10-29 04:00:26 START opt:bunny_800_1 (8.0 GB)
+2026-10-29 04:00:28 OK opt:bunny_800_1 2s peak=0.46GB 187657 optimal=1
+2026-10-29 04:00:28 START opt:armadillo_800_1 (8.0 GB)
+2026-10-29 04:00:30 OK opt:armadillo_800_1 2s peak=0.51GB 166330 optimal=1
+2026-10-29 04:00:30 START opt:dragon_800_1 (8.0 GB)
+2026-10-29 04:00:31 OK ls:ck:bunny_3000_1 1008s peak=0.40GB 1269551
+2026-10-29 04:00:31 START opt:uniform_700_1 (6.2 GB)
+2026-10-29 04:00:32 OK opt:uniform_700_1 1s peak=0.33GB 224080 optimal=1
+2026-10-29 04:00:32 START opt:gauss_700_1 (6.2 GB)
+2026-10-29 04:00:32 OK opt:dragon_800_1 2s peak=0.51GB 170803 optimal=1
+2026-10-29 04:00:32 START opt:buddha_800_1 (8.0 GB)
+2026-10-29 04:00:33 OK opt:gauss_700_1 1s peak=0.33GB 227425 optimal=1
+2026-10-29 04:00:33 START opt:cluster_700_1 (6.2 GB)
+2026-10-29 04:00:34 OK opt:buddha_800_1 2s peak=0.51GB 177502 optimal=1
+2026-10-29 04:00:34 START opt:grid_700_1 (6.2 GB)
+2026-10-29 04:00:34 OK opt:grid_700_1 0s peak=0.32GB 244650 optimal=1
+2026-10-29 04:00:34 START opt:shell_700_1 (6.2 GB)
+2026-10-29 04:00:35 OK opt:shell_700_1 1s peak=0.36GB 152690 optimal=1
+2026-10-29 04:00:35 START opt:bunny_700_1 (6.2 GB)
+2026-10-29 04:00:36 OK opt:bunny_700_1 1s peak=0.35GB 151984 optimal=1
+2026-10-29 04:00:36 START opt:armadillo_700_1 (6.2 GB)
+2026-10-29 04:00:37 OK opt:armadillo_700_1 1s peak=0.39GB 135932 optimal=1
+2026-10-29 04:00:37 START opt:dragon_700_1 (6.2 GB)
+2026-10-29 04:00:39 OK opt:dragon_700_1 1s peak=0.39GB 136403 optimal=1
+2026-10-29 04:00:39 START opt:buddha_700_1 (6.2 GB)
+2026-10-29 04:00:40 OK opt:buddha_700_1 1s peak=0.39GB 140262 optimal=1
+2026-10-29 04:00:40 START opt:uniform_600_1 (4.6 GB)
+2026-10-29 04:00:41 OK opt:uniform_600_1 0s peak=0.26GB 166079 optimal=1
+2026-10-29 04:00:41 START opt:gauss_600_1 (4.6 GB)
+2026-10-29 04:00:41 OK opt:gauss_600_1 0s peak=0.25GB 168128 optimal=1
+2026-10-29 04:00:41 START opt:cluster_600_1 (4.6 GB)
+2026-10-29 04:00:51 OK opt:cluster_700_1 19s peak=4.70GB 23648 optimal=1
+2026-10-29 04:00:51 START opt:grid_600_1 (4.6 GB)
+2026-10-29 04:00:52 OK opt:grid_600_1 0s peak=0.25GB 179700 optimal=1
+2026-10-29 04:00:52 START opt:spiral_600_1 (8.5 GB)
+2026-10-29 04:00:52 OK ls:sweep:bunny_3000_1 1011s peak=0.33GB 1269572
+2026-10-29 04:00:52 START alpha:uniform_500_1 (3.3 GB)
+2026-10-29 04:00:52 OK alpha:uniform_500_1 0s peak=0.11GB 117059 optimal=1
+2026-10-29 04:00:52 START alpha:gauss_500_1 (3.3 GB)
+2026-10-29 04:00:53 OK alpha:gauss_500_1 0s peak=0.10GB 118113 optimal=1
+2026-10-29 04:00:53 START alpha:cluster_500_1 (3.3 GB)
+2026-10-29 04:00:53 OK opt:cluster_600_1 12s peak=3.01GB 17750 optimal=1
+2026-10-29 04:00:53 START opt:shell_600_1 (4.6 GB)
+2026-10-29 04:00:53 OK opt:shell_600_1 1s peak=0.27GB 116134 optimal=1
+2026-10-29 04:00:53 START opt:bunny_600_1 (4.6 GB)
+2026-10-29 04:00:54 OK opt:bunny_600_1 1s peak=0.27GB 117427 optimal=1
+2026-10-29 04:00:54 START opt:armadillo_600_1 (4.6 GB)
+2026-10-29 04:00:55 OK opt:armadillo_600_1 1s peak=0.28GB 106766 optimal=1
+2026-10-29 04:00:55 START opt:dragon_600_1 (4.6 GB)
+2026-10-29 04:00:56 OK opt:dragon_600_1 1s peak=0.29GB 105223 optimal=1
+2026-10-29 04:00:56 START opt:buddha_600_1 (4.6 GB)
+2026-10-29 04:00:56 OK opt:buddha_600_1 1s peak=0.28GB 109592 optimal=1
+2026-10-29 04:00:56 START alpha:grid_500_1 (3.3 GB)
+2026-10-29 04:00:57 OK alpha:grid_500_1 0s peak=0.09GB 124750 optimal=1
+2026-10-29 04:00:57 START alpha:spiral_500_1 (5.0 GB)
+2026-10-29 04:01:39 OK alpha:cluster_500_1 47s peak=2.14GB 12462 optimal=1
+2026-10-29 04:01:39 START alpha:shell_500_1 (3.3 GB)
+2026-10-29 04:01:40 OK alpha:shell_500_1 0s peak=0.13GB 85880 optimal=1
+2026-10-29 04:01:40 START alpha:bunny_500_1 (3.3 GB)
+2026-10-29 04:01:40 OK alpha:bunny_500_1 0s peak=0.13GB 85989 optimal=1
+2026-10-29 04:01:40 START alpha:armadillo_500_1 (3.3 GB)
+2026-10-29 04:01:40 OK alpha:armadillo_500_1 0s peak=0.14GB 80212 optimal=1
+2026-10-29 04:01:40 START alpha:dragon_500_1 (3.3 GB)
+2026-10-29 04:01:41 OK alpha:dragon_500_1 0s peak=0.15GB 77762 optimal=1
+2026-10-29 04:01:41 START alpha:buddha_500_1 (3.3 GB)
+2026-10-29 04:01:41 OK alpha:buddha_500_1 0s peak=0.15GB 81499 optimal=1
+2026-10-29 04:01:41 START replay:sweep:shell_1000_1 (0.4 GB)
+2026-10-29 04:02:25 OK alpha:spiral_500_1 88s peak=1.25GB 9871 optimal=1
+2026-10-29 04:02:25 START replay:ck:bunny_1000_1 (0.4 GB)
+2026-10-29 04:02:33 OK ls:ck:armadillo_3000_1 1007s peak=0.38GB 1174330
+2026-10-29 04:02:33 START replay:sweep:bunny_1000_1 (0.4 GB)
+2026-10-29 04:03:22 OK replay:sweep:shell_1000_1 100s peak=0.10GB reproduced 281297, partition 281373
+2026-10-29 04:03:22 START replay:ck:armadillo_1000_1 (0.4 GB)
+2026-10-29 04:03:43 OK opt:spiral_600_1 171s peak=2.34GB 12253 optimal=1
+2026-10-29 04:03:43 START opt:spiral_700_1 (13.3 GB)
+2026-10-29 04:04:05 OK replay:ck:bunny_1000_1 101s peak=0.10GB reproduced 265320, partition 265500
+2026-10-29 04:04:05 START replay:sweep:armadillo_1000_1 (0.4 GB)
+2026-10-29 04:04:18 OK replay:sweep:bunny_1000_1 105s peak=0.09GB reproduced 265320, partition 265506
+2026-10-29 04:04:18 START replay:ck:dragon_1000_1 (0.4 GB)
+2026-10-29 04:05:03 OK replay:ck:armadillo_1000_1 101s peak=0.07GB reproduced 231503, partition 231837
+2026-10-29 04:05:03 START replay:sweep:dragon_1000_1 (0.4 GB)
+2026-10-29 04:05:49 OK replay:sweep:armadillo_1000_1 103s peak=0.08GB reproduced 231503, partition 231797
+2026-10-29 04:05:49 START replay:ck:buddha_1000_1 (0.4 GB)
+2026-10-29 04:06:00 OK replay:ck:dragon_1000_1 102s peak=0.07GB reproduced 240129, partition 240582
+2026-10-29 04:06:00 START replay:sweep:buddha_1000_1 (0.4 GB)
+2026-10-29 04:06:35 OK ls:sweep:armadillo_3000_1 1010s peak=0.32GB 1174319
+2026-10-29 04:06:35 START ls:sweep:cluster_800_1 (0.4 GB)
+2026-10-29 04:06:44 OK replay:sweep:dragon_1000_1 102s peak=0.08GB reproduced 240131, partition 240559
+2026-10-29 04:06:44 START ls:ck:grid_800_1 (0.4 GB)
+2026-10-29 04:07:32 OK replay:ck:buddha_1000_1 103s peak=0.08GB reproduced 252932, partition 253240
+2026-10-29 04:07:32 START ls:sweep:grid_800_1 (0.4 GB)
+2026-10-29 04:07:41 OK replay:sweep:buddha_1000_1 101s peak=0.08GB reproduced 252933, partition 253210
+2026-10-29 04:07:41 START ls:ck:spiral_800_1 (0.4 GB)
+2026-10-29 04:08:15 OK ls:sweep:cluster_800_1 100s peak=0.02GB 29383
+2026-10-29 04:08:15 START ls:sweep:spiral_800_1 (0.4 GB)
+2026-10-29 04:08:24 OK ls:ck:grid_800_1 100s peak=0.11GB 319600
+2026-10-29 04:08:24 START ls:ck:shell_800_1 (0.4 GB)
+2026-10-29 04:08:34 OK ls:ck:dragon_3000_1 1007s peak=0.39GB 1234706
+2026-10-29 04:08:34 START ls:sweep:shell_800_1 (0.4 GB)
+2026-10-29 04:08:52 OK ls:sweep:dragon_3000_1 1011s peak=0.33GB 1234695
+2026-10-29 04:08:52 START ls:ck:bunny_800_1 (0.4 GB)
+2026-10-29 04:09:13 OK ls:sweep:grid_800_1 101s peak=0.11GB 319600
+2026-10-29 04:09:13 START ls:sweep:bunny_800_1 (0.4 GB)
+2026-10-29 04:09:21 OK ls:ck:spiral_800_1 100s peak=0.01GB 16418
+2026-10-29 04:09:21 START ls:ck:armadillo_800_1 (0.4 GB)
+2026-10-29 04:09:55 OK ls:sweep:spiral_800_1 100s peak=0.01GB 16418
+2026-10-29 04:09:55 START ls:sweep:armadillo_800_1 (0.4 GB)
+2026-10-29 04:09:57 OK ls:ck:buddha_3000_1 1009s peak=0.40GB 1309340
+2026-10-29 04:09:57 START ls:ck:dragon_800_1 (0.4 GB)
+2026-10-29 04:10:05 OK ls:ck:shell_800_1 100s peak=0.07GB 193165
+2026-10-29 04:10:05 START ls:sweep:dragon_800_1 (0.4 GB)
+2026-10-29 04:10:15 OK ls:sweep:shell_800_1 101s peak=0.07GB 193166
+2026-10-29 04:10:15 START ls:ck:buddha_800_1 (0.4 GB)
+2026-10-29 04:10:32 OK ls:ck:bunny_800_1 101s peak=0.06GB 187657
+2026-10-29 04:10:32 START ls:sweep:buddha_800_1 (0.4 GB)
+2026-10-29 04:10:51 OK ls:sweep:buddha_3000_1 1010s peak=0.34GB 1309322
+2026-10-29 04:10:51 START ls:sweep:uniform_700_1 (0.4 GB)
+2026-10-29 04:10:54 OK ls:sweep:bunny_800_1 101s peak=0.07GB 187657
+2026-10-29 04:10:54 START ls:ck:gauss_700_1 (0.4 GB)
+2026-10-29 04:11:02 OK ls:ck:armadillo_800_1 101s peak=0.06GB 166330
+2026-10-29 04:11:02 START ls:sweep:gauss_700_1 (0.4 GB)
+2026-10-29 04:11:36 OK ls:sweep:armadillo_800_1 101s peak=0.06GB 166330
+2026-10-29 04:11:36 START ls:ck:cluster_700_1 (0.4 GB)
+2026-10-29 04:11:38 OK ls:ck:dragon_800_1 101s peak=0.06GB 170803
+2026-10-29 04:11:38 START ls:sweep:cluster_700_1 (0.4 GB)
+2026-10-29 04:11:40 OK opt:spiral_700_1 477s peak=4.72GB 14261 optimal=1
+2026-10-29 04:11:40 START ls:ck:grid_700_1 (0.4 GB)
+2026-10-29 04:11:46 OK ls:sweep:dragon_800_1 101s peak=0.06GB 170803
+2026-10-29 04:11:46 START ls:sweep:grid_700_1 (0.4 GB)
+2026-10-29 04:11:55 OK ls:ck:buddha_800_1 101s peak=0.06GB 177505
+2026-10-29 04:11:55 START ls:ck:spiral_700_1 (0.4 GB)
+2026-10-29 04:12:13 OK ls:sweep:buddha_800_1 101s peak=0.06GB 177503
+2026-10-29 04:12:13 START ls:sweep:spiral_700_1 (0.4 GB)
+2026-10-29 04:12:32 OK ls:sweep:uniform_700_1 101s peak=0.07GB 224080
+2026-10-29 04:12:32 START ls:ck:shell_700_1 (0.4 GB)
+2026-10-29 04:12:34 OK ls:ck:gauss_700_1 100s peak=0.07GB 227425
+2026-10-29 04:12:34 START ls:sweep:shell_700_1 (0.4 GB)
+2026-10-29 04:12:43 OK ls:sweep:gauss_700_1 101s peak=0.07GB 227425
+2026-10-29 04:12:43 START ls:ck:bunny_700_1 (0.4 GB)
+2026-10-29 04:13:16 OK ls:ck:cluster_700_1 100s peak=0.02GB 23650
+2026-10-29 04:13:16 START ls:sweep:bunny_700_1 (0.4 GB)
+2026-10-29 04:13:18 OK ls:sweep:cluster_700_1 100s peak=0.01GB 23653
+2026-10-29 04:13:18 START ls:ck:armadillo_700_1 (0.4 GB)
+2026-10-29 04:13:20 OK ls:ck:grid_700_1 100s peak=0.07GB 244650
+2026-10-29 04:13:20 START ls:sweep:armadillo_700_1 (0.4 GB)
+2026-10-29 04:13:26 OK ls:sweep:grid_700_1 101s peak=0.08GB 244650
+2026-10-29 04:13:26 START ls:ck:dragon_700_1 (0.4 GB)
+2026-10-29 04:13:35 OK ls:ck:spiral_700_1 100s peak=0.01GB 14261
+2026-10-29 04:13:35 START ls:sweep:dragon_700_1 (0.4 GB)
+2026-10-29 04:13:53 OK ls:sweep:spiral_700_1 100s peak=0.01GB 14261
+2026-10-29 04:13:53 START ls:ck:buddha_700_1 (0.4 GB)
+2026-10-29 04:14:12 OK ls:ck:shell_700_1 100s peak=0.06GB 152690
+2026-10-29 04:14:12 START ls:sweep:buddha_700_1 (0.4 GB)
+2026-10-29 04:14:15 OK ls:sweep:shell_700_1 101s peak=0.06GB 152691
+2026-10-29 04:14:15 START ls:ck:uniform_600_1 (0.4 GB)
+2026-10-29 04:14:23 OK ls:ck:bunny_700_1 100s peak=0.06GB 151984
+2026-10-29 04:14:23 START ls:sweep:uniform_600_1 (0.4 GB)
+2026-10-29 04:14:57 OK ls:sweep:bunny_700_1 101s peak=0.06GB 151984
+2026-10-29 04:14:57 START ls:ck:gauss_600_1 (0.4 GB)
+2026-10-29 04:14:58 OK ls:ck:armadillo_700_1 100s peak=0.05GB 135932
+2026-10-29 04:14:58 START ls:sweep:gauss_600_1 (0.4 GB)
+2026-10-29 04:15:01 OK ls:sweep:armadillo_700_1 101s peak=0.05GB 135932
+2026-10-29 04:15:01 START ls:ck:cluster_600_1 (0.4 GB)
+2026-10-29 04:15:07 OK ls:ck:dragon_700_1 100s peak=0.05GB 136404
+2026-10-29 04:15:07 START ls:sweep:cluster_600_1 (0.4 GB)
+2026-10-29 04:15:16 OK ls:sweep:dragon_700_1 101s peak=0.05GB 136404
+2026-10-29 04:15:16 START ls:ck:grid_600_1 (0.4 GB)
+2026-10-29 04:15:34 OK ls:ck:buddha_700_1 100s peak=0.05GB 140264
+2026-10-29 04:15:34 START ls:sweep:grid_600_1 (0.4 GB)
+2026-10-29 04:15:53 OK ls:sweep:buddha_700_1 101s peak=0.05GB 140263
+2026-10-29 04:15:53 START ls:ck:spiral_600_1 (0.4 GB)
+2026-10-29 04:15:55 OK ls:ck:uniform_600_1 100s peak=0.06GB 166079
+2026-10-29 04:15:55 START ls:sweep:spiral_600_1 (0.4 GB)
+2026-10-29 04:16:04 OK ls:sweep:uniform_600_1 100s peak=0.06GB 166079
+2026-10-29 04:16:04 START ls:ck:shell_600_1 (0.4 GB)
+2026-10-29 04:16:37 OK ls:ck:gauss_600_1 100s peak=0.06GB 168128
+2026-10-29 04:16:37 START ls:sweep:shell_600_1 (0.4 GB)
+2026-10-29 04:16:39 OK ls:sweep:gauss_600_1 100s peak=0.06GB 168128
+2026-10-29 04:16:39 START ls:ck:bunny_600_1 (0.4 GB)
+2026-10-29 04:16:41 OK ls:ck:cluster_600_1 100s peak=0.01GB 17754
+2026-10-29 04:16:41 START ls:sweep:bunny_600_1 (0.4 GB)
+2026-10-29 04:16:47 OK ls:sweep:cluster_600_1 100s peak=0.01GB 17751
+2026-10-29 04:16:47 START ls:ck:armadillo_600_1 (0.4 GB)
+2026-10-29 04:16:56 OK ls:ck:grid_600_1 100s peak=0.06GB 179700
+2026-10-29 04:16:56 START ls:sweep:armadillo_600_1 (0.4 GB)
+2026-10-29 04:17:01 OK opt:spiral_800_1 1015s peak=9.71GB 16418 optimal=1
+2026-10-29 04:17:01 START ls:ck:dragon_600_1 (0.4 GB)
+2026-10-29 04:17:14 OK ls:sweep:grid_600_1 100s peak=0.06GB 179700
+2026-10-29 04:17:14 START ls:sweep:dragon_600_1 (0.4 GB)
+2026-10-29 04:17:33 OK ls:ck:spiral_600_1 100s peak=0.01GB 12253
+2026-10-29 04:17:33 START ls:ck:buddha_600_1 (0.4 GB)
+2026-10-29 04:17:35 OK ls:sweep:spiral_600_1 100s peak=0.01GB 12253
+2026-10-29 04:17:35 START ls:sweep:buddha_600_1 (0.4 GB)
+2026-10-29 04:17:44 OK ls:ck:shell_600_1 100s peak=0.04GB 116135
+2026-10-29 04:17:44 START ls:ck:gauss_300_1 (0.3 GB)
+2026-10-29 04:18:18 OK ls:sweep:shell_600_1 100s peak=0.04GB 116134
+2026-10-29 04:18:18 START ls:sweep:gauss_300_1 (0.3 GB)
+2026-10-29 04:18:19 OK ls:ck:bunny_600_1 100s peak=0.04GB 117427
+2026-10-29 04:18:19 START ls:ck:cluster_300_1 (0.3 GB)
+2026-10-29 04:18:21 OK ls:sweep:bunny_600_1 101s peak=0.04GB 117427
+2026-10-29 04:18:21 START ls:sweep:cluster_300_1 (0.3 GB)
+2026-10-29 04:18:27 OK ls:ck:armadillo_600_1 100s peak=0.04GB 106766
+2026-10-29 04:18:27 START ls:ck:grid_300_1 (0.3 GB)
+2026-10-29 04:18:37 OK ls:sweep:armadillo_600_1 101s peak=0.04GB 106766
+2026-10-29 04:18:37 START ls:sweep:grid_300_1 (0.3 GB)
+2026-10-29 04:18:42 OK ls:ck:dragon_600_1 100s peak=0.04GB 105223
+2026-10-29 04:18:42 START ls:ck:spiral_300_1 (0.3 GB)
+2026-10-29 04:18:55 OK ls:sweep:dragon_600_1 101s peak=0.04GB 105223
+2026-10-29 04:18:55 START ls:sweep:spiral_300_1 (0.3 GB)
+2026-10-29 04:19:14 OK ls:ck:buddha_600_1 100s peak=0.04GB 109592
+2026-10-29 04:19:14 START ls:ck:shell_300_1 (0.3 GB)
+2026-10-29 04:19:15 OK ls:sweep:buddha_600_1 101s peak=0.04GB 109593
+2026-10-29 04:19:15 START ls:sweep:shell_300_1 (0.3 GB)
+2026-10-29 04:19:24 OK ls:ck:gauss_300_1 100s peak=0.02GB 43490
+2026-10-29 04:19:24 START ls:ck:bunny_300_1 (0.3 GB)
+2026-10-29 04:19:58 OK ls:sweep:gauss_300_1 100s peak=0.02GB 43490
+2026-10-29 04:19:58 START ls:sweep:bunny_300_1 (0.3 GB)
+2026-10-29 04:19:59 OK ls:ck:cluster_300_1 100s peak=0.01GB 7469
+2026-10-29 04:19:59 START ls:ck:armadillo_300_1 (0.3 GB)
+2026-10-29 04:20:01 OK ls:sweep:cluster_300_1 100s peak=0.01GB 7470
+2026-10-29 04:20:01 START ls:sweep:armadillo_300_1 (0.3 GB)
+2026-10-29 04:20:07 OK ls:ck:grid_300_1 100s peak=0.02GB 44850
+2026-10-29 04:20:07 START ls:ck:dragon_300_1 (0.3 GB)
+2026-10-29 04:20:17 OK ls:sweep:grid_300_1 100s peak=0.02GB 44850
+2026-10-29 04:20:17 START ls:sweep:dragon_300_1 (0.3 GB)
+2026-10-29 04:20:22 OK ls:ck:spiral_300_1 100s peak=0.01GB 5764
+2026-10-29 04:20:22 START ls:ck:buddha_300_1 (0.3 GB)
+2026-10-29 04:20:35 OK ls:sweep:spiral_300_1 100s peak=0.01GB 5764
+2026-10-29 04:20:35 START ls:sweep:buddha_300_1 (0.3 GB)
+2026-10-29 04:20:54 OK ls:ck:shell_300_1 100s peak=0.02GB 35344
+2026-10-29 04:20:54 START replay:ck:uniform_200_1 (0.3 GB)
+2026-10-29 04:20:56 OK ls:sweep:shell_300_1 100s peak=0.02GB 35344
+2026-10-29 04:20:56 START replay:sweep:uniform_200_1 (0.3 GB)
+2026-10-29 04:21:04 OK ls:ck:bunny_300_1 100s peak=0.02GB 34738
+2026-10-29 04:21:04 START lns:ck:uniform_200_1 (0.3 GB)
+2026-10-29 04:21:38 OK ls:sweep:bunny_300_1 100s peak=0.02GB 34738
+2026-10-29 04:21:38 START lns:sweep:uniform_200_1 (0.3 GB)
+2026-10-29 04:21:39 OK ls:ck:armadillo_300_1 100s peak=0.02GB 33426
+2026-10-29 04:21:39 START replay:ck:gauss_200_1 (0.3 GB)
+2026-10-29 04:21:41 OK ls:sweep:armadillo_300_1 100s peak=0.02GB 33426
+2026-10-29 04:21:41 START replay:sweep:gauss_200_1 (0.3 GB)
+2026-10-29 04:21:48 OK ls:ck:dragon_300_1 100s peak=0.02GB 32202
+2026-10-29 04:21:48 START lns:ck:gauss_200_1 (0.3 GB)
+2026-10-29 04:21:57 OK ls:sweep:dragon_300_1 100s peak=0.02GB 32202
+2026-10-29 04:21:57 START lns:sweep:gauss_200_1 (0.3 GB)
+2026-10-29 04:22:02 OK ls:ck:buddha_300_1 100s peak=0.02GB 34173
+2026-10-29 04:22:02 START replay:ck:cluster_200_1 (0.3 GB)
+2026-10-29 04:22:15 OK ls:sweep:buddha_300_1 100s peak=0.02GB 34173
+2026-10-29 04:22:15 START replay:sweep:cluster_200_1 (0.3 GB)
+2026-10-29 04:22:40 OK replay:ck:uniform_200_1 106s peak=0.01GB reproduced 19653, partition 19653
+2026-10-29 04:22:40 START lns:ck:cluster_200_1 (0.3 GB)
+2026-10-29 04:22:40 OK replay:sweep:uniform_200_1 105s peak=0.01GB reproduced 19653, partition 19653
+2026-10-29 04:22:40 START lns:sweep:cluster_200_1 (0.3 GB)
+2026-10-29 04:22:44 OK lns:ck:uniform_200_1 100s peak=0.02GB 19653
+2026-10-29 04:22:44 START replay:ck:grid_200_1 (0.3 GB)
+2026-10-29 04:23:18 OK lns:sweep:uniform_200_1 100s peak=0.02GB 19653
+2026-10-29 04:23:18 START replay:sweep:grid_200_1 (0.3 GB)
+2026-10-29 04:23:21 OK replay:sweep:gauss_200_1 99s peak=0.01GB reproduced 19547, partition 19547
+2026-10-29 04:23:21 START lns:ck:grid_200_1 (0.3 GB)
+2026-10-29 04:23:22 OK replay:ck:gauss_200_1 103s peak=0.01GB reproduced 19547, partition 19547
+2026-10-29 04:23:22 START lns:sweep:grid_200_1 (0.3 GB)
+2026-10-29 04:23:28 OK lns:ck:gauss_200_1 100s peak=0.02GB 19547
+2026-10-29 04:23:28 START replay:ck:spiral_200_1 (0.3 GB)
+2026-10-29 04:23:37 OK lns:sweep:gauss_200_1 100s peak=0.02GB 19547
+2026-10-29 04:23:37 START replay:sweep:spiral_200_1 (0.3 GB)
+2026-10-29 04:23:41 OK replay:ck:cluster_200_1 99s peak=0.01GB reproduced 3815, partition 3871
+2026-10-29 04:23:41 START lns:ck:spiral_200_1 (0.3 GB)
+2026-10-29 04:23:54 OK replay:sweep:cluster_200_1 99s peak=0.01GB reproduced 3816, partition 3867
+2026-10-29 04:23:54 START lns:sweep:spiral_200_1 (0.3 GB)
+2026-10-29 04:24:20 OK lns:ck:cluster_200_1 100s peak=0.06GB 3815
+2026-10-29 04:24:20 START replay:ck:shell_200_1 (0.3 GB)
+2026-10-29 04:24:20 OK lns:sweep:cluster_200_1 100s peak=0.06GB 3817
+2026-10-29 04:24:20 START replay:sweep:shell_200_1 (0.3 GB)
+2026-10-29 04:24:24 OK replay:ck:grid_200_1 100s peak=0.01GB reproduced 19900, partition 19900
+2026-10-29 04:24:24 START lns:ck:shell_200_1 (0.3 GB)
+2026-10-29 04:25:01 OK lns:ck:grid_200_1 100s peak=0.02GB 19900
+2026-10-29 04:25:01 START lns:sweep:shell_200_1 (0.3 GB)
+2026-10-29 04:25:02 OK replay:sweep:grid_200_1 104s peak=0.01GB reproduced 19900, partition 19900
+2026-10-29 04:25:02 START replay:ck:bunny_200_1 (0.3 GB)
+2026-10-29 04:25:02 OK lns:sweep:grid_200_1 100s peak=0.02GB 19900
+2026-10-29 04:25:02 START replay:sweep:bunny_200_1 (0.3 GB)
+2026-10-29 04:25:09 OK replay:ck:spiral_200_1 101s peak=0.01GB reproduced 3643, partition 3651
+2026-10-29 04:25:09 START lns:ck:bunny_200_1 (0.3 GB)
+2026-10-29 04:25:15 OK replay:sweep:spiral_200_1 98s peak=0.01GB reproduced 3643, partition 3647
+2026-10-29 04:25:15 START lns:sweep:bunny_200_1 (0.3 GB)
+2026-10-29 04:25:21 OK lns:ck:spiral_200_1 100s peak=0.03GB 3672
+2026-10-29 04:25:21 START replay:ck:armadillo_200_1 (0.3 GB)
+2026-10-29 04:25:34 OK lns:sweep:spiral_200_1 100s peak=0.03GB 3659
+2026-10-29 04:25:34 START replay:sweep:armadillo_200_1 (0.3 GB)
+2026-10-29 04:26:02 OK replay:ck:shell_200_1 102s peak=0.01GB reproduced 17249, partition 17249
+2026-10-29 04:26:02 START lns:ck:armadillo_200_1 (0.3 GB)
+2026-10-29 04:26:02 OK replay:sweep:shell_200_1 102s peak=0.01GB reproduced 17249, partition 17249
+2026-10-29 04:26:02 START lns:sweep:armadillo_200_1 (0.3 GB)
+2026-10-29 04:26:04 OK lns:ck:shell_200_1 100s peak=0.02GB 17249
+2026-10-29 04:26:04 START replay:ck:dragon_200_1 (0.3 GB)
+2026-10-29 04:26:41 OK lns:sweep:shell_200_1 100s peak=0.02GB 17249
+2026-10-29 04:26:41 START replay:sweep:dragon_200_1 (0.3 GB)
+2026-10-29 04:26:43 OK replay:ck:bunny_200_1 101s peak=0.01GB reproduced 16743, partition 16743
+2026-10-29 04:26:43 START lns:ck:dragon_200_1 (0.3 GB)
+2026-10-29 04:26:45 OK replay:sweep:bunny_200_1 102s peak=0.01GB reproduced 16743, partition 16743
+2026-10-29 04:26:45 START lns:sweep:dragon_200_1 (0.3 GB)
+2026-10-29 04:26:49 OK lns:ck:bunny_200_1 100s peak=0.02GB 16743
+2026-10-29 04:26:49 START replay:ck:buddha_200_1 (0.3 GB)
+2026-10-29 04:26:55 OK lns:sweep:bunny_200_1 100s peak=0.02GB 16743
+2026-10-29 04:26:55 START replay:sweep:buddha_200_1 (0.3 GB)
+2026-10-29 04:27:03 OK replay:ck:armadillo_200_1 102s peak=0.01GB reproduced 16247, partition 16248
+2026-10-29 04:27:03 START lns:ck:buddha_200_1 (0.3 GB)
+2026-10-29 04:27:18 OK replay:sweep:armadillo_200_1 104s peak=0.01GB reproduced 16247, partition 16247
+2026-10-29 04:27:18 START lns:sweep:buddha_200_1 (0.3 GB)
+2026-10-29 04:27:42 OK lns:ck:armadillo_200_1 100s peak=0.02GB 16247
+2026-10-29 04:27:42 START sep:uniform_10000_1 (9.3 GB)
+2026-10-29 04:27:42 OK lns:sweep:armadillo_200_1 100s peak=0.02GB 16247
+2026-10-29 04:27:42 START part:uniform_10000_1 (14.3 GB)
+2026-10-29 04:27:49 OK replay:ck:dragon_200_1 104s peak=0.02GB reproduced 15889, partition 15889
+2026-10-29 04:27:49 START sep:gauss_10000_1 (9.3 GB)
+2026-10-29 04:28:20 OK replay:sweep:dragon_200_1 100s peak=0.02GB reproduced 15889, partition 15889
+2026-10-29 04:28:20 START sep:cluster_10000_1 (9.3 GB)
+2026-10-29 04:28:22 OK opt:spiral_900_1 1776s peak=20.24GB 18672 optimal=1
+2026-10-29 04:28:22 START part:gauss_10000_1 (14.3 GB)
+2026-10-29 04:28:23 OK lns:ck:dragon_200_1 100s peak=0.02GB 15889
+2026-10-29 04:28:23 START part:cluster_10000_1 (14.3 GB)
+2026-10-29 04:28:25 OK lns:sweep:dragon_200_1 100s peak=0.02GB 15889
+2026-10-29 04:28:25 START alpha:uniform_300_1 (1.4 GB)
+2026-10-29 04:28:25 OK alpha:uniform_300_1 0s peak=0.04GB 43229 optimal=1
+2026-10-29 04:28:25 START opt:uniform_300_1 (1.4 GB)
+2026-10-29 04:28:25 OK opt:uniform_300_1 0s peak=0.07GB 43229 optimal=1
+2026-10-29 04:28:25 START alpha:gauss_300_1 (1.4 GB)
+2026-10-29 04:28:25 OK alpha:gauss_300_1 0s peak=0.05GB 43490 optimal=1
+2026-10-29 04:28:25 START opt:gauss_300_1 (1.4 GB)
+2026-10-29 04:28:25 OK opt:gauss_300_1 0s peak=0.07GB 43490 optimal=1
+2026-10-29 04:28:25 START alpha:cluster_300_1 (1.4 GB)
+2026-10-29 04:28:37 OK alpha:cluster_300_1 12s peak=0.68GB 7430 optimal=1
+2026-10-29 04:28:37 START opt:cluster_300_1 (1.4 GB)
+2026-10-29 04:28:37 OK replay:ck:buddha_200_1 108s peak=0.01GB reproduced 16033, partition 16033
+2026-10-29 04:28:37 START alpha:uniform_200_1 (0.8 GB)
+2026-10-29 04:28:37 OK alpha:uniform_200_1 0s peak=0.03GB 19653 optimal=1
+2026-10-29 04:28:37 START alpha:gauss_200_1 (0.8 GB)
+2026-10-29 04:28:37 OK alpha:gauss_200_1 0s peak=0.03GB 19547 optimal=1
+2026-10-29 04:28:37 START alpha:cluster_200_1 (0.8 GB)
+2026-10-29 04:28:39 OK opt:cluster_300_1 2s peak=0.66GB 7468 optimal=1
+2026-10-29 04:28:39 START alpha:grid_300_1 (1.4 GB)
+2026-10-29 04:28:39 OK alpha:grid_300_1 0s peak=0.04GB 44850 optimal=1
+2026-10-29 04:28:39 START opt:grid_300_1 (1.4 GB)
+2026-10-29 04:28:40 OK opt:grid_300_1 0s peak=0.07GB 44850 optimal=1
+2026-10-29 04:28:40 START alpha:spiral_300_1 (1.3 GB)
+2026-10-29 04:28:41 OK replay:sweep:buddha_200_1 106s peak=0.01GB reproduced 16033, partition 16033
+2026-10-29 04:28:41 START sep:uniform_1000_1 (0.4 GB)
+2026-10-29 04:28:41 OK alpha:cluster_200_1 4s peak=0.25GB 3799 optimal=1
+2026-10-29 04:28:41 START alpha:grid_200_1 (0.8 GB)
+2026-10-29 04:28:41 OK alpha:grid_200_1 0s peak=0.02GB 19900 optimal=1
+2026-10-29 04:28:41 START alpha:spiral_200_1 (0.6 GB)
+2026-10-29 04:28:42 OK alpha:spiral_200_1 1s peak=0.06GB 3643 optimal=1
+2026-10-29 04:28:42 START alpha:shell_200_1 (0.8 GB)
+2026-10-29 04:28:42 OK alpha:shell_200_1 0s peak=0.03GB 17249 optimal=1
+2026-10-29 04:28:42 START alpha:bunny_200_1 (0.8 GB)
+2026-10-29 04:28:42 OK alpha:bunny_200_1 0s peak=0.03GB 16740 optimal=1
+2026-10-29 04:28:42 START alpha:armadillo_200_1 (0.8 GB)
+2026-10-29 04:28:42 OK alpha:armadillo_200_1 0s peak=0.03GB 16247 optimal=1
+2026-10-29 04:28:42 START alpha:dragon_200_1 (0.8 GB)
+2026-10-29 04:28:42 OK alpha:dragon_200_1 0s peak=0.03GB 15889 optimal=1
+2026-10-29 04:28:42 START alpha:buddha_200_1 (0.8 GB)
+2026-10-29 04:28:42 OK alpha:buddha_200_1 0s peak=0.03GB 16027 optimal=1
+2026-10-29 04:28:42 START sep:uniform_2000_1 (0.7 GB)
+2026-10-29 04:28:43 OK sep:uniform_1000_1 2s peak=0.09GB steps=429856 lb1=430793 lb=430945
+2026-10-29 04:28:43 START part:uniform_1000_1 (0.4 GB)
+2026-10-29 04:28:43 OK lns:ck:buddha_200_1 100s peak=0.02GB 16033
+2026-10-29 04:28:43 START sep:gauss_1000_1 (0.4 GB)
+2026-10-29 04:28:45 OK sep:gauss_1000_1 2s peak=0.10GB steps=449699 lb1=450849 lb=450885
+2026-10-29 04:28:45 START part:gauss_1000_1 (0.4 GB)
+2026-10-29 04:28:46 OK alpha:spiral_300_1 6s peak=0.18GB 5764 optimal=1
+2026-10-29 04:28:46 START opt:spiral_300_1 (1.3 GB)
+2026-10-29 04:28:48 OK part:uniform_1000_1 6s peak=0.14GB 453657 445747 431193 431157 473020 459135
+2026-10-29 04:28:48 START sep:cluster_1000_1 (0.4 GB)
+2026-10-29 04:28:49 OK sep:uniform_2000_1 7s peak=0.29GB steps=1516324 lb1=1530180 lb=1531003
+2026-10-29 04:28:49 START sep:gauss_2000_1 (0.7 GB)
+2026-10-29 04:28:50 OK sep:cluster_1000_1 2s peak=0.02GB steps=40331 lb1=44254 lb=45437
+2026-10-29 04:28:50 START part:cluster_1000_1 (0.4 GB)
+2026-10-29 04:28:50 OK part:gauss_1000_1 5s peak=0.15GB 461240 458595 451139 451129 476183 467192
+2026-10-29 04:28:50 START sep:grid_1000_1 (0.4 GB)
+2026-10-29 04:28:51 OK part:cluster_1000_1 1s peak=0.04GB 67654 54131 51221 51455 125130 58786
+2026-10-29 04:28:51 START part:grid_1000_1 (0.4 GB)
+2026-10-29 04:28:52 OK sep:grid_1000_1 2s peak=0.10GB steps=499500 lb1=499500 lb=499500
+2026-10-29 04:28:52 START sep:spiral_1000_1 (0.4 GB)
+2026-10-29 04:28:52 OK opt:spiral_300_1 6s peak=0.19GB 5764 optimal=1
+2026-10-29 04:28:52 START alpha:shell_300_1 (1.4 GB)
+2026-10-29 04:28:52 OK alpha:shell_300_1 0s peak=0.05GB 35338 optimal=1
+2026-10-29 04:28:52 START opt:shell_300_1 (1.4 GB)
+2026-10-29 04:28:52 OK opt:shell_300_1 0s peak=0.08GB 35344 optimal=1
+2026-10-29 04:28:52 START alpha:bunny_300_1 (1.4 GB)
+2026-10-29 04:28:52 OK alpha:bunny_300_1 0s peak=0.05GB 34732 optimal=1
+2026-10-29 04:28:52 START opt:bunny_300_1 (1.4 GB)
+2026-10-29 04:28:52 OK opt:bunny_300_1 0s peak=0.08GB 34738 optimal=1
+2026-10-29 04:28:52 START alpha:armadillo_300_1 (1.4 GB)
+2026-10-29 04:28:53 OK alpha:armadillo_300_1 0s peak=0.06GB 33408 optimal=1
+2026-10-29 04:28:53 START opt:armadillo_300_1 (1.4 GB)
+2026-10-29 04:28:53 OK sep:spiral_1000_1 1s peak=0.01GB steps=19635 lb1=20067 lb=20315
+2026-10-29 04:28:53 START sep:shell_1000_1 (0.4 GB)
+2026-10-29 04:28:53 OK opt:armadillo_300_1 0s peak=0.08GB 33426 optimal=1
+2026-10-29 04:28:53 START alpha:dragon_300_1 (1.4 GB)
+2026-10-29 04:28:53 OK alpha:dragon_300_1 0s peak=0.06GB 32195 optimal=1
+2026-10-29 04:28:53 START opt:dragon_300_1 (1.4 GB)
+2026-10-29 04:28:53 OK part:grid_1000_1 2s peak=0.15GB 499500 499500 499500 499500 499500 499500
+2026-10-29 04:28:53 START part:spiral_1000_1 (0.4 GB)
+2026-10-29 04:28:53 OK opt:dragon_300_1 0s peak=0.08GB 32202 optimal=1
+2026-10-29 04:28:53 START alpha:buddha_300_1 (1.4 GB)
+2026-10-29 04:28:53 OK alpha:buddha_300_1 0s peak=0.05GB 34161 optimal=1
+2026-10-29 04:28:53 START opt:buddha_300_1 (1.4 GB)
+2026-10-29 04:28:54 OK opt:buddha_300_1 0s peak=0.08GB 34173 optimal=1
+2026-10-29 04:28:54 START sep:uniform_3000_1 (1.1 GB)
+2026-10-29 04:28:54 OK part:spiral_1000_1 0s peak=0.02GB 26115 23481 21664 22182 41207 23789
+2026-10-29 04:28:54 START sep:cluster_2000_1 (0.7 GB)
+2026-10-29 04:28:54 OK sep:shell_1000_1 2s peak=0.08GB steps=271921 lb1=280102 lb=281055
+2026-10-29 04:28:54 START part:shell_1000_1 (0.4 GB)
+2026-10-29 04:28:57 OK sep:gauss_2000_1 7s peak=0.30GB steps=1634313 lb1=1642132 lb=1642915
+2026-10-29 04:28:57 START sep:grid_2000_1 (0.7 GB)
+2026-10-29 04:28:58 OK lns:sweep:buddha_200_1 100s peak=0.02GB 16033
+2026-10-29 04:28:58 START sep:uniform_500_1 (0.3 GB)
+2026-10-29 04:28:58 OK sep:uniform_500_1 0s peak=0.03GB steps=117013 lb1=117059 lb=117059
+2026-10-29 04:28:58 START sep:gauss_500_1 (0.3 GB)
+2026-10-29 04:28:59 OK sep:gauss_500_1 0s peak=0.03GB steps=117983 lb1=118113 lb=118113
+2026-10-29 04:28:59 START sep:cluster_500_1 (0.3 GB)
+2026-10-29 04:28:59 OK sep:cluster_500_1 0s peak=0.01GB steps=11208 lb1=12187 lb=12451
+2026-10-29 04:28:59 START sep:grid_500_1 (0.3 GB)
+2026-10-29 04:29:00 OK sep:grid_500_1 0s peak=0.03GB steps=124750 lb1=124750 lb=124750
+2026-10-29 04:29:00 START sep:spiral_500_1 (0.3 GB)
+2026-10-29 04:29:00 OK sep:spiral_500_1 0s peak=0.01GB steps=9619 lb1=9740 lb=9814
+2026-10-29 04:29:00 START sep:shell_500_1 (0.3 GB)
+2026-10-29 04:29:00 OK sep:cluster_2000_1 6s peak=0.06GB steps=147513 lb1=164196 lb=169264
+2026-10-29 04:29:00 START sep:spiral_2000_1 (0.7 GB)
+2026-10-29 04:29:00 OK sep:shell_500_1 0s peak=0.03GB steps=84804 lb1=85863 lb=85880
+2026-10-29 04:29:00 START sep:bunny_500_1 (0.3 GB)
+2026-10-29 04:29:01 OK sep:bunny_500_1 0s peak=0.03GB steps=84642 lb1=85753 lb=85989
+2026-10-29 04:29:01 START sep:armadillo_500_1 (0.3 GB)
+2026-10-29 04:29:01 OK sep:armadillo_500_1 0s peak=0.02GB steps=78887 lb1=80041 lb=80212
+2026-10-29 04:29:01 START sep:dragon_500_1 (0.3 GB)
+2026-10-29 04:29:02 OK sep:dragon_500_1 1s peak=0.03GB steps=76800 lb1=77665 lb=77760
+2026-10-29 04:29:02 START sep:buddha_500_1 (0.3 GB)
+2026-10-29 04:29:02 OK sep:buddha_500_1 0s peak=0.02GB steps=80332 lb1=81384 lb=81499
+2026-10-29 04:29:02 START sep:uniform_400_1 (0.3 GB)
+2026-10-29 04:29:02 OK sep:uniform_400_1 0s peak=0.02GB steps=76093 lb1=76107 lb=76107
+2026-10-29 04:29:02 START part:uniform_400_1 (0.3 GB)
+2026-10-29 04:29:03 OK part:uniform_400_1 1s peak=0.03GB 77319 76291 76107 76107 78036 76411
+2026-10-29 04:29:03 START sep:gauss_400_1 (0.3 GB)
+2026-10-29 04:29:04 OK sep:gauss_400_1 0s peak=0.02GB steps=76070 lb1=76120 lb=76120
+2026-10-29 04:29:04 START part:gauss_400_1 (0.3 GB)
+2026-10-29 04:29:04 OK sep:grid_2000_1 7s peak=0.34GB steps=1998988 lb1=1998988 lb=1998988
+2026-10-29 04:29:04 START sep:shell_2000_1 (0.7 GB)
+2026-10-29 04:29:05 OK part:gauss_400_1 1s peak=0.03GB 77333 76400 76126 76124 77479 76705
+2026-10-29 04:29:05 START sep:cluster_400_1 (0.3 GB)
+2026-10-29 04:29:05 OK sep:cluster_400_1 0s peak=0.01GB steps=8487 lb1=9105 lb=9262
+2026-10-29 04:29:05 START part:cluster_400_1 (0.3 GB)
+2026-10-29 04:29:05 OK part:cluster_400_1 0s peak=0.01GB 11757 10366 10089 10149 21917 11102
+2026-10-29 04:29:05 START sep:grid_400_1 (0.3 GB)
+2026-10-29 04:29:05 OK sep:spiral_2000_1 5s peak=0.02GB steps=38896 lb1=39767 lb=40459
+2026-10-29 04:29:05 START sep:bunny_2000_1 (0.7 GB)
+2026-10-29 04:29:05 OK sep:grid_400_1 0s peak=0.02GB steps=79800 lb1=79800 lb=79800
+2026-10-29 04:29:05 START part:grid_400_1 (0.3 GB)
+2026-10-29 04:29:05 OK part:shell_1000_1 11s peak=0.12GB 327958 309019 283959 283615 398081 339642
+2026-10-29 04:29:05 START sep:bunny_1000_1 (0.4 GB)
+2026-10-29 04:29:06 OK part:grid_400_1 0s peak=0.03GB 79800 79800 79800 79800 79800 79800
+2026-10-29 04:29:06 START sep:uniform_900_1 (0.4 GB)
+2026-10-29 04:29:07 OK sep:uniform_900_1 1s peak=0.09GB steps=356231 lb1=356714 lb=356830
+2026-10-29 04:29:07 START sep:gauss_900_1 (0.4 GB)
+2026-10-29 04:29:07 OK sep:bunny_1000_1 2s peak=0.07GB steps=258523 lb1=264107 lb=265154
+2026-10-29 04:29:07 START sep:armadillo_1000_1 (0.4 GB)
+2026-10-29 04:29:08 OK sep:gauss_900_1 1s peak=0.09GB steps=368282 lb1=369345 lb=369360
+2026-10-29 04:29:08 START sep:cluster_900_1 (0.4 GB)
+2026-10-29 04:29:09 OK sep:armadillo_1000_1 2s peak=0.05GB steps=224425 lb1=230186 lb=231258
+2026-10-29 04:29:09 START sep:dragon_1000_1 (0.4 GB)
+2026-10-29 04:29:10 OK sep:cluster_900_1 1s peak=0.02GB steps=32294 lb1=35680 lb=36816
+2026-10-29 04:29:10 START sep:grid_900_1 (0.4 GB)
+2026-10-29 04:29:11 OK sep:uniform_3000_1 17s peak=0.58GB steps=3057264 lb1=3104775 lb=3108834
+2026-10-29 04:29:11 START sep:gauss_3000_1 (1.1 GB)
+2026-10-29 04:29:11 OK sep:dragon_1000_1 2s peak=0.05GB steps=233211 lb1=238249 lb=239789
+2026-10-29 04:29:11 START sep:buddha_1000_1 (0.4 GB)
+2026-10-29 04:29:11 OK sep:shell_2000_1 7s peak=0.18GB steps=785427 lb1=822778 lb=830209
+2026-10-29 04:29:11 START sep:armadillo_2000_1 (0.7 GB)
+2026-10-29 04:29:11 OK sep:grid_900_1 1s peak=0.09GB steps=404550 lb1=404550 lb=404550
+2026-10-29 04:29:11 START sep:spiral_900_1 (0.4 GB)
+2026-10-29 04:29:12 OK sep:spiral_900_1 1s peak=0.01GB steps=17929 lb1=18283 lb=18510
+2026-10-29 04:29:12 START sep:shell_900_1 (0.4 GB)
+2026-10-29 04:29:12 OK sep:bunny_2000_1 7s peak=0.17GB steps=694154 lb1=721320 lb=731108
+2026-10-29 04:29:12 START sep:dragon_2000_1 (0.7 GB)
+2026-10-29 04:29:12 OK sep:buddha_1000_1 2s peak=0.06GB steps=246224 lb1=251480 lb=252698
+2026-10-29 04:29:12 START sep:bunny_900_1 (0.4 GB)
+2026-10-29 04:29:13 OK sep:shell_900_1 1s peak=0.05GB steps=231246 lb1=237511 lb=237924
+2026-10-29 04:29:13 START sep:armadillo_900_1 (0.4 GB)
+2026-10-29 04:29:14 OK sep:bunny_900_1 1s peak=0.05GB steps=219238 lb1=223279 lb=224143
+2026-10-29 04:29:14 START sep:dragon_900_1 (0.4 GB)
+2026-10-29 04:29:15 OK sep:armadillo_900_1 1s peak=0.05GB steps=193945 lb1=198293 lb=199123
+2026-10-29 04:29:15 START sep:buddha_900_1 (0.4 GB)
+2026-10-29 04:29:15 OK sep:dragon_900_1 1s peak=0.05GB steps=197491 lb1=201597 lb=202804
+2026-10-29 04:29:15 START sep:uniform_800_1 (0.4 GB)
+2026-10-29 04:29:16 OK sep:buddha_900_1 1s peak=0.05GB steps=208801 lb1=212954 lb=213898
+2026-10-29 04:29:16 START part:uniform_800_1 (0.4 GB)
+2026-10-29 04:29:16 OK sep:uniform_800_1 1s peak=0.08GB steps=286203 lb1=286499 lb=286500
+2026-10-29 04:29:16 START sep:gauss_800_1 (0.4 GB)
+2026-10-29 04:29:17 OK sep:gauss_800_1 1s peak=0.08GB steps=292943 lb1=293528 lb=293529
+2026-10-29 04:29:17 START sep:cluster_800_1 (0.4 GB)
+2026-10-29 04:29:18 OK sep:cluster_800_1 1s peak=0.01GB steps=25925 lb1=28477 lb=29074
+2026-10-29 04:29:18 START sep:grid_800_1 (0.4 GB)
+2026-10-29 04:29:18 OK sep:armadillo_2000_1 8s peak=0.17GB steps=626735 lb1=651489 lb=660333
+2026-10-29 04:29:18 START sep:buddha_2000_1 (0.7 GB)
+2026-10-29 04:29:20 OK sep:grid_800_1 1s peak=0.08GB steps=319600 lb1=319600 lb=319600
+2026-10-29 04:29:20 START sep:spiral_800_1 (0.4 GB)
+2026-10-29 04:29:20 OK sep:dragon_2000_1 7s peak=0.17GB steps=651979 lb1=675613 lb=684037
+2026-10-29 04:29:20 START part:bunny_1000_1 (0.4 GB)
+2026-10-29 04:29:20 OK sep:spiral_800_1 1s peak=0.01GB steps=15833 lb1=16136 lb=16278
+2026-10-29 04:29:20 START part:armadillo_1000_1 (0.4 GB)
+2026-10-29 04:29:21 OK part:uniform_800_1 4s peak=0.11GB 295540 292014 286607 286600 305958 298330
+2026-10-29 04:29:21 START part:dragon_1000_1 (0.4 GB)
+2026-10-29 04:29:26 OK sep:buddha_2000_1 7s peak=0.17GB steps=687345 lb1=711039 lb=718854
+2026-10-29 04:29:26 START part:buddha_1000_1 (0.4 GB)
+2026-10-29 04:29:28 OK sep:gauss_3000_1 17s peak=0.62GB steps=3418381 lb1=3447885 lb=3451477
+2026-10-29 04:29:28 START sep:cluster_3000_1 (1.1 GB)
+2026-10-29 04:29:30 OK part:dragon_1000_1 9s peak=0.11GB 289889 262627 243498 243297 349293 275653
+2026-10-29 04:29:30 START part:uniform_900_1 (0.4 GB)
+2026-10-29 04:29:31 OK part:bunny_1000_1 11s peak=0.12GB 315509 293973 268268 267932 383061 326974
+2026-10-29 04:29:31 START part:gauss_900_1 (0.4 GB)
+2026-10-29 04:29:31 OK part:armadillo_1000_1 11s peak=0.11GB 279437 253556 235486 235153 348317 271832
+2026-10-29 04:29:31 START part:cluster_900_1 (0.4 GB)
+2026-10-29 04:29:32 OK part:cluster_900_1 1s peak=0.03GB 53209 43584 41575 41797 98691 46362
+2026-10-29 04:29:32 START part:grid_900_1 (0.4 GB)
+2026-10-29 04:29:34 OK part:grid_900_1 2s peak=0.14GB 404550 404550 404550 404550 404550 404550
+2026-10-29 04:29:34 START part:spiral_900_1 (0.4 GB)
+2026-10-29 04:29:34 OK part:spiral_900_1 0s peak=0.02GB 23783 21259 19610 19974 37272 21549
+2026-10-29 04:29:34 START part:shell_900_1 (0.4 GB)
+2026-10-29 04:29:35 OK part:uniform_900_1 5s peak=0.13GB 371728 366268 357002 357005 385464 375480
+2026-10-29 04:29:35 START part:bunny_900_1 (0.4 GB)
+2026-10-29 04:29:36 OK part:gauss_900_1 5s peak=0.13GB 376427 373782 369496 369496 387078 380499
+2026-10-29 04:29:36 START part:armadillo_900_1 (0.4 GB)
+2026-10-29 04:29:36 OK part:buddha_1000_1 10s peak=0.11GB 298674 273252 256318 255875 357206 285346
+2026-10-29 04:29:36 START part:dragon_900_1 (0.4 GB)
+2026-10-29 04:29:42 OK part:shell_900_1 7s peak=0.11GB 278002 259537 240171 239945 327738 279291
+2026-10-29 04:29:42 START part:buddha_900_1 (0.4 GB)
+2026-10-29 04:29:44 OK part:dragon_900_1 8s peak=0.08GB 243510 219587 205380 205294 288250 227832
+2026-10-29 04:29:44 START part:gauss_800_1 (0.4 GB)
+2026-10-29 04:29:44 OK part:armadillo_900_1 8s peak=0.08GB 237796 215031 202168 201964 292261 228718
+2026-10-29 04:29:44 START part:uniform_2000_1 (0.9 GB)
+2026-10-29 04:29:44 OK sep:cluster_3000_1 16s peak=0.11GB steps=298093 lb1=334444 lb=345899
+2026-10-29 04:29:44 START sep:grid_3000_1 (1.1 GB)
+2026-10-29 04:29:44 OK part:bunny_900_1 10s peak=0.10GB 261918 242946 226465 226194 316309 268521
+2026-10-29 04:29:44 START part:cluster_800_1 (0.4 GB)
+2026-10-29 04:29:45 OK part:cluster_800_1 1s peak=0.03GB 41715 34454 32637 32829 78541 36650
+2026-10-29 04:29:45 START part:grid_800_1 (0.4 GB)
+2026-10-29 04:29:46 OK part:grid_800_1 1s peak=0.12GB 319600 319600 319600 319600 319600 319600
+2026-10-29 04:29:46 START part:spiral_800_1 (0.4 GB)
+2026-10-29 04:29:47 OK part:gauss_800_1 3s peak=0.12GB 299457 297141 293574 293574 305802 300570
+2026-10-29 04:29:47 START sep:shell_800_1 (0.4 GB)
+2026-10-29 04:29:47 OK part:spiral_800_1 0s peak=0.01GB 20628 18494 17187 17431 32238 18957
+2026-10-29 04:29:47 START part:shell_800_1 (0.4 GB)
+2026-10-29 04:29:48 OK sep:shell_800_1 1s peak=0.05GB steps=188015 lb1=192820 lb=193037
+2026-10-29 04:29:48 START sep:bunny_800_1 (0.4 GB)
+2026-10-29 04:29:48 OK part:buddha_900_1 7s peak=0.08GB 249236 228037 216636 216373 297083 236100
+2026-10-29 04:29:48 START part:bunny_800_1 (0.4 GB)
+2026-10-29 04:29:49 OK sep:bunny_800_1 1s peak=0.05GB steps=184314 lb1=187150 lb=187573
+2026-10-29 04:29:49 START sep:armadillo_800_1 (0.4 GB)
+2026-10-29 04:29:50 OK sep:armadillo_800_1 1s peak=0.04GB steps=162306 lb1=165374 lb=166138
+2026-10-29 04:29:50 START part:armadillo_800_1 (0.4 GB)
+2026-10-29 04:29:54 OK part:shell_800_1 7s peak=0.08GB 223954 207904 194435 194256 265136 220604
+2026-10-29 04:29:54 START sep:dragon_800_1 (0.4 GB)
+2026-10-29 04:29:54 OK part:bunny_800_1 6s peak=0.07GB 215296 200104 189086 188849 254135 216852
+2026-10-29 04:29:54 START part:dragon_800_1 (0.4 GB)
+2026-10-29 04:29:55 OK sep:dragon_800_1 1s peak=0.04GB steps=166228 lb1=169764 lb=170626
+2026-10-29 04:29:55 START sep:buddha_800_1 (0.4 GB)
+2026-10-29 04:29:56 OK sep:buddha_800_1 1s peak=0.05GB steps=173615 lb1=176721 lb=177402
+2026-10-29 04:29:56 START part:buddha_800_1 (0.4 GB)
+2026-10-29 04:29:57 OK part:armadillo_800_1 8s peak=0.07GB 195407 177065 168355 168123 238430 187571
+2026-10-29 04:29:57 START sep:uniform_700_1 (0.3 GB)
+2026-10-29 04:29:58 OK sep:uniform_700_1 1s peak=0.05GB steps=223864 lb1=224072 lb=224072
+2026-10-29 04:29:58 START part:uniform_700_1 (0.4 GB)
+2026-10-29 04:30:00 OK sep:grid_3000_1 16s peak=0.93GB steps=4493641 lb1=4493777 lb=4493825
+2026-10-29 04:30:00 START sep:spiral_3000_1 (1.1 GB)
+2026-10-29 04:30:00 OK part:dragon_800_1 6s peak=0.07GB 202839 183047 172431 172259 236247 186651
+2026-10-29 04:30:00 START sep:gauss_700_1 (0.3 GB)
+2026-10-29 04:30:01 OK sep:gauss_700_1 1s peak=0.05GB steps=227089 lb1=227418 lb=227419
+2026-10-29 04:30:01 START part:gauss_700_1 (0.4 GB)
+2026-10-29 04:30:02 OK part:uniform_700_1 3s peak=0.07GB 229918 227192 224086 224086 235803 229987
+2026-10-29 04:30:02 START sep:cluster_700_1 (0.3 GB)
+2026-10-29 04:30:02 OK part:buddha_800_1 6s peak=0.07GB 201881 185490 179368 179221 237967 191095
+2026-10-29 04:30:02 START part:cluster_700_1 (0.4 GB)
+2026-10-29 04:30:02 OK part:cluster_700_1 0s peak=0.02GB 32946 27201 26019 26128 63202 29633
+2026-10-29 04:30:02 START sep:grid_700_1 (0.3 GB)
+2026-10-29 04:30:02 OK sep:cluster_700_1 1s peak=0.01GB steps=21036 lb1=22887 lb=23390
+2026-10-29 04:30:02 START part:grid_700_1 (0.4 GB)
+2026-10-29 04:30:03 OK sep:grid_700_1 1s peak=0.05GB steps=244650 lb1=244650 lb=244650
+2026-10-29 04:30:03 START sep:spiral_700_1 (0.3 GB)
+2026-10-29 04:30:03 OK part:grid_700_1 1s peak=0.08GB 244650 244650 244650 244650 244650 244650
+2026-10-29 04:30:03 START part:spiral_700_1 (0.4 GB)
+2026-10-29 04:30:04 OK part:spiral_700_1 0s peak=0.01GB 17466 15997 14835 15005 27929 16357
+2026-10-29 04:30:04 START sep:shell_700_1 (0.3 GB)
+2026-10-29 04:30:04 OK sep:spiral_700_1 1s peak=0.01GB steps=13814 lb1=14030 lb=14152
+2026-10-29 04:30:04 START part:shell_700_1 (0.4 GB)
+2026-10-29 04:30:04 OK part:gauss_700_1 2s peak=0.08GB 233734 230559 227446 227446 235307 230988
+2026-10-29 04:30:04 START sep:bunny_700_1 (0.3 GB)
+2026-10-29 04:30:04 OK sep:shell_700_1 1s peak=0.04GB steps=149008 lb1=152419 lb=152601
+2026-10-29 04:30:04 START part:bunny_700_1 (0.4 GB)
+2026-10-29 04:30:05 OK sep:bunny_700_1 1s peak=0.04GB steps=149333 lb1=151560 lb=151925
+2026-10-29 04:30:05 START sep:armadillo_700_1 (0.3 GB)
+2026-10-29 04:30:05 OK sep:armadillo_700_1 1s peak=0.04GB steps=133299 lb1=135407 lb=135827
+2026-10-29 04:30:05 START part:armadillo_700_1 (0.4 GB)
+2026-10-29 04:30:08 OK part:shell_700_1 4s peak=0.06GB 175229 161684 153552 153451 203134 167801
+2026-10-29 04:30:08 START sep:dragon_700_1 (0.3 GB)
+2026-10-29 04:30:09 OK sep:dragon_700_1 1s peak=0.04GB steps=133495 lb1=135858 lb=136302
+2026-10-29 04:30:09 START part:dragon_700_1 (0.4 GB)
+2026-10-29 04:30:09 OK part:bunny_700_1 5s peak=0.06GB 172606 160376 152837 152633 195798 168628
+2026-10-29 04:30:09 START sep:buddha_700_1 (0.3 GB)
+2026-10-29 04:30:10 OK part:armadillo_700_1 4s peak=0.06GB 157018 142317 137216 137011 190114 149088
+2026-10-29 04:30:10 START part:buddha_700_1 (0.4 GB)
+2026-10-29 04:30:10 OK sep:buddha_700_1 1s peak=0.04GB steps=137551 lb1=139818 lb=140184
+2026-10-29 04:30:10 START sep:uniform_600_1 (0.3 GB)
+2026-10-29 04:30:10 OK part:uniform_2000_1 26s peak=0.41GB 1673079 1657707 1533877 1533790 1796646 1762607
+2026-10-29 04:30:10 START part:gauss_2000_1 (0.9 GB)
+2026-10-29 04:30:11 OK sep:uniform_600_1 1s peak=0.04GB steps=166026 lb1=166079 lb=166079
+2026-10-29 04:30:11 START part:uniform_600_1 (0.4 GB)
+2026-10-29 04:30:11 OK sep:spiral_3000_1 11s peak=0.05GB steps=59004 lb1=60273 lb=61372
+2026-10-29 04:30:11 START sep:shell_3000_1 (1.1 GB)
+2026-10-29 04:30:12 OK part:uniform_600_1 2s peak=0.06GB 168859 167214 166080 166080 174305 169216
+2026-10-29 04:30:12 START sep:gauss_600_1 (0.3 GB)
+2026-10-29 04:30:13 OK sep:gauss_600_1 1s peak=0.04GB steps=167902 lb1=168125 lb=168125
+2026-10-29 04:30:13 START part:gauss_600_1 (0.4 GB)
+2026-10-29 04:30:13 OK part:buddha_700_1 3s peak=0.06GB 158945 145642 141504 141393 186882 149521
+2026-10-29 04:30:13 START sep:cluster_600_1 (0.3 GB)
+2026-10-29 04:30:14 OK part:dragon_700_1 5s peak=0.06GB 159740 143305 137572 137489 186322 146743
+2026-10-29 04:30:14 START part:cluster_600_1 (0.4 GB)
+2026-10-29 04:30:14 OK sep:cluster_600_1 1s peak=0.01GB steps=15815 lb1=17161 lb=17560
+2026-10-29 04:30:14 START sep:grid_600_1 (0.3 GB)
+2026-10-29 04:30:14 OK part:cluster_600_1 0s peak=0.02GB 24632 20322 19621 19797 45800 21882
+2026-10-29 04:30:14 START part:grid_600_1 (0.4 GB)
+2026-10-29 04:30:14 OK sep:grid_600_1 1s peak=0.04GB steps=179700 lb1=179700 lb=179700
+2026-10-29 04:30:14 START sep:spiral_600_1 (0.3 GB)
+2026-10-29 04:30:15 OK part:grid_600_1 1s peak=0.07GB 179700 179700 179700 179700 179700 179700
+2026-10-29 04:30:15 START part:spiral_600_1 (0.4 GB)
+2026-10-29 04:30:15 OK sep:spiral_600_1 0s peak=0.01GB steps=11877 lb1=12052 lb=12162
+2026-10-29 04:30:15 START sep:shell_600_1 (0.3 GB)
+2026-10-29 04:30:15 OK part:spiral_600_1 0s peak=0.01GB 14946 13751 12718 12871 23789 13953
+2026-10-29 04:30:15 START part:shell_600_1 (0.4 GB)
+2026-10-29 04:30:15 OK part:gauss_600_1 2s peak=0.06GB 171792 169911 168138 168137 173539 170858
+2026-10-29 04:30:15 START sep:bunny_600_1 (0.3 GB)
+2026-10-29 04:30:15 OK sep:shell_600_1 1s peak=0.03GB steps=113714 lb1=115925 lb=116062
+2026-10-29 04:30:15 START part:bunny_600_1 (0.4 GB)
+2026-10-29 04:30:16 OK sep:bunny_600_1 1s peak=0.03GB steps=115680 lb1=117113 lb=117398
+2026-10-29 04:30:16 START sep:armadillo_600_1 (0.3 GB)
+2026-10-29 04:30:16 OK sep:armadillo_600_1 1s peak=0.03GB steps=104965 lb1=106453 lb=106690
+2026-10-29 04:30:16 START part:armadillo_600_1 (0.4 GB)
+2026-10-29 04:30:18 OK part:shell_600_1 3s peak=0.04GB 130200 120353 116526 116438 149977 124258
+2026-10-29 04:30:18 START sep:dragon_600_1 (0.3 GB)
+2026-10-29 04:30:18 OK part:bunny_600_1 3s peak=0.04GB 130799 121904 117803 117743 148356 125985
+2026-10-29 04:30:18 START part:dragon_600_1 (0.4 GB)
+2026-10-29 04:30:19 OK sep:dragon_600_1 1s peak=0.03GB steps=103470 lb1=104892 lb=105136
+2026-10-29 04:30:19 START sep:buddha_600_1 (0.3 GB)
+2026-10-29 04:30:19 OK part:armadillo_600_1 3s peak=0.04GB 120448 110102 107485 107305 144092 114454
+2026-10-29 04:30:19 START part:buddha_600_1 (0.4 GB)
+2026-10-29 04:30:19 OK sep:buddha_600_1 1s peak=0.03GB steps=107643 lb1=109276 lb=109533
+2026-10-29 04:30:19 START part:uniform_500_1 (0.3 GB)
+2026-10-29 04:30:20 OK part:dragon_600_1 2s peak=0.04GB 121296 109219 105906 105853 138266 110641
+2026-10-29 04:30:20 START part:gauss_500_1 (0.3 GB)
+2026-10-29 04:30:21 OK part:uniform_500_1 1s peak=0.04GB 119324 117682 117060 117060 121810 118636
+2026-10-29 04:30:21 START part:cluster_500_1 (0.3 GB)
+2026-10-29 04:30:21 OK part:cluster_500_1 0s peak=0.01GB 17169 14224 13796 13883 31055 15358
+2026-10-29 04:30:21 START part:grid_500_1 (0.3 GB)
+2026-10-29 04:30:21 OK part:buddha_600_1 2s peak=0.04GB 123472 112834 110354 110250 143070 114441
+2026-10-29 04:30:21 START part:spiral_500_1 (0.3 GB)
+2026-10-29 04:30:21 OK part:spiral_500_1 0s peak=0.01GB 12271 11063 10172 10205 18420 11078
+2026-10-29 04:30:21 START part:shell_500_1 (0.3 GB)
+2026-10-29 04:30:21 OK part:grid_500_1 1s peak=0.04GB 124750 124750 124750 124750 124750 124750
+2026-10-29 04:30:21 START part:bunny_500_1 (0.3 GB)
+2026-10-29 04:30:22 OK part:gauss_500_1 1s peak=0.04GB 119498 118635 118121 118121 121321 119240
+2026-10-29 04:30:22 START part:armadillo_500_1 (0.3 GB)
+2026-10-29 04:30:23 OK part:shell_500_1 2s peak=0.04GB 95440 87995 86127 86114 106946 89736
+2026-10-29 04:30:23 START part:dragon_500_1 (0.3 GB)
+2026-10-29 04:30:23 OK part:bunny_500_1 2s peak=0.04GB 93982 87571 86096 86091 106181 89807
+2026-10-29 04:30:23 START part:buddha_500_1 (0.3 GB)
+2026-10-29 04:30:23 OK part:armadillo_500_1 2s peak=0.03GB 88446 81798 80590 80505 103667 84125
+2026-10-29 04:30:23 START sep:spiral_400_1 (0.3 GB)
+2026-10-29 04:30:24 OK sep:spiral_400_1 0s peak=0.01GB steps=7726 lb1=7809 lb=7877
+2026-10-29 04:30:24 START part:spiral_400_1 (0.3 GB)
+2026-10-29 04:30:24 OK part:spiral_400_1 0s peak=0.01GB 9589 8691 8107 8131 14177 8711
+2026-10-29 04:30:24 START sep:shell_400_1 (0.3 GB)
+2026-10-29 04:30:24 OK sep:shell_400_1 0s peak=0.02GB steps=58037 lb1=58625 lb=58636
+2026-10-29 04:30:24 START part:shell_400_1 (0.3 GB)
+2026-10-29 04:30:25 OK part:dragon_500_1 2s peak=0.04GB 86805 79585 78151 78120 98983 80333
+2026-10-29 04:30:25 START sep:bunny_400_1 (0.3 GB)
+2026-10-29 04:30:25 OK part:buddha_500_1 2s peak=0.03GB 91431 83574 81959 81886 102769 83933
+2026-10-29 04:30:25 START part:bunny_400_1 (0.3 GB)
+2026-10-29 04:30:25 OK sep:bunny_400_1 0s peak=0.02GB steps=57514 lb1=58011 lb=58160
+2026-10-29 04:30:25 START sep:armadillo_400_1 (0.3 GB)
+2026-10-29 04:30:25 OK part:shell_400_1 1s peak=0.02GB 63663 59257 58734 58730 69779 59806
+2026-10-29 04:30:25 START part:armadillo_400_1 (0.3 GB)
+2026-10-29 04:30:25 OK sep:armadillo_400_1 0s peak=0.02GB steps=54455 lb1=54960 lb=54968
+2026-10-29 04:30:25 START sep:dragon_400_1 (0.3 GB)
+2026-10-29 04:30:26 OK sep:dragon_400_1 0s peak=0.02GB steps=52359 lb1=53023 lb=53060
+2026-10-29 04:30:26 START part:dragon_400_1 (0.3 GB)
+2026-10-29 04:30:26 OK part:bunny_400_1 1s peak=0.02GB 63091 58627 58200 58193 69281 58976
+2026-10-29 04:30:26 START sep:buddha_400_1 (0.3 GB)
+2026-10-29 04:30:26 OK part:armadillo_400_1 1s peak=0.02GB 59088 55334 55142 55075 66636 56033
+2026-10-29 04:30:26 START part:buddha_400_1 (0.3 GB)
+2026-10-29 04:30:26 OK sep:buddha_400_1 0s peak=0.02GB steps=56133 lb1=56615 lb=56627
+2026-10-29 04:30:26 START sep:uniform_300_1 (0.3 GB)
+2026-10-29 04:30:26 OK sep:uniform_300_1 0s peak=0.01GB steps=43223 lb1=43229 lb=43229
+2026-10-29 04:30:26 START part:uniform_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:dragon_400_1 1s peak=0.02GB 57505 53738 53300 53264 65838 53939
+2026-10-29 04:30:27 START sep:gauss_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK sep:gauss_300_1 0s peak=0.02GB steps=43461 lb1=43490 lb=43490
+2026-10-29 04:30:27 START part:gauss_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:uniform_300_1 1s peak=0.02GB 43695 43250 43229 43229 43965 43236
+2026-10-29 04:30:27 START sep:cluster_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:buddha_400_1 1s peak=0.02GB 61820 57252 56780 56741 69684 57442
+2026-10-29 04:30:27 START part:cluster_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK sep:cluster_300_1 0s peak=0.01GB steps=6840 lb1=7241 lb=7418
+2026-10-29 04:30:27 START sep:grid_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:cluster_300_1 0s peak=0.01GB 10249 8426 8030 8063 17064 8795
+2026-10-29 04:30:27 START part:grid_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK sep:grid_300_1 0s peak=0.02GB steps=44850 lb1=44850 lb=44850
+2026-10-29 04:30:27 START sep:spiral_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:gauss_300_1 1s peak=0.02GB 43884 43519 43494 43492 44044 43504
+2026-10-29 04:30:27 START part:spiral_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK sep:spiral_300_1 0s peak=0.01GB steps=5665 lb1=5688 lb=5741
+2026-10-29 04:30:27 START sep:shell_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:grid_300_1 0s peak=0.02GB 44850 44850 44850 44850 44850 44850
+2026-10-29 04:30:27 START part:shell_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK part:spiral_300_1 0s peak=0.01GB 6804 6228 5877 5881 9303 6253
+2026-10-29 04:30:27 START sep:bunny_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK sep:shell_300_1 0s peak=0.01GB steps=35080 lb1=35338 lb=35338
+2026-10-29 04:30:27 START part:bunny_300_1 (0.3 GB)
+2026-10-29 04:30:27 OK sep:bunny_300_1 0s peak=0.01GB steps=34460 lb1=34633 lb=34732
+2026-10-29 04:30:27 START sep:armadillo_300_1 (0.3 GB)
+2026-10-29 04:30:28 OK sep:armadillo_300_1 0s peak=0.01GB steps=33196 lb1=33389 lb=33408
+2026-10-29 04:30:28 START part:armadillo_300_1 (0.3 GB)
+2026-10-29 04:30:28 OK part:shell_300_1 0s peak=0.02GB 37842 35394 35362 35363 40190 35471
+2026-10-29 04:30:28 START sep:dragon_300_1 (0.3 GB)
+2026-10-29 04:30:28 OK part:bunny_300_1 1s peak=0.02GB 37363 34811 34741 34740 40007 34786
+2026-10-29 04:30:28 START part:dragon_300_1 (0.3 GB)
+2026-10-29 04:30:28 OK sep:dragon_300_1 0s peak=0.02GB steps=31819 lb1=32176 lb=32195
+2026-10-29 04:30:28 START sep:buddha_300_1 (0.3 GB)
+2026-10-29 04:30:28 OK part:armadillo_300_1 1s peak=0.02GB 35399 33545 33496 33493 38384 33568
+2026-10-29 04:30:28 START part:buddha_300_1 (0.3 GB)
+2026-10-29 04:30:28 OK sep:buddha_300_1 0s peak=0.01GB steps=34001 lb1=34156 lb=34161
+2026-10-29 04:30:28 START sep:uniform_200_1 (0.3 GB)
+2026-10-29 04:30:28 OK sep:uniform_200_1 0s peak=0.01GB steps=19653 lb1=19653 lb=19653
+2026-10-29 04:30:28 START part:uniform_200_1 (0.3 GB)
+2026-10-29 04:30:28 OK sep:shell_3000_1 17s peak=0.32GB steps=1402688 lb1=1483177 lb=1506629
+2026-10-29 04:30:28 START sep:bunny_3000_1 (1.1 GB)
+2026-10-29 04:30:28 OK part:uniform_200_1 0s peak=0.01GB 19679 19653 19653 19653 19728 19653
+2026-10-29 04:30:28 START sep:gauss_200_1 (0.3 GB)
+2026-10-29 04:30:28 OK sep:gauss_200_1 0s peak=0.01GB steps=19527 lb1=19547 lb=19547
+2026-10-29 04:30:28 START part:gauss_200_1 (0.3 GB)
+2026-10-29 04:30:28 OK part:dragon_300_1 1s peak=0.02GB 34788 32352 32312 32295 38115 32433
+2026-10-29 04:30:28 START sep:cluster_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:cluster_200_1 0s peak=0.01GB steps=3509 lb1=3728 lb=3795
+2026-10-29 04:30:29 START part:cluster_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:cluster_200_1 0s peak=0.01GB 4669 4191 4078 4093 8785 4487
+2026-10-29 04:30:29 START sep:grid_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:gauss_200_1 0s peak=0.01GB 19638 19555 19549 19548 19668 19556
+2026-10-29 04:30:29 START part:grid_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:grid_200_1 0s peak=0.01GB steps=19900 lb1=19900 lb=19900
+2026-10-29 04:30:29 START sep:spiral_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:buddha_300_1 0s peak=0.02GB 35940 34281 34223 34216 39584 34348
+2026-10-29 04:30:29 START part:spiral_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:spiral_200_1 0s peak=0.01GB 4116 3862 3693 3695 5847 3868
+2026-10-29 04:30:29 START sep:shell_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:spiral_200_1 0s peak=0.01GB steps=3586 lb1=3608 lb=3638
+2026-10-29 04:30:29 START part:shell_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:grid_200_1 0s peak=0.01GB 19900 19900 19900 19900 19900 19900
+2026-10-29 04:30:29 START sep:bunny_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:shell_200_1 0s peak=0.01GB steps=17167 lb1=17249 lb=17249
+2026-10-29 04:30:29 START part:bunny_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:bunny_200_1 0s peak=0.01GB steps=16615 lb1=16676 lb=16740
+2026-10-29 04:30:29 START sep:armadillo_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:shell_200_1 0s peak=0.01GB 17971 17251 17249 17249 18282 17257
+2026-10-29 04:30:29 START part:armadillo_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:armadillo_200_1 0s peak=0.01GB steps=16143 lb1=16245 lb=16247
+2026-10-29 04:30:29 START sep:dragon_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:bunny_200_1 0s peak=0.01GB 17358 16752 16744 16744 18388 16753
+2026-10-29 04:30:29 START part:dragon_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:armadillo_200_1 0s peak=0.01GB 16894 16250 16257 16255 18008 16287
+2026-10-29 04:30:29 START sep:buddha_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK sep:dragon_200_1 0s peak=0.02GB steps=15848 lb1=15888 lb=15889
+2026-10-29 04:30:29 START part:buddha_200_1 (0.3 GB)
+2026-10-29 04:30:29 OK part:dragon_200_1 0s peak=0.02GB 16603 15906 15890 15889 17738 15899
+2026-10-29 04:30:29 OK sep:buddha_200_1 0s peak=0.01GB steps=16006 lb1=16027 lb=16027
+2026-10-29 04:30:29 START part:cluster_2000_1 (0.9 GB)
+2026-10-29 04:30:29 OK part:buddha_200_1 0s peak=0.01GB 17049 16048 16040 16037 17905 16041
+2026-10-29 04:30:30 OK part:gauss_2000_1 20s peak=0.43GB 1750709 1743389 1645922 1645849 1841970 1822389
+2026-10-29 04:30:30 START sep:armadillo_3000_1 (1.1 GB)
+2026-10-29 04:30:40 OK part:cluster_2000_1 11s peak=0.14GB 260951 210275 193083 195584 526351 244261
+2026-10-29 04:30:40 START part:grid_2000_1 (0.9 GB)
+2026-10-29 04:30:45 OK sep:bunny_3000_1 17s peak=0.28GB steps=1178472 lb1=1236748 lb=1263617
+2026-10-29 04:30:45 START sep:dragon_3000_1 (1.1 GB)
+2026-10-29 04:30:47 OK sep:armadillo_3000_1 17s peak=0.31GB steps=1087280 lb1=1144094 lb=1166719
+2026-10-29 04:30:47 START sep:buddha_3000_1 (1.1 GB)
+2026-10-29 04:30:48 OK part:grid_2000_1 8s peak=0.49GB 1998993 1998989 1998988 1998988 1999000 1999000
+2026-10-29 04:30:48 START part:spiral_2000_1 (0.9 GB)
+2026-10-29 04:30:49 OK part:spiral_2000_1 1s peak=0.03GB 52008 47685 44342 46625 84476 48990
+2026-10-29 04:30:49 START part:shell_2000_1 (0.9 GB)
+2026-10-29 04:31:01 OK sep:dragon_3000_1 16s peak=0.32GB steps=1156868 lb1=1207549 lb=1227780
+2026-10-29 04:31:01 START part:bunny_2000_1 (0.9 GB)
+2026-10-29 04:31:04 OK sep:buddha_3000_1 17s peak=0.28GB steps=1228270 lb1=1282836 lb=1303410
+2026-10-29 04:31:04 START part:armadillo_2000_1 (0.9 GB)
+2026-10-29 04:31:23 OK part:shell_2000_1 34s peak=0.40GB 1073842 1044914 857726 856212 1495365 1363942
+2026-10-29 04:31:23 START part:dragon_2000_1 (0.9 GB)
+2026-10-29 04:31:36 OK part:bunny_2000_1 34s peak=0.32GB 961574 932304 757497 758512 1290037 1196372
+2026-10-29 04:31:36 START part:buddha_2000_1 (0.9 GB)
+2026-10-29 04:31:36 OK part:armadillo_2000_1 32s peak=0.30GB 853087 816945 687219 689916 1178830 1011208
+2026-10-29 04:32:00 OK part:dragon_2000_1 37s peak=0.31GB 877218 828778 709946 714467 1203848 987532
+2026-10-29 04:32:00 START alpha:uniform_400_1 (2.2 GB)
+2026-10-29 04:32:00 OK alpha:uniform_400_1 0s peak=0.07GB 76107 optimal=1
+2026-10-29 04:32:00 START opt:uniform_400_1 (2.2 GB)
+2026-10-29 04:32:00 OK opt:uniform_400_1 0s peak=0.12GB 76107 optimal=1
+2026-10-29 04:32:00 START alpha:gauss_400_1 (2.2 GB)
+2026-10-29 04:32:00 OK alpha:gauss_400_1 0s peak=0.07GB 76120 optimal=1
+2026-10-29 04:32:00 START opt:gauss_400_1 (2.2 GB)
+2026-10-29 04:32:00 OK opt:gauss_400_1 0s peak=0.12GB 76120 optimal=1
+2026-10-29 04:32:00 START alpha:cluster_400_1 (2.2 GB)
+2026-10-29 04:32:12 OK part:buddha_2000_1 37s peak=0.31GB 925007 875463 742391 744299 1232519 1022963
+2026-10-29 04:32:23 OK alpha:cluster_400_1 23s peak=1.16GB 9265 optimal=1
+2026-10-29 04:32:23 START opt:cluster_400_1 (2.2 GB)
+2026-10-29 04:32:28 OK opt:cluster_400_1 4s peak=1.15GB 9338 optimal=1
+2026-10-29 04:32:28 START alpha:grid_400_1 (2.2 GB)
+2026-10-29 04:32:28 OK alpha:grid_400_1 0s peak=0.06GB 79800 optimal=1
+2026-10-29 04:32:28 START opt:grid_400_1 (2.2 GB)
+2026-10-29 04:32:28 OK opt:grid_400_1 0s peak=0.11GB 79800 optimal=1
+2026-10-29 04:32:28 START alpha:spiral_400_1 (2.7 GB)
+2026-10-29 04:32:31 OK sep:cluster_10000_1 250s peak=0.88GB steps=2897032 lb1=3274932 lb=3404580
+2026-10-29 04:32:31 START sep:grid_10000_1 (9.3 GB)
+2026-10-29 04:32:31 OK sep:uniform_10000_1 290s peak=4.45GB steps=21372715 lb1=22222406 lb=22460755
+2026-10-29 04:32:31 START sep:spiral_10000_1 (9.3 GB)
+2026-10-29 04:32:39 OK sep:gauss_10000_1 291s peak=5.01GB steps=25369961 lb1=26148751 lb=26380462
+2026-10-29 04:32:39 START sep:shell_10000_1 (9.3 GB)
+2026-10-29 04:32:58 OK alpha:spiral_400_1 30s peak=0.58GB 7904 optimal=1
+2026-10-29 04:32:58 START opt:spiral_400_1 (2.7 GB)
+2026-10-29 04:33:22 OK opt:spiral_400_1 24s peak=0.57GB 7904 optimal=1
+2026-10-29 04:33:22 START alpha:shell_400_1 (2.2 GB)
+2026-10-29 04:33:22 OK alpha:shell_400_1 0s peak=0.09GB 58636 optimal=1
+2026-10-29 04:33:22 START opt:shell_400_1 (2.2 GB)
+2026-10-29 04:33:22 OK opt:shell_400_1 0s peak=0.12GB 58651 optimal=1
+2026-10-29 04:33:22 START alpha:bunny_400_1 (2.2 GB)
+2026-10-29 04:33:22 OK alpha:bunny_400_1 0s peak=0.09GB 58160 optimal=1
+2026-10-29 04:33:22 START opt:bunny_400_1 (2.2 GB)
+2026-10-29 04:33:23 OK opt:bunny_400_1 0s peak=0.12GB 58173 optimal=1
+2026-10-29 04:33:23 START alpha:armadillo_400_1 (2.2 GB)
+2026-10-29 04:33:23 OK alpha:armadillo_400_1 0s peak=0.09GB 54968 optimal=1
+2026-10-29 04:33:23 START opt:armadillo_400_1 (2.2 GB)
+2026-10-29 04:33:23 OK opt:armadillo_400_1 0s peak=0.12GB 54998 optimal=1
+2026-10-29 04:33:23 START alpha:dragon_400_1 (2.2 GB)
+2026-10-29 04:33:23 OK alpha:dragon_400_1 0s peak=0.09GB 53060 optimal=1
+2026-10-29 04:33:23 START opt:dragon_400_1 (2.2 GB)
+2026-10-29 04:33:24 OK opt:dragon_400_1 0s peak=0.12GB 53073 optimal=1
+2026-10-29 04:33:24 START alpha:buddha_400_1 (2.2 GB)
+2026-10-29 04:33:24 OK alpha:buddha_400_1 0s peak=0.09GB 56627 optimal=1
+2026-10-29 04:33:24 START opt:buddha_400_1 (2.2 GB)
+2026-10-29 04:33:24 OK opt:buddha_400_1 0s peak=0.12GB 56647 optimal=1
+2026-10-29 04:33:24 START sep:uniform_5000_1 (2.5 GB)
+2026-10-29 04:33:52 OK part:cluster_10000_1 329s peak=2.89GB 5636730 5370928 3980491 4137611 11908248 10354295
+2026-10-29 04:33:52 START part:grid_10000_1 (14.3 GB)
+2026-10-29 04:34:21 OK sep:uniform_5000_1 57s peak=1.31GB steps=7190433 lb1=7369389 lb=7396582
+2026-10-29 04:34:21 START sep:gauss_5000_1 (2.5 GB)
+2026-10-29 04:34:35 OK sep:spiral_10000_1 124s peak=0.49GB steps=197463 lb1=201332 lb=205044
+2026-10-29 04:34:35 START sep:bunny_10000_1 (9.3 GB)
+2026-10-29 04:35:19 OK sep:gauss_5000_1 58s peak=1.80GB steps=8198162 lb1=8338165 lb=8363134
+2026-10-29 04:35:19 START sep:cluster_5000_1 (2.5 GB)
+2026-10-29 04:35:57 OK sep:cluster_5000_1 38s peak=0.28GB steps=782060 lb1=877260 lb=908724
+2026-10-29 04:35:57 START sep:grid_5000_1 (2.5 GB)
+2026-10-29 04:36:42 OK sep:grid_5000_1 45s peak=2.25GB steps=12213640 lb1=12228225 lb=12235918
+2026-10-29 04:36:42 START sep:spiral_5000_1 (2.5 GB)
+2026-10-29 04:36:52 OK part:gauss_10000_1 510s peak=9.97GB 33422046 33392749 27116812 27130225 40133415 40041028
+2026-10-29 04:36:52 START part:spiral_10000_1 (14.3 GB)
+2026-10-29 04:37:00 OK part:uniform_10000_1 558s peak=9.81GB 29789968 29744510 23206103 23317420 39193863 39040203
+2026-10-29 04:37:00 START part:shell_10000_1 (14.3 GB)
+2026-10-29 04:37:12 OK sep:spiral_5000_1 30s peak=0.13GB steps=97873 lb1=99918 lb=101764
+2026-10-29 04:37:12 START sep:shell_5000_1 (2.5 GB)
+2026-10-29 04:37:14 OK part:spiral_10000_1 22s peak=0.18GB 270097 247015 229554 249270 440514 251574
+2026-10-29 04:37:14 START part:bunny_10000_1 (14.3 GB)
+2026-10-29 04:37:20 OK sep:grid_10000_1 289s peak=8.42GB steps=42307084 lb1=42843626 lb=43162457
+2026-10-29 04:37:20 START sep:armadillo_10000_1 (9.3 GB)
+2026-10-29 04:37:58 OK sep:shell_5000_1 45s peak=0.67GB steps=2902376 lb1=3104343 lb=3185317
+2026-10-29 04:37:58 START sep:bunny_5000_1 (2.5 GB)
+2026-10-29 04:38:18 OK sep:shell_10000_1 338s peak=2.16GB steps=7505096 lb1=8106144 lb=8393924
+2026-10-29 04:38:18 START sep:dragon_10000_1 (9.3 GB)
+2026-10-29 04:39:05 OK sep:bunny_5000_1 67s peak=0.63GB steps=2285319 lb1=2433121 lb=2509500
+2026-10-29 04:39:05 START sep:armadillo_5000_1 (2.5 GB)
+2026-10-29 04:40:18 OK sep:armadillo_5000_1 73s peak=0.60GB steps=2113244 lb1=2246514 lb=2309732
+2026-10-29 04:40:18 START sep:dragon_5000_1 (2.5 GB)
+2026-10-29 04:40:26 OK sep:bunny_10000_1 350s peak=1.53GB steps=5367765 lb1=5773888 lb=6057357
+2026-10-29 04:40:26 START sep:buddha_10000_1 (9.3 GB)
+2026-10-29 04:41:14 OK sep:dragon_5000_1 56s peak=0.62GB steps=2264322 lb1=2388985 lb=2446541
+2026-10-29 04:41:14 START sep:buddha_5000_1 (2.5 GB)
+2026-10-29 04:41:59 OK sep:buddha_5000_1 45s peak=0.59GB steps=2469214 lb1=2612393 lb=2671193
+2026-10-29 04:41:59 START sep:uniform_4000_1 (1.7 GB)
+2026-10-29 04:42:28 OK sep:uniform_4000_1 28s peak=1.02GB steps=4999797 lb1=5098020 lb=5110077
+2026-10-29 04:42:28 START part:uniform_4000_1 (2.5 GB)
+2026-10-29 04:43:23 OK sep:dragon_10000_1 306s peak=1.47GB steps=5329245 lb1=5702823 lb=5905498
+2026-10-29 04:43:23 START sep:uniform_9000_1 (7.6 GB)
+2026-10-29 04:43:23 START sep:gauss_4000_1 (1.7 GB)
+2026-10-29 04:43:55 OK sep:gauss_4000_1 32s peak=1.09GB steps=5622851 lb1=5693293 lb=5704490
+2026-10-29 04:43:55 START sep:cluster_4000_1 (1.7 GB)
+2026-10-29 04:44:03 OK part:bunny_10000_1 409s peak=4.74GB 10098420 10006434 7466965 8530005 18414206 17825498
+2026-10-29 04:44:03 START part:armadillo_10000_1 (14.3 GB)
+2026-10-29 04:44:18 OK sep:armadillo_10000_1 418s peak=1.43GB steps=4953525 lb1=5328317 lb=5550792
+2026-10-29 04:44:18 START sep:gauss_9000_1 (7.6 GB)
+2026-10-29 04:44:18 START sep:grid_4000_1 (1.7 GB)
+2026-10-29 04:44:23 OK part:uniform_4000_1 115s peak=1.56GB 5999464 5976623 5149905 5150316 6830716 6750223
+2026-10-29 04:44:23 START part:gauss_4000_1 (2.5 GB)
+2026-10-29 04:44:26 OK sep:cluster_4000_1 31s peak=0.21GB steps=533364 lb1=599140 lb=620615
+2026-10-29 04:44:26 START sep:spiral_4000_1 (1.7 GB)
+2026-10-29 04:44:45 OK sep:spiral_4000_1 19s peak=0.08GB steps=78475 lb1=80056 lb=81605
+2026-10-29 04:44:45 START sep:shell_4000_1 (1.7 GB)
+2026-10-29 04:44:46 OK sep:grid_4000_1 28s peak=1.35GB steps=7946683 lb1=7948997 lb=7949970
+2026-10-29 04:44:46 START sep:bunny_4000_1 (1.7 GB)
+2026-10-29 04:44:52 OK part:shell_10000_1 472s peak=5.48GB 14135558 14053762 9924405 10908027 22718073 22462711
+2026-10-29 04:44:52 START part:dragon_10000_1 (14.3 GB)
+2026-10-29 04:45:17 OK sep:bunny_4000_1 32s peak=0.38GB steps=1723723 lb1=1823179 lb=1871048
+2026-10-29 04:45:17 START sep:armadillo_4000_1 (1.7 GB)
+2026-10-29 04:45:21 OK part:grid_10000_1 689s peak=11.56GB 45378912 45334384 43971030 44228697 49352514 48617885
+2026-10-29 04:45:21 START part:buddha_10000_1 (14.3 GB)
+2026-10-29 04:45:21 OK sep:shell_4000_1 36s peak=0.58GB steps=2132156 lb1=2270742 lb=2321351
+2026-10-29 04:45:21 START sep:dragon_4000_1 (1.7 GB)
+2026-10-29 04:45:50 OK part:gauss_4000_1 87s peak=1.59GB 6470507 6457411 5740954 5740405 7035133 7002705
+2026-10-29 04:45:50 START part:cluster_4000_1 (2.5 GB)
+2026-10-29 04:45:51 OK sep:armadillo_4000_1 34s peak=0.35GB steps=1588792 lb1=1681539 lb=1723085
+2026-10-29 04:45:51 START sep:buddha_4000_1 (1.7 GB)
+2026-10-29 04:45:54 OK sep:dragon_4000_1 32s peak=0.37GB steps=1689581 lb1=1776387 lb=1814651
+2026-10-29 04:45:54 START part:uniform_3000_1 (1.6 GB)
+2026-10-29 04:46:22 OK sep:buddha_4000_1 30s peak=0.38GB steps=1822928 lb1=1920664 lb=1957021
+2026-10-29 04:46:22 START part:gauss_3000_1 (1.6 GB)
+2026-10-29 04:46:35 OK sep:buddha_10000_1 370s peak=1.53GB steps=5913492 lb1=6343504 lb=6574714
+2026-10-29 04:46:35 START sep:cluster_9000_1 (7.6 GB)
+2026-10-29 04:46:35 START part:grid_4000_1 (2.5 GB)
+2026-10-29 04:46:46 OK part:uniform_3000_1 52s peak=0.87GB 3537560 3520685 3123487 3123438 3912470 3851584
+2026-10-29 04:46:46 START part:cluster_3000_1 (1.6 GB)
+2026-10-29 04:46:47 OK part:cluster_4000_1 56s peak=0.50GB 985120 855591 718079 732947 2019072 1200290
+2026-10-29 04:46:47 START part:spiral_4000_1 (2.5 GB)
+2026-10-29 04:46:51 OK part:spiral_4000_1 4s peak=0.06GB 106631 97986 90896 97972 174727 99819
+2026-10-29 04:46:51 START part:shell_4000_1 (2.5 GB)
+2026-10-29 04:47:03 OK part:gauss_3000_1 42s peak=0.94GB 3787783 3780972 3463885 3463502 4033821 4012457
+2026-10-29 04:47:03 START part:grid_3000_1 (1.6 GB)
+2026-10-29 04:47:14 OK part:cluster_3000_1 28s peak=0.29GB 538619 449663 397087 402737 1111474 564734
+2026-10-29 04:47:14 START part:spiral_3000_1 (1.6 GB)
+2026-10-29 04:47:15 OK sep:uniform_9000_1 232s peak=3.97GB steps=18115489 lb1=18789112 lb=18962988
+2026-10-29 04:47:15 START sep:grid_9000_1 (7.6 GB)
+2026-10-29 04:47:16 OK part:spiral_3000_1 3s peak=0.04GB 80346 73681 68109 72595 129661 75005
+2026-10-29 04:47:16 START part:shell_3000_1 (1.6 GB)
+2026-10-29 04:47:27 OK part:grid_4000_1 52s peak=1.80GB 7965434 7961996 7953018 7953913 7998000 7991253
+2026-10-29 04:47:27 START part:bunny_4000_1 (2.5 GB)
+2026-10-29 04:47:28 OK part:grid_3000_1 25s peak=1.20GB 4495398 4495063 4493985 4494029 4498500 4498019
+2026-10-29 04:47:28 START part:bunny_3000_1 (1.6 GB)
+2026-10-29 04:48:03 OK sep:gauss_9000_1 226s peak=4.36GB steps=21501340 lb1=22099370 lb=22274811
+2026-10-29 04:48:03 START sep:spiral_9000_1 (7.6 GB)
+2026-10-29 04:48:25 OK part:shell_3000_1 69s peak=0.72GB 2096509 2054945 1593507 1595611 3036912 2911040
+2026-10-29 04:48:25 START part:armadillo_3000_1 (1.6 GB)
+2026-10-29 04:48:34 OK part:bunny_3000_1 66s peak=0.63GB 1751292 1713452 1341260 1353807 2530875 2338433
+2026-10-29 04:48:34 START part:dragon_3000_1 (1.6 GB)
+2026-10-29 04:48:47 OK part:shell_4000_1 116s peak=1.24GB 3398432 3348491 2503755 2527797 4977821 4772344
+2026-10-29 04:48:47 START part:armadillo_4000_1 (2.5 GB)
+2026-10-29 04:49:20 OK part:bunny_4000_1 113s peak=0.94GB 2721497 2673187 2031963 2074862 4069405 3833913
+2026-10-29 04:49:20 START part:dragon_4000_1 (2.5 GB)
+2026-10-29 04:49:38 OK part:dragon_3000_1 64s peak=0.66GB 1682230 1615237 1298413 1319578 2408158 2179943
+2026-10-29 04:49:38 START part:buddha_3000_1 (1.6 GB)
+2026-10-29 04:49:39 OK part:armadillo_3000_1 74s peak=0.65GB 1600258 1547753 1242405 1260928 2350562 2109347
+2026-10-29 04:49:49 OK sep:spiral_9000_1 106s peak=0.40GB steps=177482 lb1=181082 lb=184359
+2026-10-29 04:49:49 START sep:shell_9000_1 (7.6 GB)
+2026-10-29 04:49:55 OK sep:cluster_9000_1 199s peak=0.76GB steps=2396628 lb1=2705270 lb=2810624
+2026-10-29 04:49:55 START sep:bunny_9000_1 (7.6 GB)
+2026-10-29 04:50:33 OK part:armadillo_4000_1 107s peak=0.89GB 2498340 2429593 1879222 1933199 3777318 3490359
+2026-10-29 04:50:33 START sep:uniform_6000_1 (3.5 GB)
+2026-10-29 04:50:44 OK part:buddha_3000_1 66s peak=0.67GB 1735427 1674940 1371907 1386681 2498243 2231924
+2026-10-29 04:50:46 OK sep:grid_9000_1 212s peak=7.50GB steps=35441312 lb1=35777713 lb=36000160
+2026-10-29 04:50:46 START sep:armadillo_9000_1 (7.6 GB)
+2026-10-29 04:50:53 OK part:armadillo_10000_1 410s peak=3.68GB 9261054 9125407 6671332 7541099 16604687 15804996
+2026-10-29 04:50:53 START part:uniform_9000_1 (11.6 GB)
+2026-10-29 04:50:53 START sep:uniform_7000_1 (4.7 GB)
+2026-10-29 04:51:00 OK part:dragon_4000_1 101s peak=0.92GB 2579785 2507117 1954844 2007704 3953248 3569484
+2026-10-29 04:51:00 START part:buddha_4000_1 (2.5 GB)
+2026-10-29 04:51:55 OK part:dragon_10000_1 423s peak=3.71GB 9575356 9444900 6887415 7635101 16748378 16042329
+2026-10-29 04:51:55 START part:gauss_9000_1 (11.6 GB)
+2026-10-29 04:52:04 OK sep:uniform_6000_1 91s peak=2.02GB steps=9652148 lb1=9916725 lb=9968267
+2026-10-29 04:52:04 START sep:uniform_8000_1 (6.1 GB)
+2026-10-29 04:52:41 OK part:buddha_10000_1 440s peak=4.71GB 10556469 10415208 7620373 8306142 18160813 17392899
+2026-10-29 04:52:41 START part:cluster_9000_1 (11.6 GB)
+2026-10-29 04:52:51 OK part:buddha_4000_1 110s peak=0.95GB 2717692 2643574 2094446 2135294 4089050 3728655
+2026-10-29 04:52:51 START sep:gauss_7000_1 (4.7 GB)
+2026-10-29 04:53:00 OK sep:uniform_7000_1 127s peak=2.44GB steps=12330811 lb1=12722239 lb=12805799
+2026-10-29 04:53:00 START sep:cluster_7000_1 (4.7 GB)
+2026-10-29 04:54:10 OK sep:bunny_9000_1 255s peak=1.37GB steps=4733630 lb1=5089121 lb=5329087
+2026-10-29 04:54:10 START sep:dragon_9000_1 (7.6 GB)
+2026-10-29 04:54:14 OK sep:shell_9000_1 265s peak=1.95GB steps=6518362 lb1=7031826 lb=7274154
+2026-10-29 04:54:14 START sep:buddha_9000_1 (7.6 GB)
+2026-10-29 04:54:36 OK sep:cluster_7000_1 95s peak=0.49GB steps=1499689 lb1=1690725 lb=1751401
+2026-10-29 04:54:36 START sep:grid_7000_1 (4.7 GB)
+2026-10-29 04:54:49 OK sep:gauss_7000_1 118s peak=2.66GB steps=14324363 lb1=14650367 lb=14731921
+2026-10-29 04:54:49 START sep:spiral_7000_1 (4.7 GB)
+2026-10-29 04:54:57 OK sep:uniform_8000_1 173s peak=2.79GB steps=15072848 lb1=15598180 lb=15722782
+2026-10-29 04:54:57 START sep:gauss_8000_1 (6.1 GB)
+2026-10-29 04:55:50 OK sep:spiral_7000_1 61s peak=0.24GB steps=137133 lb1=139881 lb=142524
+2026-10-29 04:55:50 START sep:shell_7000_1 (4.7 GB)
+2026-10-29 04:55:52 OK sep:armadillo_9000_1 305s peak=1.28GB steps=4370014 lb1=4692771 lb=4881507
+2026-10-29 04:55:52 START sep:cluster_8000_1 (6.1 GB)
+2026-10-29 04:56:17 OK sep:grid_7000_1 102s peak=4.39GB steps=22789076 lb1=22891576 lb=22955650
+2026-10-29 04:56:17 START sep:grid_8000_1 (6.1 GB)
+2026-10-29 04:57:06 OK part:cluster_9000_1 264s peak=2.25GB 4642900 4394679 3283018 3407185 9743760 8277049
+2026-10-29 04:57:06 START part:grid_9000_1 (11.6 GB)
+2026-10-29 04:57:37 OK sep:gauss_8000_1 159s peak=3.84GB steps=17802681 lb1=18263191 lb=18383947
+2026-10-29 04:57:37 START sep:spiral_8000_1 (6.1 GB)
+2026-10-29 04:58:03 OK part:uniform_9000_1 430s peak=7.08GB 24789347 24747267 19503118 19567424 32084343 31958852
+2026-10-29 04:58:03 START part:spiral_9000_1 (11.6 GB)
+2026-10-29 04:58:06 OK sep:dragon_9000_1 237s peak=1.32GB steps=4717254 lb1=5038122 lb=5207745
+2026-10-29 04:58:06 START sep:shell_8000_1 (6.1 GB)
+2026-10-29 04:58:13 OK part:gauss_9000_1 378s peak=7.25GB 27831637 27801335 22800779 22807887 33011143 32921214
+2026-10-29 04:58:13 START part:shell_9000_1 (11.6 GB)
+2026-10-29 04:58:19 OK sep:shell_7000_1 148s peak=1.26GB steps=4641016 lb1=4981373 lb=5137545
+2026-10-29 04:58:19 START sep:bunny_8000_1 (6.1 GB)
+2026-10-29 04:58:21 OK part:spiral_9000_1 19s peak=0.15GB 243141 222310 205993 223675 397134 226165
+2026-10-29 04:58:21 START part:bunny_9000_1 (11.6 GB)
+2026-10-29 04:58:30 OK sep:cluster_8000_1 158s peak=0.64GB steps=1906611 lb1=2149441 lb=2232586
+2026-10-29 04:58:30 START sep:armadillo_8000_1 (6.1 GB)
+2026-10-29 04:58:50 OK sep:grid_8000_1 152s peak=5.14GB steps=28996377 lb1=29185717 lb=29303168
+2026-10-29 04:58:50 START sep:dragon_8000_1 (6.1 GB)
+2026-10-29 04:58:57 OK sep:spiral_8000_1 81s peak=0.32GB steps=157074 lb1=160266 lb=163212
+2026-10-29 04:58:57 START sep:buddha_8000_1 (6.1 GB)
+2026-10-29 04:59:01 OK sep:buddha_9000_1 287s peak=1.37GB steps=5187682 lb1=5555289 lb=5747232
+2026-10-29 04:59:01 START part:uniform_7000_1 (7.2 GB)
+2026-10-29 05:01:14 OK sep:shell_8000_1 188s peak=1.37GB steps=5542948 lb1=5968722 lb=6165168
+2026-10-29 05:01:14 START part:gauss_7000_1 (7.2 GB)
+2026-10-29 05:01:52 OK sep:bunny_8000_1 214s peak=1.22GB steps=4100826 lb1=4400673 lb=4595036
+2026-10-29 05:01:52 START sep:bunny_7000_1 (4.7 GB)
+2026-10-29 05:01:57 OK sep:dragon_8000_1 187s peak=1.18GB steps=4075796 lb1=4346567 lb=4484907
+2026-10-29 05:01:57 START part:cluster_7000_1 (7.2 GB)
+2026-10-29 05:02:30 OK sep:armadillo_8000_1 240s peak=1.15GB steps=3778985 lb1=4051068 lb=4203682
+2026-10-29 05:02:30 START sep:armadillo_7000_1 (4.7 GB)
+2026-10-29 05:02:30 OK sep:buddha_8000_1 212s peak=1.22GB steps=4475409 lb1=4785310 lb=4940400
+2026-10-29 05:02:30 START part:grid_7000_1 (7.2 GB)
+2026-10-29 05:03:42 OK part:uniform_7000_1 281s peak=5.01GB 16011189 15973669 13062994 13080512 20033126 19956920
+2026-10-29 05:03:42 START part:spiral_7000_1 (7.2 GB)
+2026-10-29 05:03:53 OK part:spiral_7000_1 12s peak=0.11GB 186829 171410 159225 172667 305512 174605
+2026-10-29 05:03:53 START part:shell_7000_1 (7.2 GB)
+2026-10-29 05:04:29 OK sep:bunny_7000_1 156s peak=1.07GB steps=3471571 lb1=3721078 lb=3873196
+2026-10-29 05:04:29 START sep:dragon_7000_1 (4.7 GB)
+2026-10-29 05:04:41 OK part:bunny_9000_1 380s peak=3.49GB 8786401 8697423 6455652 7228172 15534793 15038425
+2026-10-29 05:04:41 START part:armadillo_9000_1 (11.6 GB)
+2026-10-29 05:04:46 OK part:cluster_7000_1 169s peak=1.48GB 2843053 2637683 2036134 2097883 5980820 4652218
+2026-10-29 05:04:46 START part:bunny_7000_1 (7.2 GB)
+2026-10-29 05:05:11 OK part:gauss_7000_1 237s peak=5.11GB 17847137 17828244 14966595 14967795 20602771 20543480
+2026-10-29 05:05:11 START part:armadillo_7000_1 (7.2 GB)
+2026-10-29 05:05:35 OK part:shell_9000_1 442s peak=4.87GB 12065242 11987025 8494355 9190938 19201592 18876675
+2026-10-29 05:05:35 START part:dragon_9000_1 (11.6 GB)
+2026-10-29 05:05:40 OK sep:armadillo_7000_1 190s peak=0.83GB steps=3217824 lb1=3445443 lb=3565976
+2026-10-29 05:05:40 START sep:buddha_7000_1 (4.7 GB)
+2026-10-29 05:06:37 OK part:grid_9000_1 571s peak=9.96GB 37481689 37439865 36512587 36674787 40047388 39538404
+2026-10-29 05:06:37 START part:buddha_9000_1 (11.6 GB)
+2026-10-29 05:06:50 OK sep:dragon_7000_1 141s peak=1.05GB steps=3461836 lb1=3675372 lb=3784072
+2026-10-29 05:06:50 START part:uniform_6000_1 (5.3 GB)
+2026-10-29 05:08:21 OK sep:buddha_7000_1 161s peak=1.08GB steps=3783757 lb1=4033381 lb=4154886
+2026-10-29 05:08:21 START sep:gauss_6000_1 (3.5 GB)
+2026-10-29 05:08:29 OK part:shell_7000_1 275s peak=3.00GB 8252559 8184271 5846172 6141469 12716913 12246837
+2026-10-29 05:08:29 START part:dragon_7000_1 (7.2 GB)
+2026-10-29 05:09:12 OK part:armadillo_7000_1 241s peak=2.46GB 5555711 5456596 4105641 4426192 9564968 9051769
+2026-10-29 05:09:12 START part:buddha_7000_1 (7.2 GB)
+2026-10-29 05:09:23 OK part:bunny_7000_1 277s peak=2.59GB 6182106 6107861 4510151 4851624 10300756 9965599
+2026-10-29 05:09:23 START part:gauss_6000_1 (5.3 GB)
+2026-10-29 05:09:26 OK part:grid_7000_1 416s peak=5.74GB 23497329 23447025 23120123 23168236 24293880 24071977
+2026-10-29 05:09:26 START part:uniform_8000_1 (9.3 GB)
+2026-10-29 05:09:48 OK sep:gauss_6000_1 87s peak=2.19GB steps=11192545 lb1=11412388 lb=11461281
+2026-10-29 05:09:48 START sep:cluster_6000_1 (3.5 GB)
+2026-10-29 05:10:09 OK part:armadillo_9000_1 328s peak=3.26GB 7996111 7867666 5787022 6432756 14178087 13470568
+2026-10-29 05:10:09 START part:gauss_8000_1 (9.3 GB)
+2026-10-29 05:10:09 START sep:grid_6000_1 (3.5 GB)
+2026-10-29 05:10:28 OK part:uniform_6000_1 218s peak=3.33GB 12309514 12276175 10121157 10129068 14926738 14869409
+2026-10-29 05:10:28 START part:cluster_6000_1 (5.3 GB)
+2026-10-29 05:11:11 OK sep:cluster_6000_1 83s peak=0.40GB steps=1096565 lb1=1234049 lb=1279171
+2026-10-29 05:11:11 START sep:spiral_6000_1 (3.5 GB)
+2026-10-29 05:11:12 OK part:dragon_9000_1 337s peak=3.30GB 8348136 8226165 6008024 6574920 14384107 13778301
+2026-10-29 05:11:12 START part:cluster_8000_1 (9.3 GB)
+2026-10-29 05:11:21 OK sep:grid_6000_1 71s peak=3.63GB steps=17232988 lb1=17277193 lb=17301302
+2026-10-29 05:11:21 START part:grid_6000_1 (5.3 GB)
+2026-10-29 05:11:57 OK sep:spiral_6000_1 47s peak=0.18GB steps=117469 lb1=119810 lb=122076
+2026-10-29 05:11:57 START sep:shell_6000_1 (3.5 GB)
+2026-10-29 05:12:08 OK part:gauss_6000_1 165s peak=3.41GB 13692013 13673928 11601336 11601702 15367701 15324134
+2026-10-29 05:12:08 START part:spiral_6000_1 (5.3 GB)
+2026-10-29 05:12:17 OK part:spiral_6000_1 9s peak=0.09GB 160024 146732 136274 147561 261162 149803
+2026-10-29 05:12:17 START part:shell_6000_1 (5.3 GB)
+2026-10-29 05:12:34 OK part:cluster_6000_1 126s peak=1.03GB 2056915 1871950 1490790 1532088 4289027 3080198
+2026-10-29 05:12:34 START sep:bunny_6000_1 (3.5 GB)
+2026-10-29 05:12:37 OK part:dragon_7000_1 249s peak=2.49GB 5846326 5743370 4265971 4550240 9736888 9224517
+2026-10-29 05:12:37 START part:grid_8000_1 (9.3 GB)
+2026-10-29 05:13:07 OK part:buddha_9000_1 390s peak=3.47GB 9014054 8887482 6591342 7102934 15402880 14689109
+2026-10-29 05:13:07 START part:spiral_8000_1 (9.3 GB)
+2026-10-29 05:13:22 OK part:spiral_8000_1 15s peak=0.13GB 215564 197004 182306 197654 349214 199878
+2026-10-29 05:13:22 START part:shell_8000_1 (9.3 GB)
+2026-10-29 05:13:39 OK sep:shell_6000_1 102s peak=1.01GB steps=3721553 lb1=3990684 lb=4104716
+2026-10-29 05:13:39 START part:bunny_6000_1 (5.3 GB)
+2026-10-29 05:13:41 OK part:buddha_7000_1 268s peak=2.58GB 6317936 6211485 4640485 4889055 10257547 9608559
+2026-10-29 05:13:41 START sep:armadillo_6000_1 (3.5 GB)
+2026-10-29 05:13:41 START sep:dragon_6000_1 (3.5 GB)
+2026-10-29 05:14:34 OK sep:bunny_6000_1 121s peak=0.70GB steps=2865425 lb1=3062140 lb=3174393
+2026-10-29 05:14:34 START sep:buddha_6000_1 (3.5 GB)
+2026-10-29 05:15:08 OK part:cluster_8000_1 236s peak=1.78GB 3667775 3435294 2603966 2693077 7693479 6314014
+2026-10-29 05:15:08 START part:bunny_8000_1 (9.3 GB)
+2026-10-29 05:15:28 OK sep:dragon_6000_1 107s peak=0.69GB steps=2858159 lb1=3027292 lb=3110083
+2026-10-29 05:15:28 START part:uniform_5000_1 (3.8 GB)
+2026-10-29 05:15:48 OK part:gauss_8000_1 339s peak=6.13GB 22698219 22670000 18747758 18751067 26549438 26478164
+2026-10-29 05:15:48 START part:armadillo_8000_1 (9.3 GB)
+2026-10-29 05:16:01 OK part:uniform_8000_1 395s peak=5.97GB 20093243 20054249 16103152 16139413 25640011 25542147
+2026-10-29 05:16:01 START part:dragon_8000_1 (9.3 GB)
+2026-10-29 05:16:01 OK sep:armadillo_6000_1 141s peak=0.66GB steps=2648546 lb1=2826521 lb=2915274
+2026-10-29 05:16:01 START part:gauss_5000_1 (3.8 GB)
+2026-10-29 05:16:04 OK part:shell_6000_1 227s peak=2.51GB 6408840 6346367 4600856 4759504 9853827 9451594
+2026-10-29 05:16:04 START part:armadillo_6000_1 (5.3 GB)
+2026-10-29 05:16:21 OK part:grid_6000_1 300s peak=4.59GB 17543068 17499515 17370163 17390712 17907832 17796082
+2026-10-29 05:16:21 START part:dragon_6000_1 (5.3 GB)
+2026-10-29 05:16:35 OK sep:buddha_6000_1 120s peak=0.71GB steps=3104943 lb1=3297405 lb=3386099
+2026-10-29 05:16:35 START part:cluster_5000_1 (3.8 GB)
+2026-10-29 05:17:20 OK part:bunny_6000_1 221s peak=1.81GB 4955097 4889035 3615087 3813264 8002487 7756304
+2026-10-29 05:17:20 START part:buddha_6000_1 (5.3 GB)
+2026-10-29 05:17:58 OK part:cluster_5000_1 84s peak=0.68GB 1460080 1304951 1054991 1082854 2959961 1946696
+2026-10-29 05:17:58 START part:grid_5000_1 (3.8 GB)
+2026-10-29 05:18:05 OK part:uniform_5000_1 157s peak=2.57GB 8880031 8852106 7478265 7480819 10519084 10448983
+2026-10-29 05:18:05 START part:spiral_5000_1 (3.8 GB)
+2026-10-29 05:18:11 OK part:spiral_5000_1 7s peak=0.07GB 133689 122290 113409 122574 214949 124245
+2026-10-29 05:18:11 START part:shell_5000_1 (3.8 GB)
+2026-10-29 05:18:20 OK part:gauss_5000_1 138s peak=2.62GB 9751560 9735086 8440115 8439843 10790603 10751562
+2026-10-29 05:18:20 START part:bunny_5000_1 (3.8 GB)
+2026-10-29 05:19:29 OK part:armadillo_6000_1 205s peak=1.72GB 4497037 4405301 3302711 3503196 7434887 7000362
+2026-10-29 05:19:29 START part:armadillo_5000_1 (3.8 GB)
+2026-10-29 05:19:44 OK part:shell_8000_1 382s peak=3.55GB 10101940 10025083 7109801 7576714 15916006 15489154
+2026-10-29 05:19:44 START part:buddha_8000_1 (9.3 GB)
+2026-10-29 05:19:50 OK part:dragon_6000_1 208s peak=1.75GB 4663814 4569626 3456125 3638437 7646726 7175228
+2026-10-29 05:19:50 START part:dragon_5000_1 (3.8 GB)
+2026-10-29 05:20:17 OK part:grid_8000_1 460s peak=6.99GB 30236185 30188176 29601232 29691738 31519845 31231906
+2026-10-29 05:20:17 START part:buddha_5000_1 (3.8 GB)
+2026-10-29 05:20:20 OK part:grid_5000_1 142s peak=2.93GB 12311217 12294032 12259555 12266252 12468994 12428533
+2026-10-29 05:20:49 OK part:buddha_6000_1 209s peak=1.81GB 5026940 4928969 3738486 3897079 7955881 7370141
+2026-10-29 05:20:53 OK part:bunny_5000_1 153s peak=1.44GB 3757206 3701632 2792833 2895081 5878218 5673183
+2026-10-29 05:21:03 OK part:shell_5000_1 171s peak=1.68GB 4797566 4741867 3502352 3574425 7250865 6956340
+2026-10-29 05:21:05 OK part:dragon_8000_1 304s peak=2.87GB 7035592 6927820 5110260 5522828 11921626 11380483
+2026-10-29 05:21:20 OK part:bunny_8000_1 371s peak=3.03GB 7525714 7444517 5462177 5993000 12875813 12450179
+2026-10-29 05:21:22 OK part:armadillo_8000_1 334s peak=2.84GB 6699229 6589316 4916378 5384108 11744202 11111769
+2026-10-29 05:21:48 OK part:armadillo_5000_1 139s peak=1.38GB 3447227 3366345 2571714 2685770 5491152 5153158
+2026-10-29 05:22:14 OK part:dragon_5000_1 145s peak=1.42GB 3569601 3490324 2675751 2780330 5735031 5289972
+2026-10-29 05:22:38 OK part:buddha_5000_1 141s peak=1.46GB 3861104 3771746 2905082 2995238 5954874 5463818
+2026-10-29 05:24:25 OK part:buddha_8000_1 281s peak=3.01GB 7644889 7523233 5594909 5959443 12761699 12047914
+2026-10-29 05:24:25 END

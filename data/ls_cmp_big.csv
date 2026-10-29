@@ -1,0 +1,7 @@
+gen,n,seed,eps,algo,size,valid,time,info
+euro-night-0050000.instance,50000,0,0.05,ls-ck-lns,21396507,ok,5032.89,start=22257316;tBuild=3.566020;lsSetup=12.823867;lsFinish=1.107869;tPrune=13.538698;lsTime=5000.047420;rounds=220131;reshapeMoves=0;reshapeKills=0;lnsCalls=219689;lnsGain=782823;extraKills=442
+cluster,50000,1,0.05,ls-ck-lns,36792034,ok,5042.09,start=38238956;tBuild=5.653048;lsSetup=13.088181;lsFinish=1.489690;tPrune=18.706859;lsTime=5000.331373;rounds=287386;reshapeMoves=0;reshapeKills=0;lnsCalls=286722;lnsGain=1288592;extraKills=664
+uniform,50000,1,0.05,ls-ck-lns,40651226,ok,5043.31,start=42231495;tBuild=6.022817;lsSetup=12.333229;lsFinish=1.576863;tPrune=20.297557;lsTime=5000.031566;rounds=295057;reshapeMoves=0;reshapeKills=0;lnsCalls=294364;lnsGain=1399722;extraKills=693
+euro-night-0050000.instance,50000,0,0.05,ls-sweep-lns,16857186,ok,5348.13,start=16912611;tBuild=281.679805;lsSetup=34.892615;lsFinish=2.774084;tPrune=27.184212;lsTime=5000.291082;rounds=76976;reshapeMoves=0;reshapeKills=0;lnsCalls=76967;lnsGain=50797;extraKills=9
+uniform,50000,1,0.05,ls-sweep-lns,31478787,ok,5438.68,start=31619558;tBuild=357.552524;lsSetup=38.892222;lsFinish=3.171767;tPrune=37.515790;lsTime=5000.001007;rounds=109550;reshapeMoves=0;reshapeKills=0;lnsCalls=109514;lnsGain=122158;extraKills=36
+cluster,50000,1,0.05,ls-sweep-lns,28705792,ok,5432.68,start=28838421;tBuild=353.535553;lsSetup=37.536929;lsFinish=3.208729;tPrune=36.266287;lsTime=5000.008268;rounds=108335;reshapeMoves=0;reshapeKills=0;lnsCalls=108299;lnsGain=116482;extraKills=36
